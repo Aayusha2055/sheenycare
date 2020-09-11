@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Skin Care Importance"
+author: Aayusha
+categories: [ Skin Care, Lifestyle ]
+tags: [ Face, Body ]
+image: assets/images/skincareimportance.jpg
+rating: 4.5
+description: ""
+---
+
+I have seen plenty of people struggling with their skin. People my age here in Nepal seem to forever struggle with acne and pores. However, women after pregnancy seem to struggle with both acne as well hyperpigmentation. Despite the skin care study having discovered multiple ingredients that deal with several skin problems, people still seem to be unaware of what actually works for their skin. And that is why skin care has become so important to me that it made me curious of all that there is to research and know about it.
+
+I have a very normal skin in the summer, whereas extremely dry and flaky skin in the winter. I however do not suffer from acne other than hormonal ones. I would layer my skin with plenty of moisturisers that did nothing to my flaky skin and I wouldn't bother to study about it anywhere. About a year ago, I decided to start studying my skin type and what my skin is actually asking for. No, it wasn’t the water because I have dry but not dehydrated skin. 
+
+There’s a very peculiar difference between dry and dehydrated skin. The dry skin is a result of lack of oil or lipids whereas dehydrated skin is the result of lack of water in the stratum corneum, which is the top layer of the skin. But remember, you need to have dry skin to have dehydrated skin.
+
+But hey, let’s not have both of them and try to get a very healthy and normal skin.
+
+Since I was struggling with flaky skins on random parts of my face, I decided to make a routine that would help me overcome it. And the answer wasn’t oil on my dry skin. It was using the right products in my skin and starting a routine that is very simple yet cost effective.
+
+Other than that, one small difference I made in my skin was never skipping sunscreen. I often skipped it while being indoors. Little did I know, I was ruining my skin. 
+
+One of the major problems I faced while starting my skin care was choosing the right products. And of course, if you know Hyram, you want to try all the Hyram suggestions. But I was 10,000 miles away from buying all the Hyram Suggestions. That’s when I decided to search for ingredients that are as gentle as water and wouldn’t harm my skin in the long run.
+
+Today, I feel proud of myself for taking a step forward to maintaining healthy skin. It’s not difficult as it seems and there’s so much to learn about one’s own skin
