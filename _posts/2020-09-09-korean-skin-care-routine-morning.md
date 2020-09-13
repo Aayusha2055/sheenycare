@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The 8 Step Korean Skin Care Routine for Morning"
+title:  "8 Step Korean Skin Care Routine for Morning"
 author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Korean Skin Care, Morning Skin Care Routine ]

@@ -45,6 +45,14 @@
 <lastmod>2020-09-09T00:00:00+05:45</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/ordinary-skin-care-routine-acne-prone-skin/</loc>
+<lastmod>2020-09-11T00:00:00+05:45</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ordinary-skin-care-routine/</loc>
+<lastmod>2020-09-13T00:00:00+05:45</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -67,5 +75,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page3/</loc>
 </url>
 </urlset>
