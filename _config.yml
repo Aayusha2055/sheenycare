@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'www-sheenycare-com'
-# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://gmail.us17.list-manage.com/subscribe/post?u=50f5361ddb4ad63e8f907f2f7&amp;id=e840b1eaa7'
 include: ["_pages"]
 permalink: /:title/
 email: sheenycare@gmail.com
