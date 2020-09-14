@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Skin Care For Combination Skin"
+title:  "Skin Care Routine For Combination Skin"
 author: Swikriti
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Combination Skin ]
