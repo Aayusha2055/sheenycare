@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Dry Skin Causes and Treatment"
+title:  "Dry Skin Causes, Treatment and Solution to How to Get Rid of It"
 author: Aayusha
 categories: [ Skin Care]
 tags: [Dry Skin, Body ]
 image: assets/images/dryskincausesandtreatment.jpg
 rating: 4.5
-description: "Dry Skin Causes and Treatment"
+description: "Medically known as Xerosis, dry skin is not usually serious and is caused by the temperature and humidity level around you.
+If you have dry skin, you might notice small fine flakes, cracking and dry patches in your skin."
 ---
 
-Medically known as Xerosis, dry skin is not usually serious and is caused by the temperature and humidity level around you.
-
+Medically known as <a href="https://www.google.com/search?client=ubuntu&hs=vFO&channel=fs&sxsrf=ALeKk007fKIeJB7-hc3giB9k_cOeTndJ0Q%3A1600055212508&ei=rOdeX8_VHuac4-EP5Je2yAo&q=Xerosis&oq=Xerosis&gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgQIABBDMgQIABBDMgIIADICCAAyAggAMgIIADICCAA6BAgAEEdQ2Ks3WNirN2CrrjdoAHACeACAAYYCiAGGApIBAzItMZgBAKABAqABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab&ved=0ahUKEwjP27-U3ufrAhVmzjgGHeSLDakQ4dUDCAw&uact=5" rel="nofollow" target="_blank">Xerosis</a>, dry skin is not usually serious and is caused by the temperature and humidity level around you.
 If you have dry skin, you might notice small fine flakes, cracking and dry patches in your skin.
 
 # What is dry skin?
@@ -56,4 +56,4 @@ Someone with dry skin should make sure they moisturise their skin daily. Few of 
 * Pat dry your skin after shower.
 * Use a hydrating and moisturising soaps and body wash while showering.
 
-If you have dry skin and need personal suggestions, check out [dry skin care routine](https://sheenycare.com/skin-care-rotine-for-dry-skin/).
+If you have dry skin and need personal suggestions, check out [dry skin care routine](https://sheenycare.com/skin-care-rotine-for-dry-skin/) {:target="_blank"}.

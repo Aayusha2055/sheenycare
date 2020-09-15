@@ -10,9 +10,13 @@ description: "The Ordinary Skin Care Routine is effective, as all ordinary produ
 
 ---
 
-The ordinary skincare products have a specific regimen for acne-prone skin.<a href="https://www.sheenycare.com/tags#Skin-Care-Routine" rel="dofollow" target="_blank">Skin Care Routines</a> are simple to make and follow. It is a combination of simple steps, cleanse, tone, antioxidant serums, moisturizers, and sunscreen. Ordinary has a huge range of ordinary products with <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> that target acne-prone skin. Let's take a dig at Ordinary Skin Care Routine for acne-prone skin.
+The ordinary skincare products have specific skin care routine for acne-prone skin. 
 
-# Morning Ordinary Skin Care Routine
+<a href="https://www.sheenycare.com/tags#Skin-Care-Routine" rel="dofollow" target="_blank">Skin Care Routines</a> are simple to make and follow. It is a combination of simple steps, cleanse, tone, antioxidant serums, moisturizers, and sunscreen. Ordinary has a huge range of ordinary products with <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> that target acne-prone skin. 
+
+Let's take a dig at Ordinary Skin Care Routine for acne-prone skin.
+
+<!-- # Morning Ordinary Skin Care Routine
 
 Cleanse your skin, treat it, tone it, use water-based serums, emulsions, creams/oils/balms, sunscreen, and primer.
 
@@ -21,10 +25,10 @@ Cleanse your skin, treat it, tone it, use water-based serums, emulsions, creams/
 Double cleanse your skin, treat it, use an exfoliating toner or retinol, water-based serums, emulsions, and creams/oils/balms.
 
 
-But this information is too vague and confusing as it doesn't particularly target skin type and skin issues. Keep reading as we create a skincare routine for you based on what you're searching for.
+But this information is too vague and confusing as it doesn't particularly target skin type and skin issues. Keep reading as we create a skincare routine for you based on what you're searching for. -->
 
 
-# Ordinary Skin Care Routine for acne-prone skin for AM
+# Ordinary Skin Care Routine for dry and dehydrated skin for AM
 
 1. Cleanse
 2. <a href="https://www.cultbeauty.co.uk/the-ordinary-buffet-copper-peptides-1.html" target="_blank" rel="nofollow">Buffet + Copper Peptides 1%</a>
@@ -38,7 +42,7 @@ But this information is too vague and confusing as it doesn't particularly targe
 10. <a href="https://www.cultbeauty.co.uk/the-ordinary-coverage-foundation.html" target="_blank" rel="nofollow">Coveraging Foundation</a>
 
 
-# Ordinary Skin Care Routine for acne-prone skin for PM
+# Ordinary Skin Care Routine for dry and dehydrated skin for PM
 
 1. Double Cleanse - <a href="https://www.cultbeauty.co.uk/the-ordinary-squalene-cleanser.html" target="_blank" rel="nofollow">Squalene Clenser</a>
 2. <a href="https://www.cultbeauty.co.uk/the-ordinary-glycolic-acid-7-toning-solution.html" target="_blank" rel="nofollow">Glycolic Acid 7% Toning Solution</a>
