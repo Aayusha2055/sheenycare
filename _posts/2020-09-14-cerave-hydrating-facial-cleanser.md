@@ -4,9 +4,9 @@ title:  "CeraVe Hydrating Facial Cleanser, Everything you need to know, uses and
 author: Aayusha
 categories: [ Skin Care ]
 tags: [ Face, Cleanser, CeraVe ]
-image: assets/images/best-moisturisers.png
+image: assets/images/cerave-hydrating-cleanser.png
 rating: 4.5
-description: "The 15 best face moisturizers including the best facial moisturizers, tinted moirturizers for normal skin, oily skin, sensitive skin and very dry skin and best drugstore moisturizers."
+description: "CeraVe Hydrating Facial Cleanser works to gently cleanse the skin. It helps restore its protective barrier. It provides up to 24 hours of hydration. Most importantly, it is a great cleanser for dry and sensitive skin! "
 ---
 
 
