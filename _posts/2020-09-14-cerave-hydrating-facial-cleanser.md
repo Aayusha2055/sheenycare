@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CeraVe Hydrating Facial Cleanser, Everything you need to know, uses and ingredients"
-author: Aayusha
+author: Swikriti
 categories: [ Skin Care ]
 tags: [ Face, Cleanser, CeraVe ]
 image: assets/images/cerave-hydrating-cleanser.png
