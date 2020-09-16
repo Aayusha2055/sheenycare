@@ -36,7 +36,7 @@ Essence is a mixture of toner and serum but a with less concentration. Essence h
 
 
 # Step 4: Ampoule
-Ampoule is quite similar to serum but are packed with [active ingredients](https://sheenycare.com/active-ingredients-for-skin-care/) that are used to target specific skin concern. They are used for a specific period of time, especially when your skin needs help.
+Ampoule is quite similar to serum but are packed with [active ingredients](https://sheenycare.com/active-ingredients-for-skin-care/){:target="_blank"} that are used to target specific skin concern. They are used for a specific period of time, especially when your skin needs help.
 
 ![Hydrium Triple Hyaluronic Moisture Ampoule](/assets/images/ampoule.png "Hydrium Triple Hyaluronic Moisture Ampoule")
 
@@ -46,7 +46,7 @@ Serum are packed with several active ingredients together. These serums are pack
 ![Bright Potion Probiotic Power Serum](/assets/images/serum.png "Bright Potion Probiotic Power Serum")
 
 # Step 6: Moisturiser
-Every skin care routine has one, and so does Korean skin care routine. Apply a generous amount of moisturiser to hydrate your skin. Opt for moisturisers with ceramides and pettides and do not be afraid of [controversial ingredients.](https://sheenycare.com/tags#Controversial-Ingredients)
+Every skin care routine has one, and so does Korean skin care routine. Apply a generous amount of moisturiser to hydrate your skin. Opt for moisturisers with ceramides and pettides and do not be afraid of [controversial ingredients.](https://sheenycare.com/tags#Controversial-Ingredients){:target="_blank"}
 
 ![Water Drop Hydrating Moisturizer](/assets/images/moisturiser.png "Water Drop Hydrating Moisturizer")
 
@@ -61,7 +61,7 @@ This part of the skin care routine comes only 2-3 times a week. Exfoliation help
 ![Apple Smoothie Peeling Gel](/assets/images/applesmoothiepeelinggel.png "Apple Smoothie Peeling Gel")
 
 # Step 9: Sheet Masks
-Sheets masks are luxury skin care item if I may say, not only because it is aesthetic, but because they are more of an “a la carte” version of necessity. They are formulated with [active ingredients](https://sheenycare.com/active-ingredients-for-skin-care/) as serums. The sheet masks help recover super dry and dehydrates skin in a single use.
+Sheets masks are luxury skin care item if I may say, not only because it is aesthetic, but because they are more of an “a la carte” version of necessity. They are formulated with [active ingredients](https://sheenycare.com/active-ingredients-for-skin-care/){:target="_blank"}. as serums. The sheet masks help recover super dry and dehydrates skin in a single use.
 
 ![Peach and Slices Firm Mask](/assets/images/firmmask.png "Peach and Slices Firm Mask")
 

@@ -28,7 +28,7 @@ Essence is a mixture of toner and serum. Essence help in hydrating your skin, in
 ![Snail Bee high content essence ](/assets/images/Snail-essence.png "Snail Bee high content essence ")
 
 # Step 4: Ampoule
-Ampoule is quite similar to serum but are packed with [active ingredients](https://sheenycare.com/active-ingredients-for-skin-care/) that are used to target specific skin concern. They are used for a specific period of time, especially when your skin needs help.
+Ampoule is quite similar to serum but are packed with [active ingredients](https://sheenycare.com/active-ingredients-for-skin-care/){:target="_blank"} that are used to target specific skin concern. They are used for a specific period of time, especially when your skin needs help.
 
 ![Hydrium Triple Hyaluronic Moisture Ampoule](/assets/images/ampoule.png "Hydrium Triple Hyaluronic Moisture Ampoule")
 

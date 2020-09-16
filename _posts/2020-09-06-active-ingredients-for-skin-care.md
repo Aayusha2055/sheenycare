@@ -56,7 +56,7 @@ Hence, Retinol can be said as "the anti-aging" ingredient that has ever been dis
 Do not be confused with Retin A and Tretinoin. Retinol is a derivative of Vitamin A whereas Retin-A and Tretinoin are vitamin A.
 
 
-# <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses">Hyaluronic Acid:</a> Hydrate
+# <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">Hyaluronic Acid:</a> Hydrate
 Hyaluronic Acid has an amazing molecular property of holding up to 1,000 times its weight in water. It is a clear, silky smooth substance that is naturally produced by the body. It is able to improve the texture of the skin as well as its appearance.
 
 

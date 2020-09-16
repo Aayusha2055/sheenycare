@@ -15,7 +15,7 @@ Do you have the same confusion and frustration or you are trying to figure out w
 
 # How do you know you have a combination skin? 
 
-Here's a Simple [Test!](https://sheenycare.com/how-to-determine-my-skin-type)
+Here's a Simple [Test!](https://sheenycare.com/how-to-determine-my-skin-type){:target="_blank"}.
 
 Wash your face and wait for 20 minutes, read some articles ( you can read our other articles too, just a heads up). Touch your T-Zone (forehead, nose, and chin), does it feel sticky or oily? Now touch the rest of your face, is it dry or normal, meaning not as oily as your T-zone? 
 
