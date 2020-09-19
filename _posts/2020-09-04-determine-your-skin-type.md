@@ -31,3 +31,9 @@ You do not see oilyness in your cheeks but have a an oily t-zone i.e the nose an
 
 # The Blotting Sheet Method
 Gently pat a blotting paper throughout your face. Take the paper and hold it up on a visible amount of light to see through it. If the paper picked up little to no oil at all, you're most likely to have dry skin. If the blotting paper is saturated with oil, then you're likely to have oily skin.
+
+# Signs of Normal Skin
+Your skin stays oil free most of the day and doesn’t get irritated or dry easily. Acne is rarely an issue.
+
+# Signs of Aging Skin
+Your skin looks weathered, is wrinkled, and has age spots. You have spent many years not taking care of your skin.

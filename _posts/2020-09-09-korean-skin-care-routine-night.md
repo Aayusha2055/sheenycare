@@ -41,7 +41,7 @@ Ampoule is quite similar to serum but are packed with [active ingredients](https
 ![Hydrium Triple Hyaluronic Moisture Ampoule](/assets/images/ampoule.png "Hydrium Triple Hyaluronic Moisture Ampoule")
 
 # Step 5: Serum
-Serum are packed with several active ingredients together. These serums are packed with a balanced concerntration of different active ingredients. They are specifically used for aging, skin dehydration, hyperpigmentation, dark spots etc 
+Serum are packed with several [active ingredients](https://sheenycare.com/active-ingredients-for-skin-care/){:target="_blank"} together. These serums are packed with a balanced concerntration of different active ingredients. They are specifically used for aging, skin dehydration, hyperpigmentation, dark spots etc 
 
 ![Bright Potion Probiotic Power Serum](/assets/images/serum.png "Bright Potion Probiotic Power Serum")
 
