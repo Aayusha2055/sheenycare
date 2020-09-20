@@ -20,7 +20,7 @@ It’s also beneficial to choose a gentle cleanser with ingredients that help ma
 # Some of the important ingredients:
 
 1. **Ceramides:** Restores and maintains the skin’s natural barrier
-2. **Hyaluronic acid:** Helps the skin to retain moisture
+2. **<a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses/" target="_blank">Hyaluronic acid:</a>** Helps the skin to retain moisture
 3. **Niacinamide:** Helps the skin barrier and calms the skin
 
 # How to use it?
