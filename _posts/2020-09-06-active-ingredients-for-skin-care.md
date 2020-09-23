@@ -67,7 +67,7 @@ However, our body naturally decreases the production of Hyaluronic acid in our b
 Niacinamide is a form of Vitamin B-3. It has anti-inflammatory properties and antioxidant properties making it one of the active ingredients for treating your skin. A lot of dermatologists ask you to apply topical niacinamide-based products to treat hyperpigmentation, acne, and rosacea.
 
 
-## Ceramides: Improve Barrier Function
+## <a href="https://www.sheenycare.com/what-is-ceramide" target="_blank">Ceramides:</a> Improve Barrier Function
 Ceramides are lipids that help form the skin's barrier and help skin retain moisture. A healthy skin barrier is a must for obtaining healthy skin and ceramides help you fortify it.
 
 

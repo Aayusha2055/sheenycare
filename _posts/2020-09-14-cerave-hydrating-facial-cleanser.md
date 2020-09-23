@@ -23,7 +23,8 @@ Seriously, so what else are we looking for?
 # Active Ingredients:
  The CeraVe Hydrating Facial Cleanser product label for key active ingredients are salicylic acid, hyaluronic acid and ceramides.
 Other ingredients include oils that can help to moisturise skin.
-# Hyaluronic acid: 
+
+# <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses/" target="_blank">Hyaluronic acid:</a>
 This ingredient attracts hydration to the skin’s surface and helps the skin retain moisture.
 # Ceramides: 
 Essential for healthy skin, ceramides help restore and maintain the skin’s natural barrier. Well, way to go! 
