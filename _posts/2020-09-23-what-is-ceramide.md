@@ -41,4 +41,4 @@ Ceramide are one of the <a href="https://www.sheenycare.com/active-ingredients-f
 3. <a href="https://www.laroche-posay.us/face-and-body-skin-care/face-products/face-moisturizer/toleriane-double-repair-face-moisturizer-3337875545792.html" target="_blank" rel="nofollow">La Roche Posay Toleriane Double Repair Face Moisturizer </a>
 
 
-Learn more about <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> at <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">Sheeny Care.</a>
+Learn more about other<a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> at <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">Sheeny Care.</a>
