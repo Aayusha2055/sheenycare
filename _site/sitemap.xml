@@ -97,6 +97,10 @@
 <lastmod>2020-09-26T00:00:00+05:45</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/what-is-salicylic-acid/</loc>
+<lastmod>2020-09-26T00:00:00+05:45</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -125,5 +129,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page4/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page5/</loc>
 </url>
 </urlset>

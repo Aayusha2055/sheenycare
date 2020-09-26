@@ -35,7 +35,7 @@ BHA's specifically are acne-treating ingredients. Commonly used active ingredien
 <u>Salicylic Acid</u> is known to remove dead skin cells by getting deep into your pores and cleaning it. Because salicylic acid is a non-comedogenic ingredient, it is more likely to loosen blackheads and clear pores. Also, it is not irritating to your skin as compared to benzoyl peroxide.
 
 
-# Vitamin C: Brigten Skin
+# <a href="https://www.sheenycare.com/vitamin-c-benefits-for-skin/" target="_blank">Vitamin C: Brigten Skin</a>
 Vitamin C is found in various fruits and sold as dietary supplements. It repairs tissue and the enzymatic production of certain neurotransmitters.
 
 
