@@ -32,10 +32,10 @@ The salicylic acid cleanser does more than just exfoliate the skin. It softens a
 
 # Some of the important ingredients in CeraVe Renewing Salicylic Acid Cleanser:
 
-1. **Ceramides:** helps restore and maintain the skin’s natural barrier
-2. **<a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses/" target="_blank">Hyaluronic acid:</a>** helps the skin retain moisture
-3. **Niacinamide:** helps repair a compromised skin barrier 
-4. **Salicylic Acid:** deep cleanses the skin by penetrating it.
+# **<a href="https://www.sheenycare.com/what-is-ceramide/" target="_blank">Ceramides:</a>** helps restore and maintain the skin’s natural barrier
+# **<a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses/" target="_blank">Hyaluronic acid:</a>** helps the skin retain moisture
+# **<a href="https://www.sheenycare.com/what-is-niacinamide/" target="_blank">Niacinamide:</a>** helps repair a compromised skin barrier 
+# **Salicylic Acid:** deep cleanses the skin by penetrating it.
 
 # How to CeraVe Renewing Salicylic Acid Cleanser?
 

@@ -39,7 +39,7 @@ BHA's specifically are acne-treating ingredients. Commonly used active ingredien
 Vitamin C is found in various fruits and sold as dietary supplements. It repairs tissue and the enzymatic production of certain neurotransmitters.
 
 
-Ascorbic acid. It is one of the most important and commonly used active ingredients as it has a huge role in collagen synthesis.
+Ascorbic acid is the most pure and potent form of Vitamin C. It is one of the most important and commonly used active ingredients as it has a huge role in collagen synthesis.
 
 
 Vitamin C is a vital molecule for skin health. The antioxidant properties of vitamin C improve the efficiency of sunscreen. It is layered underneath it to help prevent and treat ultraviolet (UV)-induced photodamage.
@@ -63,7 +63,7 @@ Hyaluronic Acid has an amazing molecular property of holding up to 1,000 times i
 However, our body naturally decreases the production of Hyaluronic acid in our body after 30, which is why it is also a powerful anti-aging skin care ingredient.
 
 
-## Niacinamide: Reudce Inflamation
+## <a href="https://www.sheenycare.com/what-is-niacinamide/" target="_blank">Niacinamide:</a> Reudce Inflamation
 Niacinamide is a form of Vitamin B-3. It has anti-inflammatory properties and antioxidant properties making it one of the active ingredients for treating your skin. A lot of dermatologists ask you to apply topical niacinamide-based products to treat hyperpigmentation, acne, and rosacea.
 
 
