@@ -9,7 +9,7 @@ rating: 4.5
 description: "Dermatologists believe that foaming facial cleansers are an ideal product for removing excess oil, dirt, and makeup. So, it’s really important to choose a formula that won’t do wrong to the skin’s natural protective barrier. Hence, CeraVe Foaming Facial Cleanser is really safe."
 ---
 
-We have all seen and heard how dermatologists recommend CeraVe Foaming Facial Cleanser for people with acne. It works to cleanse the skin and remove oil, without disrupting the skin’s protective barrier.
+We have all seen and heard how dermatologists recommend <a href="https://www.cerave.com/skincare/cleansers/foaming-facial-cleanser" rel="nofollow" target="_blank">CeraVe Foaming Facial Cleanser</a> for people with acne. It works to cleanse the skin and remove oil, without disrupting the skin’s protective barrier.
 
 Also, it won’t clog pores or dry the skin out. The product contains niacin-amide (helps in dealing inflammation) and ceramides to help calm and moisturize irritated skin.
 

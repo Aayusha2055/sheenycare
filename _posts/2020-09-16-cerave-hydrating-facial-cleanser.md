@@ -18,7 +18,7 @@ CeraVe Hydrating Facial Cleanser works to gently cleanse the skin. It helps rest
 It provides up to 24 hours of hydration. Most importantly, it is also great for a sensitive skin!
 Seriously, so what else are we looking for?
 
-# Why should you opt for CeraVe Hydrating Facial Cleanser?
+# Why should you opt for <a href="https://www.cerave.com/skincare/cleansers/hydrating-facial-cleanser" rel="nofollow" target="_blank">CeraVe Hydrating Facial Cleanser</a>?
 
 # Active Ingredients:
  The CeraVe Hydrating Facial Cleanser product label for key active ingredients are salicylic acid, hyaluronic acid and ceramides.
@@ -28,11 +28,11 @@ Other ingredients include oils that can help to moisturise skin.
 This ingredient attracts hydration to the skin’s surface and helps the skin retain moisture.
 # <a href="https://www.sheenycare.com/what-is-ceramide/" target="_blank">Ceramides: </a>
 Essential for healthy skin, ceramides help restore and maintain the skin’s natural barrier. Well, way to go! 
+
 # Free of Fragrance:
- Dermatologists recommend using products without any added fragrance. Fragrances irritate already inflamed skin.
-No facial wash needs fragrance. Your skin is already suffering from irritation with acne and possible medication.
-So, this product has botanical or plant-based fragrance. 
-Non-comedogenic, non-irritating and fragrance-free. Certainly, one more reason to get that bottle of CeraVe Hydrating Facial Cleanser right now! 
+Dermatologists recommend using products without any added fragrance. Fragrances irritate already inflamed skin. No facial wash needs fragrance. Your skin is already suffering from irritation with acne and possible medication.
+
+So, this product has botanical or plant-based fragrance. Non-comedogenic, non-irritating and fragrance-free. Certainly, one more reason to get that bottle of CeraVe Hydrating Facial Cleanser right now! 
 Formulated for Face: 
 
 CeraVe Hydrating Facial Cleanser ingredient’s concentrations of the product are regulated differently for face and body.

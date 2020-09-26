@@ -28,7 +28,7 @@ Unlike using physical exfoliators, chemical exfoliators are much gentler, as
 
 
 
-# Beta Hydroxy Acids (BHA): Clear Breakouts
+# <a href="https://www.sheenycare.com/what-is-salicylic-acid/" target="_blank">Beta Hydroxy Acids (BHA): Clear Breakouts</a>
 BHA's specifically are acne-treating ingredients. Commonly used active ingredients as BHA is Salicylic Acid which a part of a beta-hydroxy acid. Most of the skincare product that deals with acne and breakouts contain salicylic acid.
 
 
