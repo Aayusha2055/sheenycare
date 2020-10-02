@@ -61,16 +61,8 @@
 <lastmod>2020-09-14T00:00:00+05:45</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/best-face-moisturizers/</loc>
-<lastmod>2020-09-15T00:00:00+05:45</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/cerave-hydrating-facial-cleanser/</loc>
 <lastmod>2020-09-16T00:00:00+05:45</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/skin-care-routine-for-oily-skin/</loc>
-<lastmod>2020-09-19T00:00:00+05:45</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/cerave-foaming-facial-cleanser/</loc>
@@ -129,8 +121,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/page4/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/page5/</loc>
 </url>
 </urlset>

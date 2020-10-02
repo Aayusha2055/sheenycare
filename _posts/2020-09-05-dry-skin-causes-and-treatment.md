@@ -56,4 +56,4 @@ Someone with dry skin should make sure they moisturise their skin daily. Few of 
 * Pat dry your skin after shower.
 * Use a hydrating and moisturising soaps and body wash while showering.
 
-If you have dry skin and need personal suggestions, check out [dry skin care routine](https://sheenycare.com/skin-care-rotine-for-dry-skin/) {:target="_blank"}.
+If you have dry skin and need personal suggestions, check out <a href="https://sheenycare.com/skin-care-rotine-for-dry-skin/" target="_blank">dry skin care routine</a>.
