@@ -69,14 +69,20 @@ Vitamin C has shown to reduce the production of melanin in the skin and help fad
 # 5. It promotes collagen production:
 Collagen is a naturally occuring protein that depletes over time. Vitamin C is well known for boosting collagen production in the skin. Lower level of collagen leads to fine lines and wrinkles.
 
+The increase in collagen production has multiple advantages to the skin. This protein helps give skin that tight and plump look. Regular use of Vitamin C will slow down skin aging as it keeps producing enough collagen in the skin.
 
 # 6. It lessens the appearance of fine lines and wrinkles:
 Vitamin C protects the skin against any damages and help skin to regenerate. With additional hydration benefits and collagen stimulation, our skin neutralizes free radicals. Thus, lessening the appearance of fine lines and wrinkles.
 
 # 7. It revitalizes sun damaged skin
-Over exposure of the skin to the sun has an adverse effect itself. We can observe skin issues such as flakiness, discolored patches (sunspots), rough areas, rosacea, etc. The damages by the sun are due to a molecule called free radicals. These are atoms but with missing elctrones. Hence, on their serach of electon, they steat it from our skin, causing a significant damage to the skin.
+Over exposure of the skin to the sun has an adverse effect itself. We can observe skin issues such as flakiness, discolored patches (sunspots), rough areas, rosacea, etc. The damages by the sun are due to a molecule called free radicals. 
+
+These are atoms but with missing elctrones. Hence, on their serach of electon, they steat it from our skin, causing a significant damage to the skin.
 
 However, Vitamin C is rich in antioxidant and they protect the skin cells by giving an electron to these radicals.
+
+# 8. It helps soothe sunburns
+The effect of sunscreen is doubled when Vitamin C is layered underneath it. Hence, Vitamin C aids in calming the skin and increasing the cell turnover. Hence, the sunburnt skin is rejuvenated faster i.e it replaces the damaged cells with healthy new one.
 
 # Who needs Vitamin C Serum?
 **All skin type** needs Vitamin C. 
