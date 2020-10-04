@@ -5,7 +5,7 @@ author: Swikriti
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
 image: assets/images/hyaluronic-acid.png
-rating: 4.5
+# rating: 4.5
 description: "Hyaluronic acid brings moisture to the surface of your skin when used in skin care products like creams and serums. It can be used as a humectant in your skincare routine because of its ability to draw and hold water. Hence, it continually keeps the skin moisturised throughout the day."
 ---
 

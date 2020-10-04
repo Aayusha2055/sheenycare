@@ -5,7 +5,7 @@ author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Ordinary Skin Routine, Dry Skin]
 image: assets/images/ordinary-skin-care-routine-dry-and-dehydrated-skin.png
-rating: 4.5
+# rating: 4.5
 description: "The Ordinary Skin Care Routine is effective, as all ordinary products help you create the ordinary skin routine that actually works."
 
 ---

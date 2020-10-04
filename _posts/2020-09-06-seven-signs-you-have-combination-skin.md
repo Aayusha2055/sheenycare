@@ -5,7 +5,7 @@ author: Swikriti
 categories: [ Skin Care ]
 tags: [ Combination Skin ]
 image: assets/images/combinationskin.jpg
-rating: 4.5
+# rating: 4.5
 description: ""
 ---
 

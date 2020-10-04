@@ -5,7 +5,7 @@ author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Korean Skin Care, Morning Skin Care Routine ]
 image: assets/images/korean-skin-care-morning.png
-rating: 4.5
+# rating: 4.5
 description: "The 8 step Korean skin care routine is here. The Korean Skin Care Steps are super easy for glass skin."
 
 ---

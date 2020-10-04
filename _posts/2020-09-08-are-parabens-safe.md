@@ -5,7 +5,7 @@ author: Aayusha
 categories: [ Skin Care]
 tags: [ Parabens, Controversial Ingredients ]
 image: assets/images/paraben.png
-rating: 4.5
+# rating: 4.5
 description: ""
 ---
 

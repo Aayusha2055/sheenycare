@@ -5,7 +5,7 @@ author: Aayusha
 categories: [ Skin Care]
 tags: [ Silicon, Controversial Ingredients ]
 image: assets/images/silicon.png
-rating: 4.5
+# rating: 4.5
 description: ""
 ---
 

@@ -5,7 +5,7 @@ author: Swikriti
 categories: [ Skin Care ]
 tags: [ Face, Cleanser, CeraVe, Acne-Prone Skin ]
 image: assets/images/cerave-sa-cleanser.png
-rating: 4.5
+# rating: 4.5
 description: "Salicylic Acid also improves dryness and softens the rough skin, we should really appreciate it! The product we really vouch for is by CeraVe, CeraVe Renewing Salicylic Acid Cleanser infused with salicylic acid enhances the barrier-strengthening with the ingredients like ceramides."
 
 ---
