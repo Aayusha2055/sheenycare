@@ -5,7 +5,7 @@ author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Korean Skin Care, Night Skin Care Routine ]
 image: assets/images/korean-skin-care-night.png
-rating: 4.5
+# rating: 4.5
 description: "The 10 step Korean skin care routine is here and these skin care steps are super easy for glass skin."
 
 ---

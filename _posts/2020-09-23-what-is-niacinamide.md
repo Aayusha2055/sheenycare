@@ -5,7 +5,7 @@ author: Aayusha
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
 image: assets/images/niacinamide.png
-rating: 4.5
+# rating: 4.5
 description: "Niacinamide reduces the apperance of skin blemishes and improves the skin barrier. Niacinamide visibly minimizes pores and decreases infamation when used regularly in skin care routine."
 ---
 

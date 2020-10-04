@@ -5,7 +5,7 @@ author: Swikriti
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Combination Skin ]
 image: assets/images/combinationskinroutine.png
-rating: 4.5
+# rating: 4.5
 description: "Skin Care Routine for Combination Skin"
 ---
 
