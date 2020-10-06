@@ -30,7 +30,7 @@ Retinol is a form of vitamin A (one form ), a fat-soluble derivative. It is most
 
 
 Technically, it is a type of retinoid of which there are several variations:
-1. **Retinoic acid** - It is <a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/bioavailable"rel="nofollow"target="_blank">bioavailable</a> and works faster than other variations.
+1. **Retinoic acid** - It is <a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/bioavailable" rel="nofollow" target="_blank">bioavailable</a> and works faster than other variations.
 
 2. **Retinol/Retinaldehyde/Esters** - These need to be converted by your skin into retinoic acid and hence works slower than other variations.
 
@@ -141,7 +141,7 @@ Once dried, you can take a pea-sized amount of the product and start at your chi
 
 
 ### Step 5.
-Finish with your moisturizer and always look for moisturizers with <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses"target="_blank">Hyaluronic Acid</a> and <a href="https://www.sheenycare.com/what-is-ceramide/"target="_blank">Ceramides</a>. You can also choose the buffering technique, where you apply moisturizer before applying retinol to reduce its side effects.
+Finish with your moisturizer and always look for moisturizers with <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">Hyaluronic Acid</a> and <a href="https://www.sheenycare.com/what-is-ceramide/" target="_blank">Ceramides</a>. You can also choose the buffering technique, where you apply moisturizer before applying retinol to reduce its side effects.
 
 
 
@@ -175,24 +175,24 @@ You can also experience some when you first start to apply it. Here are some tha
 # Recommended Products with Retinol for Acne.
 
 
-1.<a href="https://www.differin.com/shop/differin-gel"rel="nofollow"target="_blank">Differin Adapelene Gel 0.1% Acne Treatment</a>
-2.<a href="https://www.katesomerville.com/us/en/acne-products-eradikate-salicylic-acid-acne-treatment/10278.html"rel="nofollow"target="_blank">Kate Somerville EradiKate Salicylic Acid Acne Treatment
+1.<a href="https://www.differin.com/shop/differin-gel" rel="nofollow" target="_blank">Differin Adapelene Gel 0.1% Acne Treatment</a>
+2.<a href="https://www.katesomerville.com/us/en/acne-products-eradikate-salicylic-acid-acne-treatment/10278.html" rel="nofollow" target="_blank">Kate Somerville EradiKate Salicylic Acid Acne Treatment
 </a>
 
 
 # Recommended Products with Retinol for Aging.
 
 
-1.<a href="https://www.olay.com/regenerist-retinol-24-night-facial-serum-fragrance-free"rel="nofollow"target="_blank">Olay Regenerist Retinol 24 Night Facial Serum</a>
-2.<a href="https://www.esteelauder.com/product/681/58250/product-catalog/skincare/perfectionist-pro/rapid-renewal-retinol-treatment"rel="nofollow"target="_blank">Estée Lauder Perfectionist Pro Rapid Renewal Retinol Treatment
+1.<a href="https://www.olay.com/regenerist-retinol-24-night-facial-serum-fragrance-free" rel="nofollow" target="_blank">Olay Regenerist Retinol 24 Night Facial Serum</a>
+2.<a href="https://www.esteelauder.com/product/681/58250/product-catalog/skincare/perfectionist-pro/rapid-renewal-retinol-treatment" rel="nofollow" target="_blank">Estée Lauder Perfectionist Pro Rapid Renewal Retinol Treatment
 </a>
 
 
 # Recommended Products with Retinol for Sensitive Skin.
 
 
-1.<a href="https://www.cerave.com/skincare/serums/skin-renewing-retinol-serum"rel="nofollow"target="_blank">CeraVe Skin Renewing Retinol Cream Serum</a>
-2.<a href="https://sundayriley.com/products/luna-sleeping-night-oil"rel="nofollow"target="_blank">Sunday Riley Luna Sleeping Night Oil
+1.<a href="https://www.cerave.com/skincare/serums/skin-renewing-retinol-serum" rel="nofollow" target="_blank">CeraVe Skin Renewing Retinol Cream Serum</a>
+2.<a href="https://sundayriley.com/products/luna-sleeping-night-oil" rel="nofollow" target="_blank">Sunday Riley Luna Sleeping Night Oil
 </a>
 
 
