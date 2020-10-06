@@ -47,7 +47,7 @@ As said earlier, Ascorbic Acid, also known as the L-Ascorbic acid is the most st
 There are studies of Vitamin C with higher concerntration of upto 30% and have been used in the study of animal, maximum absorbtion was found with a 20% Vitamin C solution.
 
 # Benefits of using Vitamin C Serum.
-Now that we've known that Vitamin C a highly beneficial antioxidant ingredient, it has plenty of other properties that helps both the skin and the body and deserves a permanent place in your skin care cabinets. Lets talk in depth about all the goodness of Vitamin C.
+Now that we've known that Vitamin C is a highly beneficial antioxidant ingredient, it has plenty of other properties that helps both the skin and the body and deserves a permanent place in your skin care cabinets. Lets talk in depth about all the goodness of Vitamin C.
 
 # 1. It suits all skin type:
 Vitamin C is known to improve several skin issues but it is not limited to a skin type. Most people can easily use topical Vitamin C for a prolonged period of time, without having faced any reactions on the skin.
