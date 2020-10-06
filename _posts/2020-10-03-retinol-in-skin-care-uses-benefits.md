@@ -5,7 +5,7 @@ author: Aayusha
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
 image: assets/images/what-is-retinol.png
-rating: 4.5
+# rating: 4.5
 description: "Retinol in skin care is a vitamin A derivative with multiple benefits such as skin cell turnover, unclogging pores, smooth skin, refine skin textures, and lighten age spots. It treats fine lines, wrinkles as well as acne."
 ---
 
