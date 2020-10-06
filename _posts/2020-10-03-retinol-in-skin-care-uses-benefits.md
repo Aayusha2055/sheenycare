@@ -44,7 +44,7 @@ In fact, retinol is a huge family of the compound derivative of vitamin A. It go
 
 
 
-![Different Types of Retinol ](/assets/images/retinol-types.png "Different Types of Retinol")
+![Different Types of Retinol |sheenycare.com ](/assets/images/retinol-types.png "Different Types of Retinol")
 <!-- ![Snail Bee high content essence ](/assets/images/Snail-essence.png "Snail Bee high content essence ") -->
 
 
