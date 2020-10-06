@@ -141,7 +141,7 @@ Once dried, you can take a pea-sized amount of the product and start at your chi
 
 
 ### Step 5.
-Finish with your moisturizer and always look for moisturizers with <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses"target="_blank">Hyaluronic Acid:</a> and <a href="https://www.sheenycare.com/what-is-ceramide/"target="_blank">Ceramides</a>. You can also choose the buffering technique, where you apply moisturizer before applying retinol to reduce its side effects.
+Finish with your moisturizer and always look for moisturizers with <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses"target="_blank">Hyaluronic Acid</a> and <a href="https://www.sheenycare.com/what-is-ceramide/"target="_blank">Ceramides</a>. You can also choose the buffering technique, where you apply moisturizer before applying retinol to reduce its side effects.
 
 
 
