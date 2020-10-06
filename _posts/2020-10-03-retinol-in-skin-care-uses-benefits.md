@@ -30,7 +30,7 @@ Retinol is a form of vitamin A (one form ), a fat-soluble derivative. It is most
 
 
 Technically, it is a type of retinoid of which there are several variations:
-1. **Retinoic acid** - It is <a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/bioavailable" rel="nofollow" target="_blank">bioavailable</a> and works faster than other variations.
+1. **Retinoic acid** - It is <a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/bioavailable" rel="nofollow"  target="_blank">bioavailable</a> and works faster than other variations.
 
 2. **Retinol/Retinaldehyde/Esters** - These need to be converted by your skin into retinoic acid and hence works slower than other variations.
 
@@ -176,6 +176,7 @@ You can also experience some when you first start to apply it. Here are some tha
 
 
 1.<a href="https://www.differin.com/shop/differin-gel" rel="nofollow" target="_blank">Differin Adapelene Gel 0.1% Acne Treatment</a>
+
 2.<a href="https://www.katesomerville.com/us/en/acne-products-eradikate-salicylic-acid-acne-treatment/10278.html" rel="nofollow" target="_blank">Kate Somerville EradiKate Salicylic Acid Acne Treatment
 </a>
 
@@ -184,6 +185,7 @@ You can also experience some when you first start to apply it. Here are some tha
 
 
 1.<a href="https://www.olay.com/regenerist-retinol-24-night-facial-serum-fragrance-free" rel="nofollow" target="_blank">Olay Regenerist Retinol 24 Night Facial Serum</a>
+
 2.<a href="https://www.esteelauder.com/product/681/58250/product-catalog/skincare/perfectionist-pro/rapid-renewal-retinol-treatment" rel="nofollow" target="_blank">Estée Lauder Perfectionist Pro Rapid Renewal Retinol Treatment
 </a>
 
@@ -192,6 +194,7 @@ You can also experience some when you first start to apply it. Here are some tha
 
 
 1.<a href="https://www.cerave.com/skincare/serums/skin-renewing-retinol-serum" rel="nofollow" target="_blank">CeraVe Skin Renewing Retinol Cream Serum</a>
+
 2.<a href="https://sundayriley.com/products/luna-sleeping-night-oil" rel="nofollow" target="_blank">Sunday Riley Luna Sleeping Night Oil
 </a>
 
