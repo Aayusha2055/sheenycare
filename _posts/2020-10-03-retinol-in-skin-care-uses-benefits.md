@@ -168,7 +168,7 @@ You can also experience some when you first start to apply it. Here are some tha
 
 1. If you use it too often, your skin can redden and start peeling. But this doesn't mean it thins the skin.
 2. You can also experience flakiness, dryness, and some breakouts when you first use retinol in skin care regimen.
-3. If your **pregnant**, or considering pregnancy, you should consult your obstetrician before beginning or continuing your retinol treatment.
+3. If you're **pregnant**, or considering pregnancy, you should consult your obstetrician before beginning or continuing your retinol treatment.
 4. Retinols that are orally taken such as Isotretinoin have shown harmful side effects on pregnant women, including miscarriage.
 
 
