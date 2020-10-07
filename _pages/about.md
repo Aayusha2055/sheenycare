@@ -1,6 +1,6 @@
 ---
 layout: page
-title: We actually are quite unique to understand that every skin is different and every skin should be loved. 
+title: About Us
 permalink: /about
 comments: false
 image: assets/images/logo.png
