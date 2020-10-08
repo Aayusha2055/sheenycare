@@ -5,6 +5,7 @@ permalink: /about
 comments: false
 image: assets/images/logo.png
 # imageshadow: true
+description: "A skin care essential guide where we explain skin and skin care, decode ingredients, bust myths, talk about controversial ingredients and help people create and stick to their skin care routine."
 ---
 
 >**Care: The process of caring for somebody and providing what they need for their health or protection.** - The oxford dictionary.

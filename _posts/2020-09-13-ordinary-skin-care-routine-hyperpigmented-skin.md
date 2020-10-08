@@ -6,7 +6,7 @@ categories: [ Skin Care ]
 tags: [Skin Care Routine, Ordinary Skin Routine, Hyperpigmented Skin]
 image: assets/images/ordinary-skin-care-routine-hyperpigmentation.png
 # rating: 4.5
-description: "The Ordinary Skin Care Routine is effective, as all ordinary products help you create the ordinary skin routine that actually works."
+description: "Ordinary skin care routine for hyperpigmented skin is effective as ordinary products help you create the ordinary skin routine that actually works. Most of the people incorporate ordinary products in their skin care routine because it offers treatments which are effective because of their clinical technologies."
 
 ---
 

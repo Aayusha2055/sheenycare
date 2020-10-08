@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hyaluronic acid, everything you need to know, uses and skin benefits"
+title:  "Hyaluronic acid, everything you need to know, uses and skin benefits."
 author: Swikriti
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]

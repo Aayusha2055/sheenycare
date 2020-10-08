@@ -6,7 +6,7 @@ categories: [ Skin Care]
 tags: [ Parabens, Controversial Ingredients ]
 image: assets/images/paraben.png
 # rating: 4.5
-description: ""
+description: "Parabens are widely using in skin care products. They are the most studied preservatives used in skin care products. A lot of controversies on parabens are not backed by enough research and facts. Research up to date hasn't shown adverse effects by paraben on humans."
 ---
 
 The paraben-free label is slapped into most of the skin care brands and cosmetics products. But do you really know what is paraben and is it really harmful? Let's dig into it.
@@ -31,7 +31,7 @@ Parabens are common preservative used in personal care products as well as food.
 **Environmental Issues:** Parabens have been detected in surface waters, fish and sediments as low levels of butylparaben can kill coral, according to laboratory tests (Danaovaro 2008).
 
 # Facts About Parabens!
-A lot of controversies on parabens are not backed by enough research and facts. Research upto date hasn't showed adverse effect by paraben on humans. As said earlier, definitive evidence of harm is lacking.
+A lot of controversies on parabens are not backed by enough research and facts. Research up to date hasn't shown adverse effects by paraben on humans. As said earlier, definitive evidence of harm is lacking.
 
 On the other hand, many <u>studies confirms safe usage of parabens</u>. It is said that paraben is able to penetrate deep into the skin but studies show that <u>systematic contact to dermatitis from ingestion is rare</u>.
 

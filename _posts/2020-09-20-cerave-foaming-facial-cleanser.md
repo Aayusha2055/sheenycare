@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CeraVe Foaming Facial Cleanser - Everything You Need to Know, Uses and Ingredients"
+title:  "CeraVe Foaming Facial Cleanser - Everything You Need to Know, Uses and Ingredients."
 author: Swikriti
 categories: [ Skin Care ]
 tags: [ Face, Cleanser, CeraVe, Oily Skin ]

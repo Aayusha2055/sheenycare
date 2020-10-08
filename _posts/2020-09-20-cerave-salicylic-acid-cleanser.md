@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CeraVe Renewing Salicylic Acid Cleanser - Everything You Need to Know, Uses and Ingredients"
+title:  "CeraVe Renewing Salicylic Acid Cleanser - Everything You Need to Know, Uses and Ingredients."
 author: Swikriti
 categories: [ Skin Care ]
 tags: [ Face, Cleanser, CeraVe, Acne-Prone Skin ]
