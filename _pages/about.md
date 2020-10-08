@@ -5,6 +5,7 @@ permalink: /about
 comments: false
 image: assets/images/logo.png
 # imageshadow: true
+description:
 ---
 
 >**Care: The process of caring for somebody and providing what they need for their health or protection.** - The oxford dictionary.
