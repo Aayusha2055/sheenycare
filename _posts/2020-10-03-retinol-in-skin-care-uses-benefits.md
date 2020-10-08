@@ -5,7 +5,6 @@ author: Aayusha
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
 image: assets/images/what-is-retinol.png
-# rating: 4.5
 description: "Retinol in skin care is a vitamin A derivative with multiple benefits such as skin cell turnover, unclogging pores, smooth skin, refine skin textures, and lighten age spots. It treats fine lines, wrinkles as well as acne."
 ---
 
@@ -131,21 +130,21 @@ After that, apply eye cream first as areas around the eye are delicate.
 
 
 
-### Step 3.
+### Step 3
 In addition, dry your face completely because slightly dampen skin might irritate the skin as it is able to absorb the product completely.
 
 
-### Step 4.
+### Step 4
 Once dried, you can take a pea-sized amount of the product and start at your chin, gradually to the upwards and outward motion.
 
 
 
-### Step 5.
+### Step 5
 Finish with your moisturizer and always look for moisturizers with <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">Hyaluronic Acid</a> and <a href="https://www.sheenycare.com/what-is-ceramide/" target="_blank">Ceramides</a>. You can also choose the buffering technique, where you apply moisturizer before applying retinol to reduce its side effects.
 
 
 
-### Step 6.
+### Step 6
 Always remember to use broad-spectrum sunscreen the morning after as retinol makes the skin more sensitive to the sun.
 
 

@@ -5,7 +5,6 @@ author: Aayusha
 categories: [ Skin Care ]
 tags: [ Skin Care Routine, Men's  ]
 image: assets/images/skin-care-routine-for-men.png
-# rating: 4.5
 description: "Skin care routine is super easy to make. Especially for men who think they do not need one just because they're men. The skin has no gender and skin care routine is important for all skin types. You do need a solid men's skin care routine."
 
 ---

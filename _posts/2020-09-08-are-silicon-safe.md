@@ -5,7 +5,6 @@ author: Aayusha
 categories: [ Skin Care]
 tags: [ Silicon, Controversial Ingredients ]
 image: assets/images/silicon.png
-# rating: 4.5
 description: "Silicones are widely using in skin care products. They are made of completely natural ingredients but undergo chemical processing. They are used to improve the texture of skin care products. They are beneficial for the skin because of its emolliency (skin smoothing) and water loss prevention properties."
 ---
 

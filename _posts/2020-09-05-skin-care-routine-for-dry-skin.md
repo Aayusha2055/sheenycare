@@ -5,7 +5,6 @@ author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Dry Skin]
 image: assets/images/skincareroutinefordryskin.png
-# rating: 4.5
 description: "If you have dry skin, you might notice small fine flakes, cracking and dry patches in your skin. Skin care routine for dry skin should be peculiar, protecting your skin in the morning and hydrating it in the evening."
 ---
 

@@ -5,7 +5,6 @@ author: Aayusha
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
 image: assets/images/vitaminc.png
-# rating: 4.5
 description: "Vitamin C is a vital molecule for skin health and skin care routine. The antioxidant properties of vitamin C improve the efficiency of sunscreen. It is layered underneath it to help prevent and treat ultraviolet (UV)-induced photodamage."
 ---
 

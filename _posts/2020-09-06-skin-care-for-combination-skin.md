@@ -5,8 +5,7 @@ author: Swikriti
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Combination Skin ]
 image: assets/images/combinationskinroutine.png
-# rating: 4.5
-description: "Skin Care Routine for Combination Skin"
+description: "If you're skin is dry and oily at the same time, such skin are called combination skin. Learn best products for combination skin, determine how well they work with you and stick to a skin care routine."
 ---
 
 The demography of people having combination skin is high and it's really super-common. It's totally normal to be oily in some spots and dry in others and it may need slightly different care in different areas. Typically, there's a mix of oily and dry areas on different parts of your face, with the t-zone (forehead, nose, and chin) being slightly too oily. I will try to include some of my favourites and no, they're not sponsored ;)

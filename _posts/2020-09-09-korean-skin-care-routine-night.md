@@ -5,9 +5,7 @@ author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Korean Skin Care, Night Skin Care Routine ]
 image: assets/images/korean-skin-care-night.png
-# rating: 4.5
 description: "The 10 step Korean skin care routine is here and these skin care steps are super easy for glass skin."
-
 ---
 
 Korean Skin Care routines are trendy today. The combination of innovative technology and ancient tradition has made Korean Skin Care one of the best beauty routine. Famously known as the K beauty routine, here are the 10 Korean skin care regimen for glowing skin. Now 10 steps may seem extremely long, but most Korean Women use and 8 to 12 step skin care routine daily to maintain a beautiful and healthy skin. After all, its all about having a healthy and glowing skin.
