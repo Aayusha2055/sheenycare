@@ -7,8 +7,6 @@ tags: [Skin, Body]
 image: assets/images/determineskintype.webp
 description: "It is important to know your skin type. If your skin is tight, your skin is dry. If your skin feels oily in the tzone, it is combination skin type and if it feels sticky and moisturised, it is oily. "
 ---
-
-
 The most effective way of taking care of the skin is by understanding one's skin type. Skin care is an art and science and we all can learn this art. However, one should always know one's skin type in order to take care of it properly.
 
 
