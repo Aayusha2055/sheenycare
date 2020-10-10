@@ -39,4 +39,4 @@ The most common skin issues people have to face are acne,rosacea, pigmentation, 
 
 Most of the studies about it have been carried out at concentrations of 5% or below. And yes, it can do everything it's purported to: improve hyperpigmentation, fortify barrier function, normalize sebum production etc. However, we need to realize that niacinamide, and a whole host of other "actives" can do more harm than good when overused. 
 
-Learn more about other<a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> at <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">Sheeny Care.</a>
+Learn more about other active ingredients at Sheeny Care.

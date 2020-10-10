@@ -61,7 +61,7 @@ Hence, one of the main vitamin C derivatives used in skin care called Magnesium 
 Vitamin C helps fade pigmentation and reduce dullness of the skin, giving the skin a even tone and youthful glow.
 
 # 4. It helps lighten pigmentation:
-Hyperpigmentaion (sun-spots, age-spots and melasma) occurs when an enzyme called <a href="https://www.webmd.com/a-to-z-guides/what-is-melanin" target="_blank" rel="nofollow"></a>melanin is over produced in the skin. Hypepigmentaion can also occured in areas where acne has healed.
+Hyperpigmentaion (sun-spots, age-spots and melasma) occurs when an enzyme called <a href="https://www.webmd.com/a-to-z-guides/what-is-melanin" target="_blank" rel="nofollow">melanin</a> is over produced in the skin. Hypepigmentaion can also occured in areas where acne has healed.
 
 Vitamin C has shown to reduce the production of melanin in the skin and help fade dark spots leading to an even tone skin complexion.
 
@@ -100,7 +100,7 @@ Oxidized vitamin c is likely to be less effective to the skin. In other words, f
 # How long does it take to work?
 Research shows that Vitamin C starts working within **6 weeks** of application in the skin to treat **hyperpigmentation** and **hydrate the skin** whereas **12 weeks** to treat **fine lines and wrinkles**.
 
-# Recommended Products with Vitamin C.
+# Best Products with Vitamin C.
 
 1. <a href="https://indeedlabs.com/shop/vitamin-c24-s/" rel="nofollow" target="_blank">Indeed Labs Vitamin C24</a>
 2. <a href="https://sundayriley.com/products/ceo-vitamin-c-brightening-serum" rel="nofollow" target="_blank">Sunday Riley C.E.O 15% Vitamin C Brightening Serum</a>
