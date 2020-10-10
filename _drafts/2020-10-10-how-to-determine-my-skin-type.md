@@ -39,6 +39,10 @@ If the paper picked up little to no oil at all, you're most likely to have dry s
 
 Furthermore, if you're skin is more prone to inflamation and irritation then you're skin is likely to be sensitive. Like other skin types, sensitive skin is also a common skin type and issue however it is not a medical condition.
 
+<!-- <iframe width="420" height="315" src="" frameborder="0" allowfullscreen></iframe> -->
+[![](http://img.youtube.com/vi/vic-EMOivpA/0.jpg)](http://www.youtube.com/watch?v=vic-EMOivpA "How To Find Your Skin Type"){:target="_blank"}
+
+
 # Different Skin Types
 Overall, we have 5 different categories. However, a single skin type need not have same skin conditions and issues. Let's categorise all these skin conditions and talk about how to deal with them individually.
 
