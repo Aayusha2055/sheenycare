@@ -5,8 +5,8 @@
     <description>Skin Care is made easy with Sheeny Care as we help you make skincare routines understand skincare products, talk about various skin care regimen, and give you insights on beauty products and services.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Oct 2020 20:38:26 +0545</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2020 20:38:26 +0545</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2020 21:54:48 +0545</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2020 21:54:48 +0545</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -33,8 +33,8 @@
 
 &lt;p&gt;Furthermore, if you’re skin is more prone to inflamation and irritation then you’re skin is likely to be sensitive. Like other skin types, sensitive skin is also a common skin type and issue however it is not a medical condition.&lt;/p&gt;
 
-&lt;!-- &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt; --&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=vic-EMOivpA&quot; title=&quot;How To Find Your Skin Type&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/vic-EMOivpA/0.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/vic-EMOivpA&quot; width=&quot;560&quot; height=&quot;340&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;
 
 &lt;h1 id=&quot;different-skin-types&quot;&gt;Different Skin Types&lt;/h1&gt;
 &lt;p&gt;Overall, we have 5 different categories. However, a single skin type need not have same skin conditions and issues. Let’s categorise all these skin conditions and talk about how to deal with them individually.&lt;/p&gt;
@@ -83,7 +83,7 @@
 &lt;p&gt;When skin doesn’t produce lot of oil as well as do not retain enough moisture, then such skin is dry and dehydrated skin. The skin is extremely flaky, tight and appearance of fine lines and wrinkles are more visible. Water-based products help retain moisture in the skin. Also, drink plenty of water to supply water in the epidermis.&lt;/p&gt;
 
 &lt;h2 id=&quot;32-dry-skin-with-aging&quot;&gt;3.2: Dry Skin with Aging&lt;/h2&gt;
-&lt;p&gt;The skin with aging is dry and tight throughout the year. Due to the lack of elasticity and glow in the skin, the skin looks tired. Hence, such skin requires &lt;a href=&quot;https://www.sheenycare.com/active-ingredients-for-skin-care/&quot; rel=&quot;dofollow&quot; target=&quot;_blank&quot;&gt;active&lt;/a&gt; and energising ingredients, firmimg peptides and a high concentration of AHA exfoliants to boost cellular turnover and even the skin complextion.&lt;/p&gt;
+&lt;p&gt;The skin with aging is dry and tight throughout the year. Due to the lack of elasticity and glow in the skin, the skin looks tired. Hence, such skin requires &lt;a href=&quot;https://www.sheenycare.com/active-ingredients-for-skin-care/&quot; target=&quot;_blank&quot;&gt;active&lt;/a&gt; and energising ingredients, firmimg peptides and a high concentration of AHA exfoliants to boost cellular turnover and even the skin complextion.&lt;/p&gt;
 
 &lt;h2 id=&quot;33-dry-skin-with-damaged-skin&quot;&gt;3.3: Dry Skin with Damaged Skin&lt;/h2&gt;
 &lt;p&gt;The skin with damaged skin is dry and tight throughout the year. The skin is damaged due to over exposure of skin to the sun and tends to have brown spots, broken capillaries and loss of elasticity. To even out the skin tones, brightening ingredients should be used and  AHA exfoliants to boost cellular turnover.&lt;/p&gt;
