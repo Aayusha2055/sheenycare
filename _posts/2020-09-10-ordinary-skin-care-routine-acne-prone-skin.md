@@ -4,7 +4,7 @@ title:  "Ordinary Skin Care Routine For Acne Prone Skin"
 author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Ordinary Skin Routine, Acne Prone Skin]
-image: assets/images/ordinary-skin-care-routine-acne-prone-skin.png
+image: assets/images/ordinary-skin-care-routine-acne-prone-skin.webp
 description: "Ordinary skin care routine for acne prone skin is effective as ordinary products help you create the ordinary skin routine that actually works."
 ---
 

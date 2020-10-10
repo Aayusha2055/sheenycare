@@ -4,7 +4,7 @@ title:  "Retinol in Skin Care Routine, its Uses, Benefits and Effects."
 author: Aayusha
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
-image: assets/images/what-is-retinol.png
+image: assets/images/what-is-retinol.webp
 description: "Retinol in skin care is a vitamin A derivative with multiple benefits such as skin cell turnover, unclogging pores, smooth skin, refine skin textures, and lighten age spots. It treats fine lines, wrinkles as well as acne."
 ---
 
@@ -43,7 +43,7 @@ In fact, retinol is a huge family of the compound derivative of vitamin A. It go
 
 
 
-![Different Types of Retinol |sheenycare.com ](/assets/images/retinol-types.png "Different Types of Retinol")
+![Different Types of Retinol |sheenycare.com ](/assets/images/retinol-types.webp "Different Types of Retinol")
 <!-- ![Snail Bee high content essence ](/assets/images/Snail-essence.png "Snail Bee high content essence ") -->
 
 

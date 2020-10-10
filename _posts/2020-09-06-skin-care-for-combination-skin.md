@@ -4,7 +4,7 @@ title:  "Skin Care Routine For Combination Skin"
 author: Swikriti
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Combination Skin ]
-image: assets/images/combinationskinroutine.png
+image: assets/images/combinationskinroutine.webp
 description: "If you're skin is dry and oily at the same time, such skin are called combination skin. Learn best products for combination skin, determine how well they work with you and stick to a skin care routine."
 ---
 

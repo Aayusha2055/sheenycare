@@ -4,7 +4,7 @@ title:  "CeraVe Foaming Facial Cleanser - Everything You Need to Know, Uses and 
 author: Swikriti
 categories: [ Skin Care ]
 tags: [ Face, Cleanser, CeraVe, Oily Skin ]
-image: assets/images/cerave-foaming-facial-cleanser.png
+image: assets/images/cerave-foaming-facial-cleanser.webp
 description: "Dermatologists believe that foaming facial cleansers are an ideal product for removing excess oil, dirt, and makeup. So, it’s really important to choose a formula that won’t do wrong to the skin’s natural protective barrier. Hence, CeraVe Foaming Facial Cleanser is really safe."
 ---
 

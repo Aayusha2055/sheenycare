@@ -4,7 +4,7 @@ title:  "How to Determine your Skin Type?"
 author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin, Body]
-image: assets/images/determineskintype.jpg
+image: assets/images/determineskintype.webp
 description: "If your skin is tight, your skin is dry. If your skin feels oily in the tzone, it is combination skin type and if it feels sticky and moisturised, it is oily. "
 # toc: true
 ---

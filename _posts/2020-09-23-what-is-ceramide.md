@@ -4,7 +4,7 @@ title:  "What are Ceramides and How Do They Work In Skin Care Routines?"
 author: Aayusha
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
-image: assets/images/ceramides.png
+image: assets/images/ceramides.webp
 description: "Ceramides are lipids that help form the skin's barrier and help skin retain moisture. Ceramides also help the skin protect against environmental hazards like irritants and pollution."
 ---
 

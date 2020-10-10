@@ -4,7 +4,7 @@ title:  "What is Vitamin C and How Do They Work In Skin Care Routines?"
 author: Aayusha
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
-image: assets/images/vitaminc.png
+image: assets/images/vitaminc.webp
 description: "Vitamin C is a vital molecule for skin health and skin care routine. The antioxidant properties of vitamin C improve the efficiency of sunscreen. It is layered underneath it to help prevent and treat ultraviolet (UV)-induced photodamage."
 ---
 
@@ -31,7 +31,7 @@ There are several good sources of vitamin C in foods. We get vitamin C from seve
 Although we're probably getting Vitamin C from our diet we do not know whether it does go into our skin or not.
 
 # Forms of Vitamin C in Skin Care
-L-ascorbic acid is the purest and potent form of Vitamin C. It is one of the most important and commonly used <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredient</a> as it has a huge role in collagen synthesis.
+L-ascorbic acid is the purest and potent form of Vitamin C. It is one of the most important and commonly used <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" target="_blank">active ingredient</a> as it has a huge role in collagen synthesis.
 
 The other less potent derivatives of L-ascorbic acid are:
 1. Sodium Ascorbyl Phosphate

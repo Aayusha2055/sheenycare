@@ -4,7 +4,7 @@ title:  "Are Parabens Safe - A guide to contoversial skin care ingredient!"
 author: Aayusha
 categories: [ Skin Care]
 tags: [ Parabens, Controversial Ingredients ]
-image: assets/images/paraben.png
+image: assets/images/paraben.webp
 description: "Parabens are widely using in skin care products. They are the most studied preservatives used in skin care products. A lot of controversies on parabens are not backed by enough research and facts. Research up to date hasn't shown adverse effects by paraben on humans."
 ---
 

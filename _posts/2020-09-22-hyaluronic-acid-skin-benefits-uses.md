@@ -4,7 +4,7 @@ title:  "Hyaluronic acid, everything you need to know, uses and skin benefits."
 author: Swikriti
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
-image: assets/images/hyaluronic-acid.png
+image: assets/images/hyaluronic-acid.webp
 description: "Hyaluronic acid brings moisture to the surface of your skin when used in skin care products like creams and serums. It can be used as a humectant in your skincare routine because of its ability to draw and hold water. Hence, it continually keeps the skin moisturised throughout the day."
 ---
 
@@ -54,6 +54,6 @@ Take the liquid nose job, for example, dermatologists use filler to even out bum
 
 Hyaluronic Acid has many benefits for your skin! For all skin types. If you want to learn about the magical stuff it does, you should definitely check-up with your near and dear Dermatologist.
 
-Learn more about other<a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> at <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">Sheeny Care.</a>
+Learn more about other<a href="https://www.sheenycare.com/active-ingredients-for-skin-care/"  target="_blank">active ingredients</a> at <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" target="_blank">Sheeny Care.</a>
 
 
