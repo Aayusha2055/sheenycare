@@ -4,7 +4,7 @@ title:  "Dry Skin Causes, Treatment and Solution to How to Get Rid of It"
 author: Aayusha
 categories: [ Skin Care]
 tags: [Dry Skin, Body ]
-image: assets/images/dryskincausesandtreatment.jpg
+image: assets/images/dryskincausesandtreatment.webp
 # rating: 4.5
 description: "Medically known as Xerosis, dry skin is not usually serious and is caused by the temperature and humidity level around you.
 If you have dry skin, you might notice small fine flakes, cracking and dry patches in your skin."

@@ -4,7 +4,7 @@ title:  "Ordinary Skin Care Routine For Dry and Dehydrated Skin"
 author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Ordinary Skin Routine, Dry Skin]
-image: assets/images/ordinary-skin-care-routine-dry-and-dehydrated-skin.png
+image: assets/images/ordinary-skin-care-routine-dry-and-dehydrated-skin.webp
 description: "The deciem brand has extraordinary collection of Ordinary skin care products that gives amazing result following the ordinary skin care routine for dry and dehydrated skin."
 ---
 

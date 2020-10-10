@@ -4,7 +4,7 @@ title:  "The Guide To Active Ingredients in Skin Care and Skin Care Products"
 author: Aayusha
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
-image: assets/images/bestskincareproductsinnepal.jpg
+image: assets/images/bestskincareproductsinnepal.webp
 description: "Active ingredients are essential for skin care and health. Find out what active ingredients in skin care products are and what are different active ingredients that are used today to target several skin issues and condition."
 ---
 

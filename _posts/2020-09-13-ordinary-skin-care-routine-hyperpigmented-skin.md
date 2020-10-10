@@ -4,7 +4,7 @@ title:  "Ordinary Skin Care Routine For Hyperpigmented Skin"
 author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Ordinary Skin Routine, Hyperpigmented Skin]
-image: assets/images/ordinary-skin-care-routine-hyperpigmentation.png
+image: assets/images/ordinary-skin-care-routine-hyperpigmentation.webp
 description: "Ordinary skin care products have amazing collection for a perfect skin care routine for hyperpigmented skin. This routine is effective because the products are made on proven clinical technologies."
 ---
 

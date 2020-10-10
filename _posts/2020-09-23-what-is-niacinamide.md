@@ -4,7 +4,7 @@ title:  "What are Niacinamide and How Do They Work In Skin Care Routines?"
 author: Aayusha
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
-image: assets/images/niacinamide.png
+image: assets/images/niacinamide.webp
 description: "Niacinamide reduces the apperance of skin blemishes and improves the skin barrier. Niacinamide visibly minimizes pores and decreases infamation when used regularly in skin care routine."
 ---
 

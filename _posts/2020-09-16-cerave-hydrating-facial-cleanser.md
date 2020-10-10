@@ -4,7 +4,7 @@ title:  "CeraVe Hydrating Facial Cleanser, Everything You Need to Know, Uses and
 author: Swikriti
 categories: [ Skin Care ]
 tags: [ Face, Cleanser, CeraVe, Dry Skin ]
-image: assets/images/cerave-hydrating-cleanser.png
+image: assets/images/cerave-hydrating-cleanser.webp
 description: "CeraVe Hydrating Facial Cleanser works to gently cleanse the skin. It helps restore its protective barrier. It provides up to 24 hours of hydration. Most importantly, it is a great cleanser for dry and sensitive skin! "
 ---
 
