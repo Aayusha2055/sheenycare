@@ -5,8 +5,8 @@
     <description>Skin Care is made easy with Sheeny Care as we help you make skincare routines understand skincare products, talk about various skin care regimen, and give you insights on beauty products and services.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Oct 2020 21:54:48 +0545</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2020 21:54:48 +0545</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2020 22:15:39 +0545</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2020 22:15:39 +0545</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -33,8 +33,27 @@
 
 &lt;p&gt;Furthermore, if you’re skin is more prone to inflamation and irritation then you’re skin is likely to be sensitive. Like other skin types, sensitive skin is also a common skin type and issue however it is not a medical condition.&lt;/p&gt;
 
+&lt;div class=&quot;video-responsive&quot;&gt;
 &lt;iframe src=&quot;https://www.youtube.com/embed/vic-EMOivpA&quot; width=&quot;560&quot; height=&quot;340&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
 &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    margin-bottom: 5%;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+&lt;/style&gt;
 
 &lt;h1 id=&quot;different-skin-types&quot;&gt;Different Skin Types&lt;/h1&gt;
 &lt;p&gt;Overall, we have 5 different categories. However, a single skin type need not have same skin conditions and issues. Let’s categorise all these skin conditions and talk about how to deal with them individually.&lt;/p&gt;
@@ -142,17 +161,6 @@
         
         
         <category>Skin Care</category>
-        
-      </item>
-    
-      <item>
-        <title>Skin Buffering Retinol</title>
-        <description>
-</description>
-        <pubDate>Mon, 05 Oct 2020 00:00:00 +0545</pubDate>
-        <link>http://localhost:4000/skin-buffering-retinol/</link>
-        <guid isPermaLink="true">http://localhost:4000/skin-buffering-retinol/</guid>
-        
         
       </item>
     
@@ -758,6 +766,64 @@ Take the liquid nose job, for example, dermatologists use filler to even out bum
         <category>CeraVe</category>
         
         <category>Oily Skin</category>
+        
+        
+        <category>Skin Care</category>
+        
+      </item>
+    
+      <item>
+        <title>CeraVe Hydrating Facial Cleanser, Everything You Need to Know, Uses and Ingredients.</title>
+        <description>&lt;p&gt;In the skincare community, there are many products that have been carrying a great reputation. Among them is a brand that has determined to help the community as they strive for the best formula, CeraVe. As a result, you have seen or heard how dermatologists recommend CeraVe Hydrating Facial Cleanser.&lt;/p&gt;
+
+&lt;p&gt;The product is great for those with normal to dry skin. Therefore, it is voted to be the best time and again.
+CeraVe Hydrating Facial Cleanser works to gently cleanse the skin. It helps restore its protective barrier.&lt;/p&gt;
+
+&lt;p&gt;It provides up to 24 hours of hydration. Most importantly, it is also great for a sensitive skin!
+Seriously, so what else are we looking for?&lt;/p&gt;
+
+&lt;h1 id=&quot;why-should-you-opt-for-cerave-hydrating-facial-cleanser&quot;&gt;Why should you opt for &lt;a href=&quot;https://www.cerave.com/skincare/cleansers/hydrating-facial-cleanser&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;CeraVe Hydrating Facial Cleanser&lt;/a&gt;?&lt;/h1&gt;
+
+&lt;h1 id=&quot;active-ingredients&quot;&gt;Active Ingredients:&lt;/h1&gt;
+&lt;p&gt;The CeraVe Hydrating Facial Cleanser product label for key active ingredients are salicylic acid, hyaluronic acid and ceramides.
+Other ingredients include oils that can help to moisturise skin.&lt;/p&gt;
+
+&lt;h1 id=&quot;hyaluronic-acid&quot;&gt;&lt;a href=&quot;https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses/&quot; target=&quot;_blank&quot;&gt;Hyaluronic acid:&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This ingredient attracts hydration to the skin’s surface and helps the skin retain moisture.&lt;/p&gt;
+&lt;h1 id=&quot;ceramides-&quot;&gt;&lt;a href=&quot;https://www.sheenycare.com/what-is-ceramide/&quot; target=&quot;_blank&quot;&gt;Ceramides: &lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Essential for healthy skin, ceramides help restore and maintain the skin’s natural barrier. Well, way to go!&lt;/p&gt;
+
+&lt;h1 id=&quot;free-of-fragrance&quot;&gt;Free of Fragrance:&lt;/h1&gt;
+&lt;p&gt;Dermatologists recommend using products without any added fragrance. Fragrances irritate already inflamed skin. No facial wash needs fragrance. Your skin is already suffering from irritation with acne and possible medication.&lt;/p&gt;
+
+&lt;p&gt;So, this product has botanical or plant-based fragrance. Non-comedogenic, non-irritating and fragrance-free. Certainly, one more reason to get that bottle of CeraVe Hydrating Facial Cleanser right now! 
+Formulated for Face:&lt;/p&gt;
+
+&lt;p&gt;CeraVe Hydrating Facial Cleanser ingredient’s concentrations of the product are regulated differently for face and body.
+They are different with higher concentrations of detergents in body products. As a result, may make them more damaging to sensitive facial skin.
+So, never use the body products for your face!&lt;/p&gt;
+
+&lt;h1 id=&quot;how-to-use&quot;&gt;How To Use?&lt;/h1&gt;
+&lt;ol&gt;
+  &lt;li&gt;Firstly, wet skin with lukewarm water.&lt;/li&gt;
+  &lt;li&gt;After that, massage cleanser into skin in a gentle, circular motion.&lt;/li&gt;
+  &lt;li&gt;Lastly, rinse and pat your face with a clean towel.&lt;/li&gt;
+  &lt;li&gt;Finally! You are good to go.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Don’t you feel your face moisturised and plump already? To sum it up, you can always trust our recommendations.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Sep 2020 00:00:00 +0545</pubDate>
+        <link>http://localhost:4000/cerave-hydrating-facial-cleanser/</link>
+        <guid isPermaLink="true">http://localhost:4000/cerave-hydrating-facial-cleanser/</guid>
+        
+        <category>Face</category>
+        
+        <category>Cleanser</category>
+        
+        <category>CeraVe</category>
+        
+        <category>Dry Skin</category>
         
         
         <category>Skin Care</category>

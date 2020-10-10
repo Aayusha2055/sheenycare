@@ -1,4 +1,4 @@
-I"M+<p>The most effective way of taking care of the skin is by understanding one’s skin type. Skin care is an art and science and we all can learn this art. However, one should always know one’s skin type in order to take care of it properly.</p>
+I"b,<p>The most effective way of taking care of the skin is by understanding one’s skin type. Skin care is an art and science and we all can learn this art. However, one should always know one’s skin type in order to take care of it properly.</p>
 
 <p>While there are various products in the market that you can benefit from, but you might as well be using the wrong products for your skin unless you understand what your skin type is and what you should be giving to your skin.</p>
 
@@ -20,8 +20,27 @@
 
 <p>Furthermore, if you’re skin is more prone to inflamation and irritation then you’re skin is likely to be sensitive. Like other skin types, sensitive skin is also a common skin type and issue however it is not a medical condition.</p>
 
-<iframe src="https://www.youtube.com/embed/vic-EMOivpA" width="560" height="560" frameborder="0" allowfullscreen="">
+<div class="video-responsive">
+<iframe src="https://www.youtube.com/embed/vic-EMOivpA" width="560" height="340" frameborder="0" allowfullscreen="">
 </iframe>
+</div>
+
+<style>
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    margin-bottom: 5%;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+</style>
 
 <h1 id="different-skin-types">Different Skin Types</h1>
 <p>Overall, we have 5 different categories. However, a single skin type need not have same skin conditions and issues. Let’s categorise all these skin conditions and talk about how to deal with them individually.</p>
@@ -70,7 +89,7 @@
 <p>When skin doesn’t produce lot of oil as well as do not retain enough moisture, then such skin is dry and dehydrated skin. The skin is extremely flaky, tight and appearance of fine lines and wrinkles are more visible. Water-based products help retain moisture in the skin. Also, drink plenty of water to supply water in the epidermis.</p>
 
 <h2 id="32-dry-skin-with-aging">3.2: Dry Skin with Aging</h2>
-<p>The skin with aging is dry and tight throughout the year. Due to the lack of elasticity and glow in the skin, the skin looks tired. Hence, such skin requires <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active</a> and energising ingredients, firmimg peptides and a high concentration of AHA exfoliants to boost cellular turnover and even the skin complextion.</p>
+<p>The skin with aging is dry and tight throughout the year. Due to the lack of elasticity and glow in the skin, the skin looks tired. Hence, such skin requires <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" target="_blank">active</a> and energising ingredients, firmimg peptides and a high concentration of AHA exfoliants to boost cellular turnover and even the skin complextion.</p>
 
 <h2 id="33-dry-skin-with-damaged-skin">3.3: Dry Skin with Damaged Skin</h2>
 <p>The skin with damaged skin is dry and tight throughout the year. The skin is damaged due to over exposure of skin to the sun and tends to have brown spots, broken capillaries and loss of elasticity. To even out the skin tones, brightening ingredients should be used and  AHA exfoliants to boost cellular turnover.</p>
