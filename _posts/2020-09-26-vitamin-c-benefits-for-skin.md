@@ -8,10 +8,11 @@ image: assets/images/vitaminc.webp
 description: "Vitamin C is a vital molecule for skin health and skin care routine. The antioxidant properties of vitamin C improve the efficiency of sunscreen. It is layered underneath it to help prevent and treat ultraviolet (UV)-induced photodamage."
 ---
 
-# What is Vitamin C?
 
 If you are interested in the skin care game, then you have likely heard about Vitamin C serums. Most of the skin care enthusiast and dermatologists recommend
 the use of vitamin C. 
+
+# What is Vitamin C?
 
 Vitamin C, also known as ascorbic acid and ascorbate, is a vitamin found in various foods and sold as a dietary supplement.
 
