@@ -4,10 +4,8 @@ title:  "Ordinary Skin Care Routine For Dry and Dehydrated Skin"
 author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Ordinary Skin Routine, Dry Skin]
-image: assets/images/ordinary-skin-care-routine-dry-and-dehydrated-skin.png
-# rating: 4.5
-description: "The Ordinary Skin Care Routine is effective, as all ordinary products help you create the ordinary skin routine that actually works."
-
+image: assets/images/ordinary-skin-care-routine-dry-and-dehydrated-skin.webp
+description: "The deciem brand has extraordinary collection of Ordinary skin care products that gives amazing result following the ordinary skin care routine for dry and dehydrated skin."
 ---
 
 The ordinary skincare products have specific skin care routine for dry and dehydrated skin. There treatments offer an effective clinical technologies that help you build amazing skin care routine.

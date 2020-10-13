@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "CeraVe Renewing Salicylic Acid Cleanser - Everything You Need to Know, Uses and Ingredients"
+title:  "CeraVe Renewing Salicylic Acid Cleanser - Everything You Need to Know, Uses and Ingredients."
 author: Swikriti
 categories: [ Skin Care ]
 tags: [ Face, Cleanser, CeraVe, Acne-Prone Skin ]
-image: assets/images/cerave-sa-cleanser.png
-# rating: 4.5
+image: assets/images/cerave-sa-cleanser.webp
 description: "Salicylic Acid also improves dryness and softens the rough skin, we should really appreciate it! The product we really vouch for is by CeraVe, CeraVe Renewing Salicylic Acid Cleanser infused with salicylic acid enhances the barrier-strengthening with the ingredients like ceramides."
 
 ---

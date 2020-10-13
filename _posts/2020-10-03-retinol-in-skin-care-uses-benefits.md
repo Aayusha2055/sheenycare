@@ -4,8 +4,7 @@ title:  "Retinol in Skin Care Routine, its Uses, Benefits and Effects."
 author: Aayusha
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
-image: assets/images/what-is-retinol.png
-# rating: 4.5
+image: assets/images/what-is-retinol.webp
 description: "Retinol in skin care is a vitamin A derivative with multiple benefits such as skin cell turnover, unclogging pores, smooth skin, refine skin textures, and lighten age spots. It treats fine lines, wrinkles as well as acne."
 ---
 
@@ -44,7 +43,7 @@ In fact, retinol is a huge family of the compound derivative of vitamin A. It go
 
 
 
-![Different Types of Retinol |sheenycare.com ](/assets/images/retinol-types.png "Different Types of Retinol")
+![Different Types of Retinol |sheenycare.com ](/assets/images/retinol-types.webp "Different Types of Retinol")
 <!-- ![Snail Bee high content essence ](/assets/images/Snail-essence.png "Snail Bee high content essence ") -->
 
 
@@ -131,21 +130,21 @@ After that, apply eye cream first as areas around the eye are delicate.
 
 
 
-### Step 3.
+### Step 3
 In addition, dry your face completely because slightly dampen skin might irritate the skin as it is able to absorb the product completely.
 
 
-### Step 4.
+### Step 4
 Once dried, you can take a pea-sized amount of the product and start at your chin, gradually to the upwards and outward motion.
 
 
 
-### Step 5.
+### Step 5
 Finish with your moisturizer and always look for moisturizers with <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">Hyaluronic Acid</a> and <a href="https://www.sheenycare.com/what-is-ceramide/" target="_blank">Ceramides</a>. You can also choose the buffering technique, where you apply moisturizer before applying retinol to reduce its side effects.
 
 
 
-### Step 6.
+### Step 6
 Always remember to use broad-spectrum sunscreen the morning after as retinol makes the skin more sensitive to the sun.
 
 
@@ -172,7 +171,7 @@ You can also experience some when you first start to apply it. Here are some tha
 4. Retinols that are orally taken such as Isotretinoin have shown harmful side effects on pregnant women, including miscarriage.
 
 
-# Recommended Products with Retinol for Acne.
+# Best Products with Retinol for Acne.
 
 
 1. <a href="https://www.differin.com/shop/differin-gel" rel="nofollow" target="_blank">Differin Adapelene Gel 0.1% Acne Treatment</a>
@@ -181,7 +180,7 @@ You can also experience some when you first start to apply it. Here are some tha
 </a>
 
 
-# Recommended Products with Retinol for Aging.
+# Best Products with Retinol for Aging.
 
 
 1. <a href="https://www.olay.com/regenerist-retinol-24-night-facial-serum-fragrance-free" rel="nofollow" target="_blank">Olay Regenerist Retinol 24 Night Facial Serum</a>
@@ -190,7 +189,7 @@ You can also experience some when you first start to apply it. Here are some tha
 </a>
 
 
-# Recommended Products with Retinol for Sensitive Skin.
+# Best Products with Retinol for Sensitive Skin.
 
 
 1. <a href="https://www.cerave.com/skincare/serums/skin-renewing-retinol-serum" rel="nofollow" target="_blank">CeraVe Skin Renewing Retinol Cream Serum</a>

@@ -4,15 +4,15 @@ title:  "What is Vitamin C and How Do They Work In Skin Care Routines?"
 author: Aayusha
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
-image: assets/images/vitaminc.png
-# rating: 4.5
+image: assets/images/vitaminc.webp
 description: "Vitamin C is a vital molecule for skin health and skin care routine. The antioxidant properties of vitamin C improve the efficiency of sunscreen. It is layered underneath it to help prevent and treat ultraviolet (UV)-induced photodamage."
 ---
 
-# What is Vitamin C?
 
 If you are interested in the skin care game, then you have likely heard about Vitamin C serums. Most of the skin care enthusiast and dermatologists recommend
 the use of vitamin C. 
+
+# What is Vitamin C?
 
 Vitamin C, also known as ascorbic acid and ascorbate, is a vitamin found in various foods and sold as a dietary supplement.
 
@@ -32,7 +32,7 @@ There are several good sources of vitamin C in foods. We get vitamin C from seve
 Although we're probably getting Vitamin C from our diet we do not know whether it does go into our skin or not.
 
 # Forms of Vitamin C in Skin Care
-L-ascorbic acid is the purest and potent form of Vitamin C. It is one of the most important and commonly used <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredient</a> as it has a huge role in collagen synthesis.
+L-ascorbic acid is the purest and potent form of Vitamin C. It is one of the most important and commonly used <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" target="_blank">active ingredient</a> as it has a huge role in collagen synthesis.
 
 The other less potent derivatives of L-ascorbic acid are:
 1. Sodium Ascorbyl Phosphate
@@ -62,7 +62,7 @@ Hence, one of the main vitamin C derivatives used in skin care called Magnesium 
 Vitamin C helps fade pigmentation and reduce dullness of the skin, giving the skin a even tone and youthful glow.
 
 # 4. It helps lighten pigmentation:
-Hyperpigmentaion (sun-spots, age-spots and melasma) occurs when an enzyme called <a href="https://www.webmd.com/a-to-z-guides/what-is-melanin" target="_blank" rel="nofollow"></a>melanin is over produced in the skin. Hypepigmentaion can also occured in areas where acne has healed.
+Hyperpigmentaion (sun-spots, age-spots and melasma) occurs when an enzyme called <a href="https://www.webmd.com/a-to-z-guides/what-is-melanin" target="_blank" rel="nofollow">melanin</a> is over produced in the skin. Hypepigmentaion can also occured in areas where acne has healed.
 
 Vitamin C has shown to reduce the production of melanin in the skin and help fade dark spots leading to an even tone skin complexion.
 
@@ -101,7 +101,7 @@ Oxidized vitamin c is likely to be less effective to the skin. In other words, f
 # How long does it take to work?
 Research shows that Vitamin C starts working within **6 weeks** of application in the skin to treat **hyperpigmentation** and **hydrate the skin** whereas **12 weeks** to treat **fine lines and wrinkles**.
 
-# Recommended Products with Vitamin C.
+# Best Products with Vitamin C.
 
 1. <a href="https://indeedlabs.com/shop/vitamin-c24-s/" rel="nofollow" target="_blank">Indeed Labs Vitamin C24</a>
 2. <a href="https://sundayriley.com/products/ceo-vitamin-c-brightening-serum" rel="nofollow" target="_blank">Sunday Riley C.E.O 15% Vitamin C Brightening Serum</a>

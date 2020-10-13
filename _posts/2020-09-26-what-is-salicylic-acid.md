@@ -4,8 +4,7 @@ title:  "What is Salicylic Acid and How Do They Work In Skin Care Routines?"
 author: Aayusha
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
-image: assets/images/salicylic-acid.png
-# rating: 4.5
+image: assets/images/salicylic-acid.webp
 description: "Salicylic Acid is known to remove dead skin cells by getting deep into your pores and cleaning it. Salicylic acid is a non-comedogenic ingredient, it is more likely to loosen blackheads and clear pores if used in skin care routines. "
 ---
 
@@ -48,6 +47,6 @@ Ultra-Clarifying Acne Treatment Face Oil</a>
 # Skin Care Tip Using Salicylic Acid.
 If used with <a href="https://www.sheenycare.com/what-is-niacinamide/" target="_blank">Niacinamide:</a> Salicylic Acid helps treat acne way sooner than you might have imagined. 
 
-Learn more about other<a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> at <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">Sheeny Care.</a>
+Learn more about other <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> at <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">Sheeny Care.</a>
 
 

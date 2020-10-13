@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Seven Signs You Have Combination Skin"
+title:  "Seven Signs You Have Combination Skin and How To Treat It."
 author: Swikriti
 categories: [ Skin Care ]
 tags: [ Combination Skin ]
-image: assets/images/combinationskin.jpg
-# rating: 4.5
-description: ""
+image: assets/images/combinationskin.webp
+description: "If you're skin is dry and oily at the same time, such skin are called combination skin. Combination skin is not difficult to treat. You need to find best products for combination skin, determine how well they work with you and stick to a routine. "
 ---
 
 When our skin is either dry or oily, taking care of it is a pretty much straightforward process. But when you've got a little bit of both, things start to get complicated. Hydrating creams are very hydrating, oil-absorbing masks are awfully absorbing, balancing lotions never seem to do much balancing, the irony! And that's bad news for us. Combination skin is very tricky and confusing. Yes, it's true rather frustrating than confusing.

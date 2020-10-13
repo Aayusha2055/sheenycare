@@ -4,14 +4,13 @@ title:  "What are Niacinamide and How Do They Work In Skin Care Routines?"
 author: Aayusha
 categories: [ Skin Care]
 tags: [ Active Skin Care Ingredients ]
-image: assets/images/niacinamide.png
-# rating: 4.5
+image: assets/images/niacinamide.webp
 description: "Niacinamide reduces the apperance of skin blemishes and improves the skin barrier. Niacinamide visibly minimizes pores and decreases infamation when used regularly in skin care routine."
 ---
 
 Niacinamide reduces the apperance of skin blemishes and improves the skin barrier. It visibly minimizes pores and decreases infamation when used regularly in skin care routine.
 
-It is also called <a href="https://www.google.com/search?client=ubuntu&bih=942&biw=1848&hl=en&sxsrf=ALeKk00oSvPZ9h3bCaV_WRgqhL0kwKE69Q%3A1600850648732&ei=2AprX8OQLLOS4-EP3vKbqAo&q=Nicotinamide&oq=Nicotinamide&gs_lcp=CgZwc3ktYWIQAzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQR1DTnWhY051oYOCfaGgAcAN4AIABAIgBAJIBAJgBAKABAqABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab&ved=0ahUKEwjD3IWy8f7rAhUzyTgGHV75BqUQ4dUDCAw&uact=5" rel="nofollow" target="_blank">nicotinamide</a>, is one of two major forms of vitamin B3 <a href="https://www.google.com/search?client=ubuntu&bih=942&biw=1848&hl=en&sxsrf=ALeKk00BSkNZYqrd-Gmm61tmlOL10wBaJw%3A1600852358375&ei=hhFrX_m4FpzB3LUPssKsiAY&q=niacin&oq=niacin&gs_lcp=CgZwc3ktYWIQAzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQR1DahgRY2oYEYMeIBGgAcAN4AIABAIgBAJIBAJgBAKABAqABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab&ved=0ahUKEwj5k6Lh9_7rAhWcILcAHTIhC2EQ4dUDCAw&uact=5" rel="nofollow" target="_blank">(niacin)</a> found in supplements. Today, it has been a promised <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredient</a> to help manage acne, rosacea, pigmentation issues, and wrinkles.
+It is also called <a href="https://en.wikipedia.org/wiki/Nicotinamide" rel="nofollow" target="_blank">nicotinamide</a>, is one of two major forms of vitamin B3 <a href="https://www.webmd.com/diet/supplement-guide-niacin#1" rel="nofollow" target="_blank">(niacin)</a> found in supplements. Today, it has been a promised <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredient</a> to help manage acne, rosacea, pigmentation issues, and wrinkles.
 
 # What is it?
 As said earlier, it is a form of vitamin B3. It is water soluble and unlike <a href="https://www.sheenycare.com/what-is-ceramide/" target="_blank">ceramide</a>, our body doesn't store it.
@@ -40,4 +39,4 @@ The most common skin issues people have to face are acne,rosacea, pigmentation, 
 
 Most of the studies about it have been carried out at concentrations of 5% or below. And yes, it can do everything it's purported to: improve hyperpigmentation, fortify barrier function, normalize sebum production etc. However, we need to realize that niacinamide, and a whole host of other "actives" can do more harm than good when overused. 
 
-Learn more about other<a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> at <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">Sheeny Care.</a>
+Learn more about other active ingredients at Sheeny Care.

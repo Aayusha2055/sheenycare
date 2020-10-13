@@ -4,8 +4,7 @@ title:  "Skin Care Routine For Men - Guide to Begginers Skin Care Routine"
 author: Aayusha
 categories: [ Skin Care ]
 tags: [ Skin Care Routine, Men's  ]
-image: assets/images/skin-care-routine-for-men.png
-# rating: 4.5
+image: assets/images/skin-care-routine-for-men.webp
 description: "Skin care routine is super easy to make. Especially for men who think they do not need one just because they're men. The skin has no gender and skin care routine is important for all skin types. You do need a solid men's skin care routine."
 
 ---
@@ -32,7 +31,7 @@ Chemical exfoliation penetrates the skin and cleanses it from the inside.
 
 You do not need to exfoliate the skin everyday as overusing <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" target="_blank">active ingredients</a> will not do any good to your skin.
 
-![Clinique For Men Exfoliating Tonic](/assets/images/exfoliator-for-men.png "Clinique For Men Exfoliating Tonic")
+![Clinique For Men Exfoliating Tonic](/assets/images/exfoliator-for-men.webp "Clinique For Men Exfoliating Tonic")
 
 # Step 3: Serum
 Serum are packed with balanced concerntration of different [active ingredients](https://sheenycare.com/active-ingredients-for-skin-care/){:target="_blank"} together. They are specifically used for aging, skin dehydration, hyperpigmentation, dark spots etc. 
@@ -46,7 +45,7 @@ If you're having a problem choosing the right moisturiser for you then you shoul
 
 Opt for moisturisers with ceramides and pettides and do not be afraid of [controversial ingredients.](https://sheenycare.com/tags#Controversial-Ingredients){:target="_blank"}
 
-![NIVEA MEN Sensitive Protective Moisturiser SPF15](/assets/images/nivea-moisturizer-for-men.png "NIVEA MEN Sensitive Protective Moisturiser SPF15")
+![NIVEA MEN Sensitive Protective Moisturiser SPF15](/assets/images/nivea-moisturizer-for-men.webp "NIVEA MEN Sensitive Protective Moisturiser SPF15")
 
 # Step 5: SPF
 We are constantlye exposed to the sun. Protecting the skin from the UV rays is a must. If you're exposed to natural light without any protection, you're skin is likely to get damaged.

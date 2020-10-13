@@ -1,18 +1,17 @@
 ---
 layout: post
-title:  "Are Silicons Safe - A guide to contoversial skin care ingredient!"
+title:  "Are Silicones Safe - A guide to contoversial skin care ingredient!"
 author: Aayusha
 categories: [ Skin Care]
 tags: [ Silicon, Controversial Ingredients ]
-image: assets/images/silicon.png
-# rating: 4.5
-description: ""
+image: assets/images/silicon.webp
+description: "Silicones are widely using in skin care products. They are made of completely natural ingredients but undergo chemical processing. They are used to improve the texture of skin care products. They are beneficial for the skin because of its emolliency (skin smoothing) and water loss prevention properties."
 ---
 
 The paraben free fuss is really huge. But so is using skin care products with silicone. Silicone is made from silicon (sand), oxygen and other elements. They have been used in skin care products for years.
 
 # What is Silicone?
-Silicone are made of completely natural ingredients but undergo chemical processing. It is used to improve the texture of skin care products. It is beneficial for the skin because of its emolliency (skin smoothing) and water loss prevention properties.
+Silicone are made of completely natural ingredients but undergo chemical processing. They are used to improve the texture of skin care products. They are beneficial for the skin because of its emolliency (skin smoothing) and water loss prevention properties.
 
 # Controversies on Silicone!
 The term <u>"synthetic"</u> is used to undermine the properties of silicone. They are said to be <u>"unnatural"</u>.
