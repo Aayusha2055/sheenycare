@@ -96,7 +96,7 @@ It is formulated in such a way that even people with irritation or allergies fro
 **Niacinamide is safe for all skin types.**
 
 # How long does it take to work?
-Research shows that Niacinamide starts working within 
+Research shows that Niacinamide starts working within:
 * **4 weeks** of application in the skin to treat hyperpigmentation, redness and hydrate the skin whereas, 
 * **8 to 12 weeks** to treat acne, fine lines and wrinkles and
 * It takes upto **2 to 6 weeks** to reduce oiliness from the skin.
@@ -118,7 +118,7 @@ You should apply the serum evenly throughout the face and on areas with high seb
 Moisturizer with Niacinamide should be used at the end of the skin care routine after cleansing, toning and applying serum, typically like any other moisturizer but before sunscreen and makeup.
 
 # Side effects of using Niacinamide in skin care routine.
-Niacinamide is an extremely powerful active ingredient used in skin care routine. But we should be very careful while choosing the product. Products with higher concentration of Niacinamide may cause skin irritation. Also, you should not used be overusing as you can experience some redness or even worse (dermatitis)
+Niacinamide is an extremely powerful active ingredient used in skin care routine. But we should be very careful while choosing the product. Products with higher concentration of Niacinamide may cause skin irritation. Also, you should not used be overusing as you can experience some redness or even worse (dermatitis).
 
 # Recommended Products with Niacinamide.
 
