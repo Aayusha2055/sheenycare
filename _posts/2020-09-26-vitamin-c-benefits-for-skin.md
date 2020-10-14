@@ -85,7 +85,7 @@ However, Vitamin C is rich in antioxidant and they protect the skin cells by giv
 The effect of sunscreen is doubled when Vitamin C is layered underneath it. Hence, Vitamin C aids in calming the skin and increasing the cell turnover. Hence, the sunburnt skin is rejuvenated faster i.e it replaces the damaged cells with healthy new one.
 
 # Who needs Vitamin C Serum?
-**All skin type** needs Vitamin C. 
+**All skin types** need Vitamin C. 
 
 # How to use it?
 Vitamin C can be used both in the AM and PM after cleansing the skin. Furthermore, it can also be layered with acids and <a href="https://www.sheenycare.com/what-is-niacinamide/" target="_blank">niacinamide</a>.

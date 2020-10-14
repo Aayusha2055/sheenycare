@@ -88,7 +88,6 @@ As a result, you look younger and your skin looks healthy when you consistenly u
 Retinol is safe for all skin types but it may cause dryness, redness, and irritation to some especially if it's the first time using it. Therefore, if you want to use retinol in skin care routine, you should start slow.
 
 
-
 # When to start using Retinol?
 Since retinol was used to specifically treat acne in the late 1970s, so it was prescribed to young people back then as well. **"Young people cannot use retinol" is a complete myth**.
 

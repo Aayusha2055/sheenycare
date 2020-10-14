@@ -16,7 +16,7 @@ While there are various products in the market that you can benefit from, but yo
 This way, you will be taking care of your skin as well as avoiding products that might be not suitable for your skin.
 
 
-For that, we first need to <a href="https://www.sheenycare.com/determine-your-skin-type/" target="_blank">determine our skin type</a>. Basically, there are two easy approaches to doing so.
+For that, we first need to <a href="https://www.sheenycare.com/determine-your-skin-type/" target="_blank">determine our skin type</a>. Basically, there are two easy approaches of doing so.
 
 
 # The Bare-Faced Method
