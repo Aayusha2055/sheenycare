@@ -8,7 +8,7 @@ image: assets/images/skin-care-routine-for-oily-skin.webp
 description: "Skin Care Routine For Oily Skin can help reduce acne breakouts and prevent shininess. Cleansing, toning, treating, and moisturizing both in the morning and evening will help treat acne, clogged, and large pores."
 ---
 
-To have oily skin is as normal as having skin. It is not a skin condition, rather a skin type. To <a href="https://www.sheenycare.com/how-to-determine-my-skin-type/" target="_blank">determine</a> whether you have oily skin or not is super easy. In fact, you know it already when you’re skin is oily. That is because you feel greasy all the time.
+To have oily skin is as normal as having skin. It is not a skin condition, rather a skin type. If you are unsure about your skin type then check this out to <a href="https://www.sheenycare.com/how-to-determine-my-skin-type/" target="_blank">determine your skin type</a>. In fact, you know it already when you’re skin is oily. That is because you feel greasy all the time.
 
 Having oily skin is indeed a challenge because the possibility of skin issues is endless. You can have pores, you can have severe breakouts, acne can be your best friend and so many issues that need proper treatment and care. This is why a skin care routine for oily skin is very important.
 
@@ -69,7 +69,7 @@ People with oily skin may have severe acne, fine lines and wrinkles, hyperpigmen
 
 Hence, if you feel you’re skin needs hydration, then you need to use a hydrating serum. If you want to balance oil production, you need to use an oil-based serum. Similarly, if you want to fight fine lines and wrinkles, you need to use anti-aging serums.
 
-## The best treatment for oily skin: Retinol
+## <a href="https://www.sheenycare.com/retinol-in-skin-care-uses-benefits/" target="_blank">The best treatment for oily skin: Retinol</a>
 Dermatologists swears by this treatment and it is by far the best treatment for oily skin. Oily skin can tolerate retinol the best. It should be applied at night and slowly introduced in your skin care routine. Start using it two or three times a week for the first month. It is a drying ingredient so go slow with this product and gradually increase the use.
 
 1. <a href="https://www.cerave.com/skincare/serums/resurfacing-retinol-serum" target="_blank" rel="nofollow">CeraVe Resurfacing Retinol Serum.</a>
