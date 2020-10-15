@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "How To Build Best Skin Care Routine For Oily Skin - Morning and Evening."
+title:  "How To Build Best Skin Care Routine For Oily Skin - Morning and Evening"
 author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Oily Skin ]
 image: assets/images/skin-care-routine-for-oily-skin.webp
-description: "Skin Care Routine For Oily Skin can help reduce acne breakouts and prevent shininess. Cleansing, toning, treating, and moisturizing both in the morning and evening will help treat acne, clogged, and large pores."
+description: "Skin Care Routine For Oily Skin can help reduce acne breakouts and prevent shininess. Using right products for cleansing, toning, treating, and moisturizing both in the morning and evening will help treat acne, clogged, and large pores."
 ---
 
 To have oily skin is as normal as having skin. It is not a skin condition, rather a skin type. If you are unsure about your skin type then check this out to <a href="https://www.sheenycare.com/how-to-determine-my-skin-type/" target="_blank">determine your skin type</a>. In fact, you know it already when you’re skin is oily. That is because you feel greasy all the time.
@@ -106,9 +106,6 @@ This is the final step of skin care routine for oily skin. You should always a b
 ## Best SPF for oily skin:
 1. <a href="https://www.kiehls.com/skincare/face-body-sunscreen/super-fluid-daily-uv-defense-spf-50/833.html" target="_blank" rel="nofollow">Kiehl's Super Fluid Daily UV Defense SPF 50+.</a>
 
-<!-- ## 2.1: Oily Skin with Clogged Pores and Severe Breakouts
-Such skin experince the most breakout among all other skin types. An AHA/BHA pore clearing exfoliants either in clarifying toners or peels must be used to effectively unclog pores and reduce breakouts. -->
-
 # Weekly skin care routine for oily skin.
 
 ## 1. Face Masks:
@@ -129,7 +126,7 @@ Oils are powerful ingredient that can be used in skin care routine for oily skin
 
 These oils also are light in texture and don’t make the skin greasy. A moisturizer with alpha hydroxy acid is a good choice to use along with a facial oil, if you have oily skin
 
-# Skin Care Tip For Oily Skin.
+# Other important factors that help with oily skin.
 
 ## 1. Choose the right products:
 
