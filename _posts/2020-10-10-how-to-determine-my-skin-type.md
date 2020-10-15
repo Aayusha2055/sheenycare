@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Different Skin Types and How To Take Care of Them"
+title:  "Different Skin Types and How To Take Care of Them."
 author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin, Body]
@@ -72,9 +72,10 @@ Oily skin type always seem to be glowing. The reason behind this being the greas
 Such skin experince the most breakout among all other skin types. An AHA/BHA pore clearing exfoliants either in clarifying toners or peels must be used to effectively unclog pores and reduce breakouts.
 
 # Skin Care Tip For Oily Skin
-For oily skin, products with mineral oil, petrolatum and alcohol based should be avoilded. Any product that doesn't claim to be non-comodogenic should be avoided. Hence, while choosing products, one should always choose the "non-comodogenic" ones, which would not clog pores.
 
-Oil free moisturisers work great for such skin types. Chemical exfoliators tend to be gentle and they unclog the pores, hence, minimize breakouts. Clay masks also soothes the inflamation and controles the oil in the skin.
+If you have oily skin, products with mineral oil, petrolatum, and alcohol based should be avoided. Also, while choosing products, one should always choose the “non-comedogenic” ones, which would not clog pores.
+
+Oil-free moisturizers work great for such skin types. Chemical exfoliators tend to be gentle and they unclog the pores, hence, minimize breakouts. Clay masks also soothe the inflammation and control the oil in the skin.
 
 Also, cleanse your skin twice a day rather than over-cleaning as drying out your pores can cause them to produce even more oil.
 
