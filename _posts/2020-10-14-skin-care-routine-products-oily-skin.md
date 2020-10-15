@@ -70,7 +70,7 @@ People with oily skin may have severe acne, fine lines and wrinkles, hyperpigmen
 Hence, if you feel you’re skin needs hydration, then you need to use a hydrating serum. If you want to balance oil production, you need to use an oil-based serum. Similarly, if you want to fight fine lines and wrinkles, you need to use anti-aging serums.
 
 ## The best treatment for oily skin: Retinol
-Dermatologists swears by this treatment and it is by far the best treatment for oily skin. Oily skin can tolerate <a href="https://www.sheenycare.com/retinol-in-skin-care-uses-benefits/" target="_blank">retinol</a> the best. It should be applied at night and slowly introduced in your skin care routine. Start using it two or three times a week for the first month. It is a drying ingredient so go slow with this product and gradually increase the use.
+Dermatologists swears by this treatment and it is by far <a href="https://www.sheenycare.com/retinol-in-skin-care-uses-benefits/" target="_blank">the best treatment for oily skin</a>. Oily skin can tolerate retinol the best. It should be applied at night and slowly introduced in your skin care routine. Start using it two or three times a week for the first month. It is a drying ingredient so go slow with this product and gradually increase the use.
 
 1. <a href="https://www.cerave.com/skincare/serums/resurfacing-retinol-serum" target="_blank" rel="nofollow">CeraVe Resurfacing Retinol Serum.</retinol>
 2. <a href="https://www.laroche-posay.us/face-and-body-skin-care/face-products/face-serum/retinol-b3-pure-retinol-serum-3337875694469.html" target="_blank" rel="nofollow">La Roche Posay Retinol B3 Pure Retinol Serum.</a>
