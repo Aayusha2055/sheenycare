@@ -22,7 +22,7 @@ Oily skin type always seems to be glowing. The reason behind this being the grea
 But since the skin is ours, we have full power to take it under our control. And we can do it with a proper skin care routine for oily skin.
 
 # Skin Care Routine For Oily Skin 
-The morning routine for people with oily skin is made up of four easy steps. These steps will keep your skin healthy, clear, and shine-free.
+The skin care routine for people with oily skin is made up of four easy steps. These steps will keep your skin healthy, clear, and shine-free.
 
 ## Step 1: Cleanse:
 

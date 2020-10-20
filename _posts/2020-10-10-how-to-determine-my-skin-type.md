@@ -4,7 +4,7 @@ title:  "Different Skin Types and How To Take Care of Them."
 author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin, Body]
-image: assets/images/determineskintype.webp
+image: assets/images/determineskintype.png
 description: "It is important to know your skin type. If your skin is tight, your skin is dry. If your skin feels oily in the tzone, it is combination skin type and if it feels sticky and moisturised, it is oily. "
 ---
 The most effective way of taking care of the skin is by understanding one's skin type. Skin care is an art and science and we all can learn this art. However, one should always know one's skin type in order to take care of it properly.
@@ -84,7 +84,7 @@ Also, cleanse your skin twice a day rather than over-cleaning as drying out your
 Dry skin type produces less sebum than normal and oily skin type. Hence, it lacks the lipids that are required to retain moisture in the skin. The skin seems flaky and the texture of the skin is rough.
 
 ## 3.1: Dry and Dehydrated Skin
-When skin doesn't produce lot of oil as well as do not retain enough moisture, then such skin is dry and dehydrated skin. The skin is extremely flaky, tight and appearance of fine lines and wrinkles are more visible. Water-based products help retain moisture in the skin. Also, drink plenty of water to supply water in the epidermis.
+When skin doesn't produce lot a of oil as well as does not retain enough moisture, then such skin is dry and dehydrated skin. The skin is extremely flaky, tight and appearance of fine lines and wrinkles are more visible. Water-based products help retain moisture in the skin. Also, drink plenty of water to supply water in the epidermis.
 
 ## 3.2: Dry Skin with Aging
 The skin with aging is dry and tight throughout the year. Due to the lack of elasticity and glow in the skin, the skin looks tired. Hence, such skin requires <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" target="_blank">active</a> and energising ingredients, firmimg peptides and a high concentration of AHA exfoliants to boost cellular turnover and even the skin complextion.
@@ -93,7 +93,7 @@ The skin with aging is dry and tight throughout the year. Due to the lack of ela
 The skin with damaged skin is dry and tight throughout the year. The skin is damaged due to over exposure of skin to the sun and tends to have brown spots, broken capillaries and loss of elasticity. To even out the skin tones, brightening ingredients should be used and  AHA exfoliants to boost cellular turnover.
 
 ## 3.4: Dry Skin with Sensitivity and Redness
-The skin with sensitivity and redness is dry and tight throughout the year along with loss of elasticity. The skin is red consistently, and gets irritated easily especially. Harsh and drying products sensitizes the skin. That is why, such skin requires active ingredients such as peptides to soothe the skin. Furthermore, it requires calming and brightening ingredients to deal with redness. 
+The skin with sensitivity and redness is dry and tight throughout the year along with loss of elasticity. The skin is red consistently, and gets irritated easily. Harsh and drying products sensitizes the skin. That is why, such skin requires active ingredients such as peptides to soothe the skin. Furthermore, it requires calming and brightening ingredients to deal with redness. 
 
 # Skin Care Tip For Dry Skin
 A good moisturiser with hyaluronic acid and peptides will help seal moisture in the skin. When Caring for dry skin, a product with ingredient named Squalene is a must. Squalene helps satabilize skin's barrier and maintain moisture. Using product with sqaulene replenishes skin for soft, smooth and healthy appearances. Also, the air around the house should be moist to help seal moisture.
