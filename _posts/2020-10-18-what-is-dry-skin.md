@@ -8,7 +8,10 @@ image: assets/images/dryskincare.webp
 # rating: 4.5
 description: "Maintaining a healthy skin barrier daily is one of the best ways to prevent outbreaks of dry skin. Learn about dry skin care tips, routine, natural home remedies, foods, products essential for skin care routine."
 ---
-
+<iframe scrolling="no" height="180px" width="100%" data-appid="UZJvDse3_"
+        class="app-ep-iframe" frameborder="0" src="https://play.ht/embed/?article_url=https://www.sheenycare.com/what-is-dry-skin/&voice=Noah" article-url="https://www.sheenycare.com/what-is-dry-skin/"
+        allowfullscreen="">
+</iframe>
 I’ve struggled with dry skin my entire life. Well, the problem exactly is not limited to the skin on my face. I have rough patches from head to toe, followed by Keratosis Pilaris (chicken skin) in the legs, arms, and back.
 
 Since people all around the world have dry skin, it isn’t a skin condition, rather a skin type. However, there are severe cases, where a skin type is considered a skin condition. They might be eczema, red and irritated skin, medically called <a href="https://www.medicinenet.com/seborrheic_dermatitis/article.htm" rel="nofollow" target="_blank">Seborrheic dermatitis</a>, and many more.
