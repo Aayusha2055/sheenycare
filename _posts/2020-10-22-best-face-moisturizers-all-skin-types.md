@@ -4,7 +4,7 @@ title:  "The Best Face Moisturizers For All Skin Types - Dermatologist Reccomend
 author: Aayusha
 categories: [ Skin Care ]
 tags: [ Face, Moisturizer ]
-image: assets/images/best-face-moisturizer.png
+image: assets/images/best-face-moisturizer.webp
 # rating: 4.5
 description: "The 15 best face moisturizers including the best facial moisturizers, tinted moisturizers for normal skin, oily skin, sensitive skin, and very dry skin, and best drugstore moisturizers."
 ---
