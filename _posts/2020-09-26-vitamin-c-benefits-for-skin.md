@@ -7,10 +7,10 @@ tags: [ Active Skin Care Ingredients ]
 image: assets/images/vitaminc.webp
 description: "Vitamin C is a vital molecule for skin health and skin care routine. The antioxidant properties of vitamin C improve the efficiency of sunscreen. It is layered underneath it to help prevent and treat ultraviolet (UV)-induced photodamage."
 ---
-<iframe scrolling="no" height="180px" width="100%" data-appid="UZJvDse3_"
+<!-- <iframe scrolling="no" height="180px" width="100%" data-appid="UZJvDse3_"
         class="app-ep-iframe" frameborder="0" src="https://play.ht/embed/?article_url=https://www.sheenycare.com/vitamin-c-benefits-for-skin/&voice=Noah" article-url="https://www.sheenycare.com/vitamin-c-benefits-for-skin/"
         allowfullscreen="">
-</iframe>
+</iframe> -->
 
 If you are interested in the skin care game, then you have likely heard about Vitamin C serums. Most of the skin care enthusiast and dermatologists recommend
 the use of vitamin C. 
