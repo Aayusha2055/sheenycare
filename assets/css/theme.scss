@@ -34,6 +34,12 @@ img {
 h1,h2,h3,h4,h5,h6 {
     font-weight:700;
 }
+h2  {
+    font-size: 40px;
+}
+h3{
+    font-size: 34px;
+}
 .site-content {
     padding-top:50px;
 }
@@ -441,7 +447,7 @@ img, img:hover {
     }
 }
 .article-post {    
-    font-size:18px;
+    font-size: 18px;
     p {
         margin-top:30px;
         margin-bottom:30px;

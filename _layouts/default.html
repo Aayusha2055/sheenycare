@@ -7,8 +7,15 @@
     <meta name="p:domain_verify" content="0ae2b54f8736d03c237c83ee74cf02da" />
 
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
-
+<!-- Jekyll SEO -->
     {% seo %}
+<!-- Manual Implemented SEO -->
+{%if page.keywords %}
+<meta name="keywords" content="{{page.keywords}}">
+{% endif %}
+{%if page.robots %}
+<meta name="robots" content="{{page.robots}}">
+{% endif %}
 
     <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
 

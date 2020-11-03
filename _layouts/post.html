@@ -6,8 +6,8 @@ post_class: post-template
 ---
 
 <div class="entry-header">
-    <!-- Post Title -->
-    <h1 class="posttitle">{{ page.title }}</h1>
+    <!-- Post Main heading (Title) -->
+    <h1 class="posttitle">{%if page.heading%}{{page.heading}}{% else %}{{page.title}}{% endif %}</h1>
     <!-- Author & Date  Box -->
     {% assign author = site.authors[page.author] %}
     {% if page.author %}
