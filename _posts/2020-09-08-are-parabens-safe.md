@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Parabens In Skin Care - Know Its Benefits And Side Effects - Paraben Free Products"
+title: "What Are Parabens And They Really Bad For Your Skin?"
+heading:  "Parabens In Skin Care - Know Its Benefits And Side Effects - Paraben Free Products"
 author: Aayusha
 categories: [ Skin Care]
 tags: [ Parabens, Controversial Ingredients ]
