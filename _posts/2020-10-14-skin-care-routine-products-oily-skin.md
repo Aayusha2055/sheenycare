@@ -7,10 +7,7 @@ tags: [Skin Care Routine, Oily Skin ]
 image: assets/images/skin-care-routine-for-oily-skin.webp
 description: "Skin Care Routine For Oily Skin can help reduce acne breakouts and prevent shininess. Using right products for cleansing, toning, treating, and moisturizing both in the morning and evening will help treat acne, clogged, and large pores."
 ---
-<!-- <iframe scrolling="no" height="180px" width="100%" data-appid="UZJvDse3_"
-        class="app-ep-iframe" frameborder="0" src="https://play.ht/embed/?article_url=https://www.sheenycare.com/skin-care-routine-products-oily-skin/&voice=Noah" article-url="https://www.sheenycare.com/skin-care-routine-products-oily-skin/"
-        allowfullscreen="">
-</iframe> -->
+
 
 To have oily skin is as normal as having skin. It is not a skin condition, rather a skin type. If you are unsure about your skin type then check this out to <a href="https://www.sheenycare.com/how-to-determine-my-skin-type/" target="_blank">determine your skin type</a>. In fact, you know it already when you’re skin is oily. That is because you feel greasy all the time.
 
