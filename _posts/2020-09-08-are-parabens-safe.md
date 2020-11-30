@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Are Parabens And They Really Bad For Your Skin?"
+title: "What Are Parabens And Are They Really Bad For Your Skin?"
 heading:  "Parabens In Skin Care - Know Its Benefits And Side Effects - Paraben Free Products"
 author: Aayusha
 categories: [ Skin Care]
