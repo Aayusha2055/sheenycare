@@ -61,6 +61,10 @@
 <lastmod>2020-09-16T00:00:00+05:45</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/skin-care-routine-for-oily-skin/</loc>
+<lastmod>2020-09-19T00:00:00+05:45</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/cerave-foaming-facial-cleanser/</loc>
 <lastmod>2020-09-20T00:00:00+05:45</lastmod>
 </url>
@@ -93,6 +97,10 @@
 <lastmod>2020-10-03T00:00:00+05:45</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/skin-buffering-retinol/</loc>
+<lastmod>2020-10-05T00:00:00+05:45</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/how-to-determine-my-skin-type/</loc>
 <lastmod>2020-10-10T00:00:00+05:45</lastmod>
 </url>
@@ -111,6 +119,10 @@
 <url>
 <loc>http://localhost:4000/affordable-oily-skin-products/</loc>
 <lastmod>2020-11-28T00:00:00+05:45</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/affordable-dry-skin-products/</loc>
+<lastmod>2020-12-02T00:00:00+05:45</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about</loc>
@@ -141,5 +153,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page5/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page6/</loc>
 </url>
 </urlset>

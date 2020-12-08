@@ -16,7 +16,7 @@ My bestfriend has oily skin as well. She suffers from breakouts to blotchiness, 
 
 The ultimate goal of any skincare rookie is to achieve healthy and glowing skin. However, this might as well question the expenses you have made so far on worthless products that failed your skin. Yes, skincare products are affordable and despite what everyone else say, they are cheap. You can build a perfect and affordable skincare routine though there is no harm in spending a huge amount of money as well.
 
-Now, if you are interested in finding if your <a href="https://www.sheenycare.com/how-to-determine-my-skin-type/" target="_blank">skin is oily</a> or not, then you have landed in the right place. You can also read about building the <a href="https://www.sheenycare.com/skin-care-routine-products-oily-skin/" target="_blank">best skin care routine</a> for your oily skin and enhance your knowledge on this scope. Now let’s get on with products that generally work for oily skin.
+Now, if you are interested in finding if your <a href="https://www.sheenycare.com/how-to-determine-my-skin-type/" target="_blank">skin is oily</a> or not, then you have landed in the right place. You can also read about building <a href="https://www.sheenycare.com/skin-care-routine-products-oily-skin/" target="_blank">best skin care routine</a> for oily skin and enhance your knowledge on this scope. So, let’s get on with products that generally works for oily skin.
 
 ## Best skincare products for oily skin.
 
@@ -113,5 +113,5 @@ The product is non-comodogenic and well less is more. My mom loves olay, and inf
 <!-- <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=sheenycare-20&marketplace=amazon&region=US&placement=B07GB9GV8M&asins=B07GB9GV8M&linkId=4497f2d7bff3354baf099031c9fbd32f&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=00c5a1&bg_color=ffffff"></iframe> -->
 ![Facial Sunscreen and Antioxidants by Olay Sun](/assets/images/olaysunscreen.webp "Facial Sunscreen and Antioxidants by Olay Sun")
 
-Well this is all for today. I will be updating as soon as I discover other budget-friendly products for other skin types as well. If you would want to know more dupes of expensive skin care products, I will soon come up with such collections as well.
+Well this is all for today. I will be updating as soon as I discover other budget-friendly products for other skin types as well. If you would want to know more dupes of expensive skin care products, I will soon come up with such collections as well. Furthermore, the links in this posts are affiliate links and I might get a certain amount of commission on any purchase through the link.
 

@@ -58,7 +58,6 @@ Do not be confused with Retin A and Tretinoin. Retinol is a derivative of Vitami
 # <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">Hyaluronic Acid:</a> Hydrate
 Hyaluronic Acid has an amazing molecular property of holding up to 1,000 times its weight in water. It is a clear, silky smooth substance that is naturally produced by the body. It is able to improve the texture of the skin as well as its appearance.
 
-
 However, our body naturally decreases the production of Hyaluronic acid in our body after 30, which is why it is also a powerful anti-aging skin care ingredient.
 
 
