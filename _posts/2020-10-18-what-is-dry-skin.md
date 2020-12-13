@@ -17,7 +17,7 @@ These severe cases are a result of ignorance towards dry skin. So, if we start t
 
 So, let’s start by understanding the basics of dry skin and determine a proper self-care routine for dry skin.
 
-# What is dry skin?
+## What is dry skin?
 
 There are three layers that make up the skin. The epidermis is the outermost layer of the skin. When we say we have dry skin, it actually means, that there is a lack of water in the outermost layer of the skin i.e. the epidermis.
 
@@ -25,19 +25,19 @@ It is medically known as Xerosis. Dry skin is not usually serious and is caused 
 
 If you have dry skin, you might notice small fine flakes, cracking, and dry patches in your skin.
 
-# What causes dry skin?
+## What causes dry skin?
 * Humidity and temperature - have a profound effect on the amount of water retained within the skin.
 * Hot bath and showers - for a long time might result in dry skin. So does swimming frequently in chlorinated water.
 * Soaps and chemicals - are likely to strip moisture from your skin as they are formulated to remove oil and other skin conditions.
 
-# Lifestyle remedies for dry skin.
+## Lifestyle remedies for dry skin.
 * Drink plenty of water.
 * Do not bathe daily, instead of doing it every other day.
 * Moisturize your skin daily, especially right after you take bath.
 * Pat dry your skin after a shower.
 * Use hydrating and moisturizing soaps and body wash while showering.
 
-# Types of Dry Skin
+## Types of Dry Skin
 1. Dry and Dehydrated Skin
 2. Acne-Prone Dry Skin
 3. Dry and Sensitive Skin
@@ -45,11 +45,11 @@ If you have dry skin, you might notice small fine flakes, cracking, and dry patc
 
 Now that we have understood the basics, let's start understanding the routine necessary for several dry skin care types.
 
-# Daily Skin Care Routine for Dry and Dehydrated Skin
+## Daily Skin Care Routine for Dry and Dehydrated Skin
 
 When skin doesn't produce a lot of oil as well as does not retain enough moisture, then such skin is dry and dehydrated skin. The skin is extremely flaky, tight and appearance of fine lines and wrinkles are more visible. Water-based products help retain moisture in the skin. Also, drink plenty of water to supply water in the epidermis.
 
-## Morning Routine
+### Morning Routine
 1. **Cleanse:** Always start your morning routine by removing all the dirt and grease build up on the skin overnight. Use a gentle scrub or a cleanser. You can either let your skin dry itself or pat dry it.
 
 2. **Moisturize:** People with dry and dehydrated skin should be using a rich hydrating formula that suits the skin type well. Start with a small amount and apply it in circular motions. Keep adding a small amount until it is completely absorbed by the skin. Your skin should not feel oily or greasy after applying the moisturizer.
@@ -58,10 +58,10 @@ When skin doesn't produce a lot of oil as well as does not retain enough moistur
 
 4. **Sunscreen and Makeup:** Cosmetics are always the last step of any skin care routine and so is for dehydrated and dry skin care. Use hydrating and moisturized SPF of 30+ UVA protection. Always wear sunscreen before makeup. Also, use hydrating and moisturizing lip balms on your chapped lips.
 
-## Day Care
+### Day Care
 If your skin seems to be immediately dry, or slowly you seem to feel a lack of moisture then dab a few spots of moisturizer in the skin. Also, do the same thing with lip balms.
 
-## Night Routine
+### Night Routine
 
 1. **Double Cleanse:** Always start your night routine by removing all the dirt, make-up and grease build up on the skin during the day. Use a make-up remover first to remove the make-up and SPF. Switch to water cleanser after removing the make-up to cleanse remaining residues on the skin.
 
@@ -74,10 +74,10 @@ If your skin seems to be immediately dry, or slowly you seem to feel a lack of m
 5. **Eye Cream:** Also add a good eye cream to your skin care routine to prevent any further dryness around the eyes as well as to prevent aging.
 
 
-# Daily Skin Care Routine for Dry and Acne-Prone Skin
+## Daily Skin Care Routine for Dry and Acne-Prone Skin
 The skin with dryness and acne is tight throughout the year along with loss of elasticity. The skin is red and bumpy consistently on areas with acne and gets irritated easily. Harsh and drying products sensitizes the skin. That is why such skin requires active ingredients such as peptides to soothe the skin. Furthermore, it requires calming and brightening ingredients to deal with redness and Salicylic Acid to deep cleanse pores.
 
-## Morning Routine
+### Morning Routine
 1. **Cleanse:** Always start your morning routine by removing all the dirt and grease build up on the skin overnight. Alter between a gentle cleanse and exfoliating cleanser in the morning. You can either let your skin dry itself or pat dry it.
 
 2. **Serum:** People with dry and dehydrated skin should be using a protective formula that suits the skin type well. [Vitamin C](https://www.sheenycare.com/vitamin-c-benefits-for-skin/){:target="_blank"} serum is the one people are most obsessed with. Start with a small amount and apply it in circular motions. Keep adding a small amount until it is completely absorbed by the skin. Your skin should not feel oily or greasy after applying the moisturizer.
@@ -86,10 +86,10 @@ The skin with dryness and acne is tight throughout the year along with loss of e
 
 4. **Sunscreen and Makeup:** Cosmetics are always the last step of any skin care routine and so is for acne-prone and dry skin care. Use hydrating and tinted sunscreen SPF of 30+ UVA protection. Always wear sunscreen before makeup. Also, use hydrating and moisturizing lip balms on your chapped lips.
 
-## Day Care
+### Day Care
 If your skin seems to be immediately dry, or slowly you seem to feel a lack of moisture then dab a few spots of moisturizer in the skin. Also, do the same thing with lip balms.
 
-## Night Routine
+### Night Routine
 
 1. **Double Cleanse:** Always start your night routine by removing all the dirt, make-up and grease build up on the skin during the day. Use an oil cleanser first to remove the make-up and SPF. Switch to benzoyl peroxide cleanser after removing the make-up to cleanse remaining residues on the skin.
 
@@ -102,7 +102,7 @@ If your skin seems to be immediately dry, or slowly you seem to feel a lack of m
 5. **Eye Cream:** Also add a good eye cream to your skin care routine to prevent any further dryness around the eyes as well as to prevent aging.
 
 
-# Best Foods For Dry Skin Care
+## Best Foods For Dry Skin Care
 There are great foods available for people with dry skin types.
 
 1. Whole Milk
