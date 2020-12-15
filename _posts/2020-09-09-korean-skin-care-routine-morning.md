@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "The Complete 8-Step Korean Skincare Routine for Morning"
+title:  "Korean Skincare Routine For Morning"
+heading: "8 Steps Korean Skincare Routine For Morning"
 author: Aayusha
 categories: [ Skin Care ]
 tags: [Skin Care Routine, Korean Skin Care, Morning Skin Care Routine ]
@@ -100,7 +101,6 @@ Just a few drops are enough quantity to apply at a time. Use your fingers and pr
 * <a href="https://www.amazon.com/dp/B06Y15D1LH/ref=as_sl_pc_tf_til?tag=sheenycare-20&linkCode=w00&linkId=ef236fa2cd38a6f055699322da5ea03f&creativeASIN=B06Y15D1LH" target="_blank" rel="nofollow">Skin1004 Madagascar Centella Asiatica 100 Ampoule (for acne-prone and dry skin)</a>
 * <a href="https://www.amazon.com/dp/B08GS3NFDH/ref=as_sl_pc_tf_til?tag=sheenycare-20&linkCode=w00&linkId=f1ddc49047db1ead556c58f8a9fd36ca&creativeASIN=B08GS3NFDH" target="_blank" rel="nofollow">Make P: Rem Safe Me Gentle Hydrating Ampoule (for sensitive and all other skin types)</a>
 
-
 ![Best Korean Ampoule](/assets/images/best-korean-ampoule.webp "Best Korean Ampoule")
 
 ### Step 5: Apply Serum
@@ -158,8 +158,6 @@ Always choose a sunscreen with SPF 30 or greater than that. Along with eye cream
 
 ![Best Korean Sunscreen](/assets/images/best-korean-sunscreen.webp "Best Korean Sunscreen")
 
-
-
 ## Does Korean skincare work?
 Developing a skincare routine that really works for your skin along with your lifestyle is diligent. And talk about all other factors like your <a href="https://www.sheenycare.com/how-to-determine-my-skin-type/" target="_blank">skin type</a>, age, and stress you take, or even the environment you’re living in.
 
@@ -169,7 +167,7 @@ So it all comes down to experimenting with what really works for you. That being
 
 These are the 8-step Korean skincare routine order and I have even made your life easier by recommending products based on skin types. Your ideal morning skincare routine should somewhat look like this if you are to follow the morning Korean skincare routine.
 
-Now that you have learned about building a Korean skincare routine for the morning, to know more about taking care of your skin in the evening as well, read more about how to design and build a <a href="https://sheenycare.com/korean-skin-care-routine-night/" rel="dofollow" target="_blank">Korean skin care routine for the evening</a>. 
+Now that you have learned about building a Korean skincare routine for the morning, to know more about taking care of your skin in the evening as well, read more about how to design and build a <a href="https://sheenycare.com/korean-skin-care-routine-night/" target="_blank">Korean skin care routine for the evening</a>. 
 
 Moreover, I can't wait to hear down in the comment section about your experiences with Korean skincare products and using them in your skincare routine.
 

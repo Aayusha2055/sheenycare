@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "What Are Parabens And Are They Really Bad For Your Skin?"
-heading:  "Parabens In Skin Care - Know Its Benefits And Side Effects - Paraben Free Products"
+title: "Are Parabens Safe? Know It's Benifts & Side Effects"
+heading:  "Are Parabens Safe For Your Skin? Know Its Benefits And Side Effects"
 author: Aayusha
 categories: [ Skin Care]
 tags: [ Parabens, Controversial Ingredients ]
 image: assets/images/paraben.webp
-description: "Parabens are widely using in skin care products. They are the most studied preservatives used in skin care products. A lot of controversies on parabens are not backed by enough research and facts. Research up to date hasn't shown adverse effects by paraben on humans."
+description: "Are parabens safe for your skin? Know its uses, benifits and effects in skin care and beauty products"
 ---
 
 The paraben free label is slapped into most of the skin care brands and cosmetic products. With new ingredients in the market everyday, we have now been conscious about not only what goes inside our body but also what we put on our skin. 
