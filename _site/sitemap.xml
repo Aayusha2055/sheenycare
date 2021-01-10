@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/mixing-skincare-ingredients/</loc>
+<lastmod>2020-08-12T00:00:00+05:45</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/determine-your-skin-type/</loc>
 <lastmod>2020-09-04T00:00:00+05:45</lastmod>
 </url>
@@ -61,6 +65,10 @@
 <lastmod>2020-09-16T00:00:00+05:45</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/skin-care-routine-for-oily-skin/</loc>
+<lastmod>2020-09-19T00:00:00+05:45</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/cerave-foaming-facial-cleanser/</loc>
 <lastmod>2020-09-20T00:00:00+05:45</lastmod>
 </url>
@@ -93,6 +101,10 @@
 <lastmod>2020-10-03T00:00:00+05:45</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/skin-buffering-retinol/</loc>
+<lastmod>2020-10-05T00:00:00+05:45</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/how-to-determine-my-skin-type/</loc>
 <lastmod>2020-10-10T00:00:00+05:45</lastmod>
 </url>
@@ -117,6 +129,14 @@
 <lastmod>2020-12-02T00:00:00+05:45</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/acne-prone-skincare-routine/</loc>
+<lastmod>2020-12-15T00:00:00+05:45</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/different-types-of-acne/</loc>
+<lastmod>2021-01-10T14:56:53+05:45</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -135,6 +155,9 @@
 <loc>http://localhost:4000/category/skin-care/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/category/acne/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/page2/</loc>
 </url>
 <url>
@@ -145,5 +168,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page5/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page6/</loc>
 </url>
 </urlset>
