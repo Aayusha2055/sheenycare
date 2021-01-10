@@ -3,14 +3,14 @@
   <channel>
     <title>Sheeny Care</title>
     <description>Skin Care is made easy with Sheeny Care as we help you make skincare routines understand skincare products, talk about various skin care regimens, and give you insights on beauty products and services.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Jan 2021 14:57:57 +0545</pubDate>
-    <lastBuildDate>Sun, 10 Jan 2021 14:57:57 +0545</lastBuildDate>
-    <generator>Jekyll v4.1.1</generator>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 Jan 2021 19:59:13 +0545</pubDate>
+    <lastBuildDate>Sun, 10 Jan 2021 19:59:13 +0545</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
     
       <item>
-        <title>Different Types of Acne with Pictures and How to Treat Them</title>
+        <title>Different Types Of Acne And How To Cure Them</title>
         <description>&lt;p&gt;Hi people, I’m back again and today we will be talking about the different types of acne and how to treat them.&lt;/p&gt;
 
 &lt;p&gt;I am super nervous while I’m writing this because I intend to be the Wikipedia of acne today. Apparently, I never have had problems with or by acne.&lt;/p&gt;
@@ -90,7 +90,7 @@
 
 &lt;p&gt;The key ingredient that is used to treat non-inflammatory acne is Salicylic Acid. Salicylic acid helps deep cleanse the pores by exfoliating them.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.sheenycare.com/what-is-salicylic-acid/&quot; target=&quot;_blank&quot; rel=&quot;dofollow&quot;&gt;Check out what Salicylic acid is and why you must have it for treating acne.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check Out: &lt;a href=&quot;https://www.sheenycare.com/what-is-salicylic-acid/&quot; target=&quot;_blank&quot;&gt;What salicylic acid is and why you must have it for treating acne.&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;blackheads-open-comedones&quot;&gt;Blackheads (open comedones)&lt;/h3&gt;
 &lt;p&gt;Blackheads are the result of a combination of dead skin cells and excess sebum production. Well, to identify if you have blackheads or not, refer to the following picture.&lt;/p&gt;
@@ -227,9 +227,9 @@
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Sun, 10 Jan 2021 14:56:53 +0545</pubDate>
-        <link>http://localhost:4000/different-types-of-acne/</link>
-        <guid isPermaLink="true">http://localhost:4000/different-types-of-acne/</guid>
+        <pubDate>Sun, 10 Jan 2021 00:00:00 +0545</pubDate>
+        <link>/different-types-of-acne-how-to-cure-them/</link>
+        <guid isPermaLink="true">/different-types-of-acne-how-to-cure-them/</guid>
         
         <category>Acne Types</category>
         
@@ -237,23 +237,6 @@
         
         
         <category>Acne</category>
-        
-      </item>
-    
-      <item>
-        <title>Acne-Prone Skin: How to Treat it and Stop Breakouts</title>
-        <description>
-</description>
-        <pubDate>Tue, 15 Dec 2020 00:00:00 +0545</pubDate>
-        <link>http://localhost:4000/acne-prone-skincare-routine/</link>
-        <guid isPermaLink="true">http://localhost:4000/acne-prone-skincare-routine/</guid>
-        
-        <category>Skin Care Routine</category>
-        
-        <category>Dry Skin</category>
-        
-        
-        <category>Skin Care</category>
         
       </item>
     
@@ -346,8 +329,8 @@
 
 </description>
         <pubDate>Wed, 02 Dec 2020 00:00:00 +0545</pubDate>
-        <link>http://localhost:4000/affordable-dry-skin-products/</link>
-        <guid isPermaLink="true">http://localhost:4000/affordable-dry-skin-products/</guid>
+        <link>/affordable-dry-skin-products/</link>
+        <guid isPermaLink="true">/affordable-dry-skin-products/</guid>
         
         <category>Skin Care Routine</category>
         
@@ -465,8 +448,8 @@ It also acts as a makeup primer which absorbs quickly &amp;amp; keeps makeup fro
 
 </description>
         <pubDate>Sat, 28 Nov 2020 00:00:00 +0545</pubDate>
-        <link>http://localhost:4000/affordable-oily-skin-products/</link>
-        <guid isPermaLink="true">http://localhost:4000/affordable-oily-skin-products/</guid>
+        <link>/affordable-oily-skin-products/</link>
+        <guid isPermaLink="true">/affordable-oily-skin-products/</guid>
         
         <category>Skin Care Routine</category>
         
@@ -689,8 +672,8 @@ It also acts as a makeup primer which absorbs quickly &amp;amp; keeps makeup fro
 
 </description>
         <pubDate>Thu, 22 Oct 2020 00:00:00 +0545</pubDate>
-        <link>http://localhost:4000/best-face-moisturizers-all-skin-types/</link>
-        <guid isPermaLink="true">http://localhost:4000/best-face-moisturizers-all-skin-types/</guid>
+        <link>/best-face-moisturizers-all-skin-types/</link>
+        <guid isPermaLink="true">/best-face-moisturizers-all-skin-types/</guid>
         
         <category>Face</category>
         
@@ -850,8 +833,8 @@ It also acts as a makeup primer which absorbs quickly &amp;amp; keeps makeup fro
 
 </description>
         <pubDate>Sun, 18 Oct 2020 00:00:00 +0545</pubDate>
-        <link>http://localhost:4000/what-is-dry-skin/</link>
-        <guid isPermaLink="true">http://localhost:4000/what-is-dry-skin/</guid>
+        <link>/what-is-dry-skin/</link>
+        <guid isPermaLink="true">/what-is-dry-skin/</guid>
         
         <category>Dry Skin</category>
         
@@ -1022,8 +1005,8 @@ Lightweight Daily Face Moisturizer.&lt;/a&gt;&lt;/li&gt;
 
 </description>
         <pubDate>Wed, 14 Oct 2020 00:00:00 +0545</pubDate>
-        <link>http://localhost:4000/skin-care-routine-products-oily-skin/</link>
-        <guid isPermaLink="true">http://localhost:4000/skin-care-routine-products-oily-skin/</guid>
+        <link>/skin-care-routine-products-oily-skin/</link>
+        <guid isPermaLink="true">/skin-care-routine-products-oily-skin/</guid>
         
         <category>Skin Care Routine</category>
         
@@ -1178,8 +1161,8 @@ Lightweight Daily Face Moisturizer.&lt;/a&gt;&lt;/li&gt;
 &lt;p&gt;If you’re still skeptical about your skin type, then you should consult with a dermatologist.&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Oct 2020 00:00:00 +0545</pubDate>
-        <link>http://localhost:4000/how-to-determine-my-skin-type/</link>
-        <guid isPermaLink="true">http://localhost:4000/how-to-determine-my-skin-type/</guid>
+        <link>/how-to-determine-my-skin-type/</link>
+        <guid isPermaLink="true">/how-to-determine-my-skin-type/</guid>
         
         <category>Skin</category>
         
@@ -1187,17 +1170,6 @@ Lightweight Daily Face Moisturizer.&lt;/a&gt;&lt;/li&gt;
         
         
         <category>Skin Care</category>
-        
-      </item>
-    
-      <item>
-        <title>Skin Buffering Retinol</title>
-        <description>
-</description>
-        <pubDate>Mon, 05 Oct 2020 00:00:00 +0545</pubDate>
-        <link>http://localhost:4000/skin-buffering-retinol/</link>
-        <guid isPermaLink="true">http://localhost:4000/skin-buffering-retinol/</guid>
-        
         
       </item>
     
@@ -1348,8 +1320,184 @@ Lightweight Daily Face Moisturizer.&lt;/a&gt;&lt;/li&gt;
 &lt;p&gt;Let us know you’re favorite skincare ingredient if you have any, and tell us why you love them so much. And if it’s Retinol, let’s discuss more on our favorite products. Shall we?&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Oct 2020 00:00:00 +0545</pubDate>
-        <link>http://localhost:4000/retinol-in-skin-care-uses-benefits/</link>
-        <guid isPermaLink="true">http://localhost:4000/retinol-in-skin-care-uses-benefits/</guid>
+        <link>/retinol-in-skin-care-uses-benefits/</link>
+        <guid isPermaLink="true">/retinol-in-skin-care-uses-benefits/</guid>
+        
+        <category>Active Skin Care Ingredients</category>
+        
+        
+        <category>Skin Care</category>
+        
+      </item>
+    
+      <item>
+        <title>What is Salicylic Acid and How Do They Work In Skin Care Routines?</title>
+        <description>&lt;p&gt;Salicylic Acid(SA) are a part of beta-hydroxy acid. BHA’s specifically are acne-treating ingredients. Most of the skincare product that deals with acne and breakouts contain salicylic acid.&lt;/p&gt;
+
+&lt;p&gt;It is oil soluble and is known to remove dead skin cells by penetrating into the skin to reduce the sebum production .&lt;/p&gt;
+
+&lt;p&gt;Because it is a non-comedogenic ingredient, it is more likely to loosen blackheads and clear pores. Also, it is not irritating to your skin as compared to benzoyl peroxide.&lt;/p&gt;
+
+&lt;h1 id=&quot;who-needs-sa&quot;&gt;Who needs SA?&lt;/h1&gt;
+&lt;ol&gt;
+  &lt;li&gt;Acne-prone skin&lt;/li&gt;
+  &lt;li&gt;Oily skin with closed comodones&lt;/li&gt;
+  &lt;li&gt;Blackheads/Whiteheads&lt;/li&gt;
+  &lt;li&gt;Rosacea&lt;/li&gt;
+  &lt;li&gt;Keratosis Piliaris&lt;/li&gt;
+  &lt;li&gt;Milia and Ingrown Hairs&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;how-to-use-sa&quot;&gt;How to use SA?&lt;/h1&gt;
+&lt;p&gt;It can be used by directly applying into the affected areas. It is supposed to be applied after cleansing and toning. You can apply products with SA both in the AM as well as PM. You need to avoid the areas around your eyes to prevent any casualty that can arise due to this ingredient.&lt;/p&gt;
+
+&lt;h1 id=&quot;benefits-of-using-salicylic-acid&quot;&gt;Benefits of using Salicylic Acid.&lt;/h1&gt;
+&lt;ol&gt;
+  &lt;li&gt;It is known to reduce sebum secretion.&lt;/li&gt;
+  &lt;li&gt;It exfoliates the skin and unclogs the pores.&lt;/li&gt;
+  &lt;li&gt;It sheds dead skin cells and debris.&lt;/li&gt;
+  &lt;li&gt;It is an anti-inflamatory and anti-bacterial skin care ingredient.&lt;/li&gt;
+  &lt;li&gt;It also offers a UV protective effect therefore does not make the skin sensitive to the sun.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;how-long-does-it-take-to-work&quot;&gt;How long does it take to work?&lt;/h1&gt;
+&lt;p&gt;Research shows that Salicylic Acid starts working within &lt;strong&gt;2 to 12 weeks&lt;/strong&gt; of application in the skin to treat &lt;strong&gt;acne&lt;/strong&gt;. Therefore, this ingredient is best for oily skin with comodones.&lt;/p&gt;
+
+&lt;h1 id=&quot;recommended-products-with-salicylic-acid&quot;&gt;Recommended Products with Salicylic Acid.&lt;/h1&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.paulaschoice.com/skin-perfecting-2pct-bha-liquid-exfoliant/201.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;Paula Choice 2% BHA Liquid Exfoliant&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sundayriley.com/products/ufo-acne-treatment-face-oil&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;Sunday Riley U.F.O.
+Ultra-Clarifying Acne Treatment Face Oil&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theordinary.deciem.com/product/rdn-salicylic-acid-2pct-solution-30ml?redir=1&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;The Ordinary Salicylic 2% Solution&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;skin-care-tip-using-salicylic-acid&quot;&gt;Skin Care Tip Using Salicylic Acid.&lt;/h1&gt;
+&lt;p&gt;If used with &lt;a href=&quot;https://www.sheenycare.com/what-is-niacinamide/&quot; target=&quot;_blank&quot;&gt;Niacinamide:&lt;/a&gt; Salicylic Acid helps treat acne way sooner than you might have imagined.&lt;/p&gt;
+
+&lt;p&gt;Learn more about other &lt;a href=&quot;https://www.sheenycare.com/active-ingredients-for-skin-care/&quot; rel=&quot;dofollow&quot; target=&quot;_blank&quot;&gt;active ingredients&lt;/a&gt; at &lt;a href=&quot;https://www.sheenycare.com/active-ingredients-for-skin-care/&quot; rel=&quot;dofollow&quot; target=&quot;_blank&quot;&gt;Sheeny Care.&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 26 Sep 2020 00:00:00 +0545</pubDate>
+        <link>/what-is-salicylic-acid/</link>
+        <guid isPermaLink="true">/what-is-salicylic-acid/</guid>
+        
+        <category>Active Skin Care Ingredients</category>
+        
+        
+        <category>Skin Care</category>
+        
+      </item>
+    
+      <item>
+        <title>What is Vitamin C and How Do They Work In Skin Care Routines?</title>
+        <description>&lt;p&gt;If you are interested in the skin care game, then you have likely heard about Vitamin C serums. Most of the skin care enthusiast and dermatologists recommend
+the use of vitamin C.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-vitamin-c&quot;&gt;What is Vitamin C?&lt;/h1&gt;
+
+&lt;p&gt;Vitamin C, also known as ascorbic acid and ascorbate, is a vitamin found in various foods and sold as a dietary supplement.&lt;/p&gt;
+
+&lt;p&gt;It is a vital molecule for skin health. It is an essential nutrient found in high levels in both the dermis &amp;amp; epidermis. However, it depletes as we age.&lt;/p&gt;
+
+&lt;h1 id=&quot;how-do-we-get-vitamin-c-from-foods&quot;&gt;How do we get Vitamin C from foods?&lt;/h1&gt;
+&lt;p&gt;There are several good sources of vitamin C in foods. We get vitamin C from several foods such as:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Citrus fruits like Oranges&lt;/li&gt;
+  &lt;li&gt;Pepper&lt;/li&gt;
+  &lt;li&gt;Strawberry&lt;/li&gt;
+  &lt;li&gt;Blackcurrants&lt;/li&gt;
+  &lt;li&gt;Broccoli&lt;/li&gt;
+  &lt;li&gt;Brussels sprouts&lt;/li&gt;
+  &lt;li&gt;Potatoes etc.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Although we’re probably getting Vitamin C from our diet we do not know whether it does go into our skin or not.&lt;/p&gt;
+
+&lt;h1 id=&quot;forms-of-vitamin-c-in-skin-care&quot;&gt;Forms of Vitamin C in Skin Care&lt;/h1&gt;
+&lt;p&gt;L-ascorbic acid is the purest and potent form of Vitamin C. It is one of the most important and commonly used &lt;a href=&quot;https://www.sheenycare.com/active-ingredients-for-skin-care/&quot; target=&quot;_blank&quot;&gt;active ingredient&lt;/a&gt; as it has a huge role in collagen synthesis.&lt;/p&gt;
+
+&lt;p&gt;The other less potent derivatives of L-ascorbic acid are:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Sodium Ascorbyl Phosphate&lt;/li&gt;
+  &lt;li&gt;Ascorbyl Palmitate&lt;/li&gt;
+  &lt;li&gt;Ascorbyl Glucoside&lt;/li&gt;
+  &lt;li&gt;Magnesium Ascorbyl Phosphate&lt;/li&gt;
+  &lt;li&gt;3-O Ethyl Ascorbic Acid&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;While all the forms of Vitamin C have antioxidants, there are few formulas of vitamin C that works better than the other in skin care.
+As said earlier, Ascorbic Acid, also known as the L-Ascorbic acid is the most studied form of vitamin C. When this formula is properly created below the pH level of 4(2.6 - 3.2) which is the ideal range, it helps create younger looking, firmir skin while fading dark spots, pigmentations and signs of uneven skin tone.&lt;/p&gt;
+
+&lt;p&gt;There are studies of Vitamin C with higher concerntration of upto 30% and have been used in the study of animal, maximum absorbtion was found with a 20% Vitamin C solution.&lt;/p&gt;
+
+&lt;h1 id=&quot;benefits-of-using-vitamin-c-serum&quot;&gt;Benefits of using Vitamin C Serum.&lt;/h1&gt;
+&lt;p&gt;Now that we’ve known that Vitamin C is a highly beneficial antioxidant ingredient, it has plenty of other properties that helps both the skin and the body and deserves a permanent place in your skin care cabinets. Lets talk in depth about all the goodness of Vitamin C.&lt;/p&gt;
+
+&lt;h1 id=&quot;1-it-suits-all-skin-type&quot;&gt;1. It suits all skin type:&lt;/h1&gt;
+&lt;p&gt;Vitamin C is known to improve several skin issues but it is not limited to a skin type. Most people can easily use topical Vitamin C for a prolonged period of time, without having faced any reactions on the skin.&lt;/p&gt;
+
+&lt;p&gt;People with hypersensitive skin may experience irritation but perhaps this occurs in rare cases only.&lt;/p&gt;
+
+&lt;h1 id=&quot;2-it-hydrates-the-skin&quot;&gt;2. It hydrates the skin:&lt;/h1&gt;
+&lt;p&gt;Our skin is not properly hydrated in most of the cases. The reason behind this is very simple, we are top to bottom covered by the skin. Comprising 64% of water, your skin needs hydration.
+Hence, one of the main vitamin C derivatives used in skin care called Magnesium ascorbyl phosphate, has been shown to help the skin retain water and prevent it from being too dry(dehydrated) or oily.&lt;/p&gt;
+
+&lt;h1 id=&quot;3-it-brightens-the-skin&quot;&gt;3. It brightens the skin:&lt;/h1&gt;
+&lt;p&gt;Vitamin C helps fade pigmentation and reduce dullness of the skin, giving the skin a even tone and youthful glow.&lt;/p&gt;
+
+&lt;h1 id=&quot;4-it-helps-lighten-pigmentation&quot;&gt;4. It helps lighten pigmentation:&lt;/h1&gt;
+&lt;p&gt;Hyperpigmentaion (sun-spots, age-spots and melasma) occurs when an enzyme called &lt;a href=&quot;https://www.webmd.com/a-to-z-guides/what-is-melanin&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;melanin&lt;/a&gt; is over produced in the skin. Hypepigmentaion can also occured in areas where acne has healed.&lt;/p&gt;
+
+&lt;p&gt;Vitamin C has shown to reduce the production of melanin in the skin and help fade dark spots leading to an even tone skin complexion.&lt;/p&gt;
+
+&lt;h1 id=&quot;5-it-promotes-collagen-production&quot;&gt;5. It promotes collagen production:&lt;/h1&gt;
+&lt;p&gt;Collagen is a naturally occuring protein that depletes over time. Vitamin C is well known for boosting collagen production in the skin. Lower level of collagen leads to fine lines and wrinkles.&lt;/p&gt;
+
+&lt;p&gt;The increase in collagen production has multiple advantages to the skin. This protein helps give skin that tight and plump look. Regular use of Vitamin C will slow down skin aging as it keeps producing enough collagen in the skin.&lt;/p&gt;
+
+&lt;h1 id=&quot;6-it-lessens-the-appearance-of-fine-lines-and-wrinkles&quot;&gt;6. It lessens the appearance of fine lines and wrinkles:&lt;/h1&gt;
+&lt;p&gt;Vitamin C protects the skin against any damages and help skin to regenerate. With additional hydration benefits and collagen stimulation, our skin neutralizes free radicals. Thus, lessening the appearance of fine lines and wrinkles.&lt;/p&gt;
+
+&lt;h1 id=&quot;7-it-revitalizes-sun-damaged-skin&quot;&gt;7. It revitalizes sun damaged skin&lt;/h1&gt;
+&lt;p&gt;Over exposure of the skin to the sun has an adverse effect itself. We can observe skin issues such as flakiness, discolored patches (sunspots), rough areas, rosacea, etc. The damages by the sun are due to a molecule called free radicals.&lt;/p&gt;
+
+&lt;p&gt;These are atoms but with missing elctrones. Hence, on their serach of electon, they steat it from our skin, causing a significant damage to the skin.&lt;/p&gt;
+
+&lt;p&gt;However, Vitamin C is rich in antioxidant and they protect the skin cells by giving an electron to these radicals.&lt;/p&gt;
+
+&lt;h1 id=&quot;8-it-helps-soothe-sunburns&quot;&gt;8. It helps soothe sunburns&lt;/h1&gt;
+&lt;p&gt;The effect of sunscreen is doubled when Vitamin C is layered underneath it. Hence, Vitamin C aids in calming the skin and increasing the cell turnover. Hence, the sunburnt skin is rejuvenated faster i.e it replaces the damaged cells with healthy new one.&lt;/p&gt;
+
+&lt;h1 id=&quot;who-needs-vitamin-c-serum&quot;&gt;Who needs Vitamin C Serum?&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;All skin types&lt;/strong&gt; need Vitamin C.&lt;/p&gt;
+
+&lt;h1 id=&quot;how-to-use-it&quot;&gt;How to use it?&lt;/h1&gt;
+&lt;p&gt;Vitamin C can be used both in the AM and PM after cleansing the skin. Furthermore, it can also be layered with acids and &lt;a href=&quot;https://www.sheenycare.com/what-is-niacinamide/&quot; target=&quot;_blank&quot;&gt;niacinamide&lt;/a&gt;.
+However, it can be irritating if used in a high percentage. Hence, if you are new to this ingredient, opt for a less potent derivative or lower percentage.&lt;/p&gt;
+
+&lt;h1 id=&quot;stability-of-vitamin-c-serum&quot;&gt;Stability of Vitamin C Serum.&lt;/h1&gt;
+&lt;p&gt;The stability of this ingredient depends on its formulation, preservatives used, and encapsulation. The reason behind this is because ascorbic acid easily oxidizes to dehydroascorbic acid when exposed to oxygen &amp;amp; light.&lt;/p&gt;
+
+&lt;p&gt;You can easily determine whether the product you have has oxidized or not by checking its color. If the color of the serum tends to be brown or orange from colorless, then it probably has been oxidized.&lt;/p&gt;
+
+&lt;p&gt;Oxidized vitamin c is likely to be less effective to the skin. In other words, formulas with water are stabilized using Ferulic Acid and Vitamin E to slow down the oxidization process.&lt;/p&gt;
+
+&lt;h1 id=&quot;how-long-does-it-take-to-work&quot;&gt;How long does it take to work?&lt;/h1&gt;
+&lt;p&gt;Research shows that Vitamin C starts working within &lt;strong&gt;6 weeks&lt;/strong&gt; of application in the skin to treat &lt;strong&gt;hyperpigmentation&lt;/strong&gt; and &lt;strong&gt;hydrate the skin&lt;/strong&gt; whereas &lt;strong&gt;12 weeks&lt;/strong&gt; to treat &lt;strong&gt;fine lines and wrinkles&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;best-products-with-vitamin-c&quot;&gt;Best Products with Vitamin C.&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://indeedlabs.com/shop/vitamin-c24-s/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;Indeed Labs Vitamin C24&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sundayriley.com/products/ceo-vitamin-c-brightening-serum&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;Sunday Riley C.E.O 15% Vitamin C Brightening Serum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theordinary.deciem.com/product/rdn-magnesium-ascorbyl-phosphate-10pct-30ml?redir=1&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;The Ordinary Magnesium Ascorbyl Phosphate 10%&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Let us know you’re favourite serum if you have any and tell us why you love them so much. And if it’s Vitamin C, let’s discuss more on our favorite serum. Shall we?&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Sep 2020 00:00:00 +0545</pubDate>
+        <link>/vitamin-c-benefits-for-skin/</link>
+        <guid isPermaLink="true">/vitamin-c-benefits-for-skin/</guid>
         
         <category>Active Skin Care Ingredients</category>
         
