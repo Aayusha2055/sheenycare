@@ -102,10 +102,10 @@ While buying moisturizer for dry skin, one should look after the following ingre
 
 Best face moisturizers recommended by Dermatologist for dry skin:
 
-1. <a href="https://www.cetaphil.com/us/product/moisturizing-cream" target="_blank" rel="nofollow">Cetaphil Moisturizing Cream</a>
-2. <a href="https://www.cerave.com/skincare/moisturizers/moisturizing-cream" target="_blank" rel="nofollow">CeraVe Moisturizing Cream</a>
-3. <a href="https://int.eucerin.com/products/urea-repair/plus-cream-5percent-urea" target="_blank" rel="nofollow">Eucerin UreaRepair PLUS 5% Urea Body Cream </a>
-4. <a href="https://www.laroche-posay.us/face-and-body-skin-care/body-care/body-lotion/lipikar-balm-ap--moisturizer-for-dry-skin-3337872418570.html" rel="nofollow" target="_blank">La Roche Posay Lipikar Balm AP+ Moisturizer for Dry Skin </a>
+1. <a target="_blank" href="https://www.amazon.com/gp/product/B086LJQNB2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B086LJQNB2&linkCode=as2&tag=sheenycare-20&linkId=e6aaffd12969d60ab2fdc76c4d4de94e">Cetaphil Moisturizing Cream</a>
+2. <a target="_blank" href="https://www.amazon.com/gp/product/B00TTD9BRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TTD9BRC&linkCode=as2&tag=sheenycare-20&linkId=f37c648688f5ae22b8c32b5876d1a4bb">CeraVe Moisturizing Cream</a>
+3. <a target="_blank" href="https://www.amazon.com/gp/product/B000KU93FS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000KU93FS&linkCode=as2&tag=sheenycare-20&linkId=1f6d3f5cce4d0ee4f0359b290d57ad59">Eucerin Dry Skin Replenishing Cream - 5% Urea</a>
+4. <a target="_blank" href="https://www.amazon.com/gp/product/B003QXZWYW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003QXZWYW&linkCode=as2&tag=sheenycare-20&linkId=89447c3f6b9e91536ebb8b94b735e649">La Roche-Posay Lipikar Balm AP+ Intense Repair Body Cream for Extra Dry Skin</a>
 
 # Best moisturizers for oily skin.
 While buying moisturizer for oily skin, one should look after the following ingredients:
@@ -120,8 +120,8 @@ While buying moisturizer for oily skin, one should look after the following ingr
 
 Best face moisturizers recommended by Dermatologist for oily skin:
 
-1. <a href="https://www.laroche-posay.us/face-and-body-skin-care/face-products/face-moisturizer/toleriane-double-repair-face-moisturizer-3337875545792.html?cgid=face-moisturizer#start=8" target="_blank" rel="nofollow">La Roche Posay Toleriane Double Repair Face Moisturizer </a>
-2. <a href="https://www.amazon.com/First-Aid-Beauty-Rescue-Mattifying/dp/B00ZE3T6MG" target="_blank" rel="nofollow">First Aid Beauty Skin Rescue Oil-Free Mattifying Gel</a>
+1. <a target="_blank" href="https://www.amazon.com/gp/product/B01N9SPQHQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N9SPQHQ&linkCode=as2&tag=sheenycare-20&linkId=6cf7d4e061b1206e145d3225d1be251a">La Roche-Posay Toleriane Double Repair Face Moisturizer, Oil-Free Face Cream with Niacinamide</a>
+2. <a target="_blank" href="https://www.amazon.com/gp/product/B00ZE3T6MG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZE3T6MG&linkCode=as2&tag=sheenycare-20&linkId=8c440a3ddbee19feead2dded5738fe8a">First Aid Beauty Skin Rescue Oil-Free Mattifying Gel</a>
 
 # Best moisturizers for combination skin.
 While buying moisturizer for combination skin, one should look after the following ingredients:
@@ -134,8 +134,8 @@ While buying moisturizer for combination skin, one should look after the followi
 
 Best face moisturizers recommended by Dermatologist for combination skin:
 
-1. <a href="https://www.vanicream.com/product/vanicream-moisturizing-cream" target="_blank" rel="nofollow"> Vanicream Moisturizing Cream</a>
-2. <a href="https://www.cerave.com/skincare/moisturizers/pm-facial-moisturizing-lotion" target="_blank" rel="nofollow">CeraVe PM Facial Moisturizing Lotion</a>
+1. <a target="_blank" href="https://www.amazon.com/gp/product/B000NWGCZ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000NWGCZ2&linkCode=as2&tag=sheenycare-20&linkId=0063540c9b81f9ef9b9ff7b9700c5ab8">Vanicream Moisturizing Cream</a>
+2. <a target="_blank" href="https://www.amazon.com/gp/product/B00365DABC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00365DABC&linkCode=as2&tag=sheenycare-20&linkId=04dfbd8910cd16dae44dc4994451be9f">CeraVe PM Facial Moisturizing Lotion</a>
 
 
 # Best moisturizers for sensitive skin.
@@ -148,8 +148,8 @@ While buying moisturizer for sensitive skin, one should look after the following
 
 Best face moisturizers recommended by Dermatologist for sensitive skin:
 
-1. <a href="https://www.laroche-posay.us/face-and-body-skin-care/face-products/face-moisturizer/toleriane-ultra-moisturizing-cream-3337872412486.html" target="_blank" rel="nofollow">La Roche Posay Toleriane Ultra Moisturizing Cream </a>
-2. <a href="https://www.cetaphil.com/us/product/night-moisturizer-redness-prone-skin" target="_blank" rel="nofollow">Cetaphil Night Moisturizer for Redness Prone Skin</a>
+1. <a target="_blank" href="https://www.amazon.com/gp/product/B01N9SPQHQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N9SPQHQ&linkCode=as2&tag=sheenycare-20&linkId=6cf7d4e061b1206e145d3225d1be251a">La Roche-Posay Toleriane Double Repair Face Moisturizer, Oil-Free Face Cream with Niacinamide</a>
+2. <a target="_blank" href="https://www.amazon.com/gp/product/B01M68AVUB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M68AVUB&linkCode=as2&tag=sheenycare-20&linkId=0347563b287905e908b53ba00f0b96b2">Cetaphil Redness Relieving Night Moisturizer</a>
 
 # Best moisturizers for mature skin.
 While buying moisturizer for mature skin, one should look after the following ingredients:
@@ -164,8 +164,8 @@ While buying moisturizer for mature skin, one should look after the following in
 
 Best face moisturizers recommended by Dermatologist for mature skin:
 
-1. <a href="https://www.cetaphil.com/us/product/restoring-lotion" target="_blank" rel="nofollow">Cetaphil Restoring Lotion </a>
-2. <a href="https://www.laroche-posay.us/face-and-body-skin-care/anti-aging-products/anti-aging-moisturizer/redermic-c-vitamin-c-lotion-3337872413704.html?cgid=anti-aging-moisturizer#start=2" target="_blank" rel="nofollow">La Roche Posay Redermic C Vitamin C Lotion</a>
+1. <a target="_blank" href="https://www.amazon.com/gp/product/B07S6CPWH4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07S6CPWH4&linkCode=as2&tag=sheenycare-20&linkId=39ffeb1bc0f974c7dba13a449cdf1aa1">Cetaphil Restoring Lotion with Antioxidants for Aging Skin</a>
+2. <a target="_blank" href="https://www.amazon.com/gp/product/B0038COKQ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0038COKQ2&linkCode=as2&tag=sheenycare-20&linkId=22895f89e03efbacbe99489453363f22">La Roche-Posay Redermic C Anti-Wrinkle Vitamin C Moisturizer with Pure Vitamin and Hyaluronic acid</a>
 
 # Best moisturizers for men.
 There's nothing like moisturizers is gender specific and any good moisturizer can be used by anyone. However, if you happen to be finding the right moisturizer for yourself, then you can first <a href="https://www.sheenycare.com/how-to-determine-my-skin-type/" target="_blank">determine your skin type</a> and then choose the moisturizer based on your skin concern and type. 
@@ -173,8 +173,8 @@ There's nothing like moisturizers is gender specific and any good moisturizer ca
 # Best moisturizers with SPF.
 Few best face moisturizers with SPF that suits all skin types are: 
 
-1. <a href="https://www.cerave.com/skincare/moisturizers/am-facial-moisturizing-lotion-with-sunscreen" target="_blank" rel="nofollow">CeraVe AM Facial Moisturizing Lotion with Sunscreen</a>
-2. <a href="https://www.iherb.com/pr/simple-skincare-protecting-light-moisturizer-spf-15-4-2-fl-oz-124-ml/92752" target="_blank" rel="nofollow">Simple Skincare, Protecting Light Moisturizer</a>
+1. <a target="_blank" href="https://www.amazon.com/gp/product/B00F97FHAW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F97FHAW&linkCode=as2&tag=sheenycare-20&linkId=9bc2097bc3fc090ea7caa4175ba1d603">CeraVe AM Facial Moisturizing Lotion SPF 30</a>
+2. <a target="_blank" href="https://www.amazon.com/gp/product/B00JKOBA06/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JKOBA06&linkCode=as2&tag=sheenycare-20&linkId=94a4cb8078995abe30dcfafca1f1e3e8">Simple Moisturizer Light Spf15</a>
 
 # Few myths on moisturizer.
 There are few bizzare myths about moisturizer you must know in order to clear your heads on how to use them properly in your skin care routine. Let's check them out one by one.
@@ -189,5 +189,11 @@ Good quality moisturizers generally contains all the necessary ingredients requi
 This is one of the biggest misconception people have. You really need a good UVA protected sunscreen of SPF 30 and above. It might be okay during the winter but you need a proper protection during the summer. Infact, moisturizer with SPF and moisturizer and SPF are two differnet skin care products and should be used independently as they have their own uses and benefits over the skin.
 
 There are few of the myths that people have over moisturizers. So, if you have had believed any of it, then it's high time to educate yourself about it.
+
+Well, guys, thanks for sticking with me yet again. I will soon come up with other contents as well.
+
+Furthermore, the links in this posts are affiliate links and I might get a certain amount of commission on any purchase through the link. 
+
+I do hope you like what you read.
 
 
