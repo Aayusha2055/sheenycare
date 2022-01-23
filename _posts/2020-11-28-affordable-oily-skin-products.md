@@ -16,7 +16,7 @@ My bestfriend has oily skin as well. She suffers from breakouts to blotchiness, 
 
 The ultimate goal of any skincare rookie is to achieve healthy and glowing skin. However, this might as well question the expenses you have made so far on worthless products that failed your skin. Yes, skincare products are affordable and despite what everyone else say, they are cheap. You can build a perfect and affordable skincare routine though there is no harm in spending a huge amount of money as well.
 
-Now, if you are interested in finding if your <a href="https://www.sheenycare.com/how-to-determine-my-skin-type/" target="_blank">skin is oily</a> or not, then you have landed in the right place. You can also read about building <a href="https://www.sheenycare.com/skin-care-routine-products-oily-skin/" target="_blank">best skin care routine</a> for oily skin and enhance your knowledge on this scope. So, let’s get on with products that generally works for oily skin.
+Now, if you are interested in finding if your <a href="https://www.sheenyskincare.com/how-to-determine-my-skin-type/" target="_blank">skin is oily</a> or not, then you have landed in the right place. You can also read about building <a href="https://www.sheenyskincare.com/skin-care-routine-products-oily-skin/" target="_blank">best skin care routine</a> for oily skin and enhance your knowledge on this scope. So, let’s get on with products that generally works for oily skin.
 
 ## Best skincare products for oily skin.
 
@@ -57,9 +57,9 @@ This one is not actually fragnance free and if you're sensitive to fragnances, h
 
 ### 5. <a href="https://www.amazon.com/dp/B00IDWP4IA/ref=as_sl_pc_tf_til?tag=sheenycare-20&linkCode=w00&linkId=11431687f883e563a60b468eaa82e757&creativeASIN=B00IDWP4IA" target="_blank" rel="nofollow">InstaNatural Vitamin C Serum ($16.75)</a>
 
-The first reason I recommend this product is because I love <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">Hyaluronic Acid</a>  in my Vitamin C. Infact both of these ingredient are a must in anyone's skin care routine and well when you get them both together you should click the buy now button.
+The first reason I recommend this product is because I love <a href="https://www.sheenyskincare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">Hyaluronic Acid</a>  in my Vitamin C. Infact both of these ingredient are a must in anyone's skin care routine and well when you get them both together you should click the buy now button.
 
-The only problem acne-oily prone skin people may find with Vitamin C is that it could be slightly acidic but then Hyaluronic Acid is the perfect solution to this problem. Hyaluronic acid acts as an humectant and not as a moisturizer. Well these are two different <a href="https://www.sheenycare.com/best-face-moisturizers-all-skin-types/" target="_blank">types of moisturizers</a> that are found in skin care products. 
+The only problem acne-oily prone skin people may find with Vitamin C is that it could be slightly acidic but then Hyaluronic Acid is the perfect solution to this problem. Hyaluronic acid acts as an humectant and not as a moisturizer. Well these are two different <a href="https://www.sheenyskincare.com/best-face-moisturizers-all-skin-types/" target="_blank">types of moisturizers</a> that are found in skin care products. 
 
 <!-- <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=sheenycare-20&marketplace=amazon&region=US&placement=B00IDWP4IA&asins=B00IDWP4IA&linkId=11431687f883e563a60b468eaa82e757&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=00c5a1&bg_color=ffffff"></iframe> -->
 
@@ -88,7 +88,7 @@ It is formulated with a high concentration of Prebiotic Thermal Water, Ceramide-
 
 
 ### 8. <a href="https://www.amazon.com/dp/B00J5N0Y4U/ref=as_sl_pc_tf_til?tag=sheenycare-20&linkCode=w00&linkId=1ead0c5c470aba5ac5a25242941ec406&creativeASIN=B00J5N0Y4U" target="_blank" rel="nofollow">InstaNatural Niacinamide 5% Face Serum ($15.99)</a>
-<a href="https://www.sheenycare.com/what-is-niacinamide/" target="_blank">Niacinamide</a> is a holy grail ingredient for people with oily skin. I have already mentioned products that includes niacinamide as their key ingredients. Like vitamin C, niacinamide is also an antioxidant and you might use this on night whereas vitamin C on day time. This ingredient has anti-aging properties and it’s anti-inflammatory, so it will calm redness in your skin. It also plays well with lots of other ingredients, so you don’t have to worry about how it mixes. 
+<a href="https://www.sheenyskincare.com/what-is-niacinamide/" target="_blank">Niacinamide</a> is a holy grail ingredient for people with oily skin. I have already mentioned products that includes niacinamide as their key ingredients. Like vitamin C, niacinamide is also an antioxidant and you might use this on night whereas vitamin C on day time. This ingredient has anti-aging properties and it’s anti-inflammatory, so it will calm redness in your skin. It also plays well with lots of other ingredients, so you don’t have to worry about how it mixes. 
 
 <!-- <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=sheenycare-20&marketplace=amazon&region=US&placement=B00J5N0Y4U&asins=B00J5N0Y4U&linkId=1ead0c5c470aba5ac5a25242941ec406&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=00c5a1&bg_color=ffffff"></iframe> -->
 

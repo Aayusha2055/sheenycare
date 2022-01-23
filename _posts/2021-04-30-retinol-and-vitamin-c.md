@@ -10,7 +10,7 @@ keywords: "skincare ingredients, skincare products, retinol, vitamin C"
 description: "Retinol and vitamin C are two of the most powerful ingredients for your skin. Both are known to fight wrinkles, build collagen and fade dark spots." 
 ---
 
-Have you ever used <a href="https://www.sheenycare.com/retinol-in-skin-care-uses-benefits/" rel="dofollow" target="blank">retinol</a> or <a href="https://www.sheenycare.com/vitamin-c-benefits-for-skin/" rel="dofollow" target="blank">vitamin C</a> products? If so, what were your initial thoughts on them?
+Have you ever used <a href="https://www.sheenyskincare.com/retinol-in-skin-care-uses-benefits/" rel="dofollow" target="blank">retinol</a> or <a href="https://www.sheenyskincare.com/vitamin-c-benefits-for-skin/" rel="dofollow" target="blank">vitamin C</a> products? If so, what were your initial thoughts on them?
 
 Did you just think they were great ingredients to have in everything and that you’re too old to care about their effects?
 

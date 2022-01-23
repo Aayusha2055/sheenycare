@@ -30,7 +30,7 @@ There are several good sources of vitamin C in foods. We get vitamin C from seve
 Although we're probably getting Vitamin C from our diet we do not know whether it does go into our skin or not.
 
 # Forms of Vitamin C in Skin Care
-L-ascorbic acid is the purest and potent form of Vitamin C. It is one of the most important and commonly used <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" target="_blank">active ingredient</a> as it has a huge role in collagen synthesis.
+L-ascorbic acid is the purest and potent form of Vitamin C. It is one of the most important and commonly used <a href="https://www.sheenyskincare.com/active-ingredients-for-skin-care/" target="_blank">active ingredient</a> as it has a huge role in collagen synthesis.
 
 The other less potent derivatives of L-ascorbic acid are:
 1. Sodium Ascorbyl Phosphate
@@ -86,7 +86,7 @@ The effect of sunscreen is doubled when Vitamin C is layered underneath it. Henc
 **All skin types** need Vitamin C. 
 
 # How to use it?
-Vitamin C can be used both in the AM and PM after cleansing the skin. Furthermore, it can also be layered with acids and <a href="https://www.sheenycare.com/what-is-niacinamide/" target="_blank">niacinamide</a>.
+Vitamin C can be used both in the AM and PM after cleansing the skin. Furthermore, it can also be layered with acids and <a href="https://www.sheenyskincare.com/what-is-niacinamide/" target="_blank">niacinamide</a>.
 However, it can be irritating if used in a high percentage. Hence, if you are new to this ingredient, opt for a less potent derivative or lower percentage.
 
 # Stability of Vitamin C Serum.

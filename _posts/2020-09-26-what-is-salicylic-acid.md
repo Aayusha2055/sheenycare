@@ -45,8 +45,8 @@ Ultra-Clarifying Acne Treatment Face Oil</a>
 
 
 # Skin Care Tip Using Salicylic Acid.
-If used with <a href="https://www.sheenycare.com/what-is-niacinamide/" target="_blank">Niacinamide:</a> Salicylic Acid helps treat acne way sooner than you might have imagined. 
+If used with <a href="https://www.sheenyskincare.com/what-is-niacinamide/" target="_blank">Niacinamide:</a> Salicylic Acid helps treat acne way sooner than you might have imagined. 
 
-Learn more about other <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> at <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">Sheeny Care.</a>
+Learn more about other <a href="https://www.sheenyskincare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> at <a href="https://www.sheenyskincare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">Sheeny Care.</a>
 
 

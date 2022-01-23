@@ -26,13 +26,13 @@ If yes, then sister.. you are welcome to the Combi-Bombi club! I know a little o
 
 Does it ever happen when you use a moisturizer for normal skin, it makes your cheeks feel good, but your T-zone looks like an oil mine? We have all been there. Pat yourself, you have come a long way. Use products that are water-based and are pH balanced. 
 
-Yes, you still need to moisturize, but use a lotion that combines mattifying ingredients (<a href="https://www.sheenycare.com/what-is-salicylic-acid/" target="_blank">salicylic acid</a>, silica) with oil-free hydration (glycerin, <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">hyaluronic acid</a>). That’s a must for combination skin!
+Yes, you still need to moisturize, but use a lotion that combines mattifying ingredients (<a href="https://www.sheenyskincare.com/what-is-salicylic-acid/" target="_blank">salicylic acid</a>, silica) with oil-free hydration (glycerin, <a href="https://www.sheenyskincare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">hyaluronic acid</a>). That’s a must for combination skin!
 
 ## Pores? Did anyone say Pores?
 
 Trust me, if I hear and see anyone say I have large pores, I’m gonna take care of it. That should be your mindset. If you have pores on your T-Zone greater than the pores around your cheeks or chin then yes, you do have combination skin! 
 
-Though nothing has been proven to actually shrink pores, there is a way to make them look smaller. Dermatologists recommend applying products containing <a href="https://www.sheenycare.com/retinol-in-skin-care-uses-benefits/" target="_blank">retinol</a>, alpha hydroxy acid, or beta hydroxy acid, which help keep pores from getting clogged and at bay. Great news, isn’t it?
+Though nothing has been proven to actually shrink pores, there is a way to make them look smaller. Dermatologists recommend applying products containing <a href="https://www.sheenyskincare.com/retinol-in-skin-care-uses-benefits/" target="_blank">retinol</a>, alpha hydroxy acid, or beta hydroxy acid, which help keep pores from getting clogged and at bay. Great news, isn’t it?
 
 
 ## Does it snow? (Dandruff)

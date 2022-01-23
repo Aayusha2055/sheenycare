@@ -17,7 +17,7 @@ While there are various products in the market that you can benefit from, but yo
 This way, you will be taking care of your skin as well as avoiding products that might be not suitable for your skin.
 
 
-For that, we first need to <a href="https://www.sheenycare.com/determine-your-skin-type/" target="_blank">determine our skin type</a>. Basically, there are two easy approaches of doing so.
+For that, we first need to <a href="https://www.sheenyskincare.com/determine-your-skin-type/" target="_blank">determine our skin type</a>. Basically, there are two easy approaches of doing so.
 
 
 # The Bare-Faced Method
@@ -88,7 +88,7 @@ Dry skin type produces less sebum than normal and oily skin type. Hence, it lack
 When skin doesn't produce lot a of oil as well as does not retain enough moisture, then such skin is dry and dehydrated skin. The skin is extremely flaky, tight and appearance of fine lines and wrinkles are more visible. Water-based products help retain moisture in the skin. Also, drink plenty of water to supply water in the epidermis.
 
 ## 3.2: Dry Skin with Aging
-The skin with aging is dry and tight throughout the year. Due to the lack of elasticity and glow in the skin, the skin looks tired. Hence, such skin requires <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" target="_blank">active</a> and energising ingredients, firmimg peptides and a high concentration of AHA exfoliants to boost cellular turnover and even the skin complextion.
+The skin with aging is dry and tight throughout the year. Due to the lack of elasticity and glow in the skin, the skin looks tired. Hence, such skin requires <a href="https://www.sheenyskincare.com/active-ingredients-for-skin-care/" target="_blank">active</a> and energising ingredients, firmimg peptides and a high concentration of AHA exfoliants to boost cellular turnover and even the skin complextion.
 
 ## 3.3: Dry Skin with Damaged Skin
 The skin with damaged skin is dry and tight throughout the year. The skin is damaged due to over exposure of skin to the sun and tends to have brown spots, broken capillaries and loss of elasticity. To even out the skin tones, brightening ingredients should be used and  AHA exfoliants to boost cellular turnover.

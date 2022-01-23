@@ -28,13 +28,13 @@ AHA, a class of chemical exfoliants is good news to even sensitive skin as they 
 
 Unlike using physical exfoliators, chemical exfoliators are much gentler to the skin.
 
-### <a href="https://www.sheenycare.com/what-is-salicylic-acid/" target="_blank">Beta Hydroxy Acids (BHA): Clear Breakouts</a>
+### <a href="https://www.sheenyskincare.com/what-is-salicylic-acid/" target="_blank">Beta Hydroxy Acids (BHA): Clear Breakouts</a>
 BHA's specifically are acne-treating ingredients. Commonly used active ingredients as BHA is Salicylic Acid which a part of beta-hydroxy acid. Most of the skincare product that deals with acne and breakouts contain salicylic acid.
 
 <u>Salicylic Acid</u> is known to remove dead skin cells by getting deep into your pores and cleaning them. Because salicylic acid is a non-comedogenic ingredient, it is more likely to loosen blackheads and clear pores. Also, it is not irritating to your skin as compared to benzoyl peroxide.
 
 
-### <a href="https://www.sheenycare.com/vitamin-c-benefits-for-skin/" target="_blank">Vitamin C: Brigten Skin</a>
+### <a href="https://www.sheenyskincare.com/vitamin-c-benefits-for-skin/" target="_blank">Vitamin C: Brigten Skin</a>
 Vitamin C is found in various fruits and sold as dietary supplements. It repairs tissue and the enzymatic production of certain neurotransmitters.
 
 
@@ -44,7 +44,7 @@ Ascorbic acid is the purest and potent form of Vitamin C. It is one of the most 
 Vitamin C is a vital molecule for skin health. The antioxidant properties of vitamin C improve the efficiency of sunscreen. It is layered underneath it to help prevent and treat ultraviolet (UV)-induced photodamage.
 
 
-### <a href="https://www.sheenycare.com/retinol-in-skin-care-uses-benefits/" target="_blank">Retinol: Firm and Smooth Skin</a>
+### <a href="https://www.sheenyskincare.com/retinol-in-skin-care-uses-benefits/" target="_blank">Retinol: Firm and Smooth Skin</a>
 Retinol is a vitamin A derivative with multiple skin benefits such as skin cell turnover, unclogging pores, smooth skin, refine skin textures, and lighten age spots.
 It is known for its ability to treat fine lines, wrinkles as well as acne. It is a must-use ingredient in skincare regimen after 20.
 
@@ -55,17 +55,17 @@ Hence, Retinol can be said as "the anti-aging" ingredient that has ever been dis
 Do not be confused with Retin A and Tretinoin. Retinol is a derivative of Vitamin A whereas Retin-A and Tretinoin are vitamin A.
 
 
-### <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">Hyaluronic Acid:Hydrate</a> 
+### <a href="https://www.sheenyskincare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">Hyaluronic Acid:Hydrate</a> 
 Hyaluronic Acid has an amazing molecular property of holding up to 1,000 times its weight in water. It is a clear, silky smooth substance that is naturally produced by the body. It is able to improve the texture of the skin as well as its appearance.
 
 However, our body naturally decreases the production of Hyaluronic acid in our body after 30, which is why it is also a powerful anti-aging skincare ingredient.
 
 
-### <a href="https://www.sheenycare.com/what-is-niacinamide/" target="_blank">Niacinamide: Reudce Inflamation</a>
+### <a href="https://www.sheenyskincare.com/what-is-niacinamide/" target="_blank">Niacinamide: Reudce Inflamation</a>
 Niacinamide is a form of Vitamin B-3. It has anti-inflammatory properties and antioxidant properties making it one of the active ingredients for treating your skin. A lot of dermatologists ask you to apply topical niacinamide-based products to treat hyperpigmentation, acne, and rosacea.
 
 
-### <a href="https://www.sheenycare.com/what-is-ceramide" target="_blank">Ceramides: Improve Barrier Function</a>
+### <a href="https://www.sheenyskincare.com/what-is-ceramide" target="_blank">Ceramides: Improve Barrier Function</a>
 Ceramides are lipids that help form the skin's barrier and help the skin retain moisture. A healthy skin barrier is a must for obtaining healthy skin and ceramides help you fortify it.
 
 

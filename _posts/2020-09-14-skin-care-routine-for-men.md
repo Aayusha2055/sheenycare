@@ -10,7 +10,7 @@ description: "Skin care routine is super easy to make. Especially for men who th
 ---
 
 
-Dear Mens, if your'e new to skin care then the first and foremost thing you must do is to <a href="https://www.sheenycare.com/determine-your-skin-type/" target="_blank">determine your skin type.</a> Once you know you're skin type, it really gets easy to create a skin care routine. You will be able to choose the right skin care products based on your skin type.
+Dear Mens, if your'e new to skin care then the first and foremost thing you must do is to <a href="https://www.sheenyskincare.com/determine-your-skin-type/" target="_blank">determine your skin type.</a> Once you know you're skin type, it really gets easy to create a skin care routine. You will be able to choose the right skin care products based on your skin type.
 
 Let's look at 5 easy skin care routine for men that is super easy to use in our daily life.
 
@@ -29,7 +29,7 @@ Chemical exfoliation penetrates the skin and cleanses it from the inside.
 
 2. **Physical Exfoliation**: Physically exfoliating the skin could be very harsh to your skin. You are likely to breakout and have irritations and redness if your skin cannot tolerate it. It is suggested to use a chemical exfoliator rather than the physical one.
 
-You do not need to exfoliate the skin everyday as overusing <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" target="_blank">active ingredients</a> will not do any good to your skin.
+You do not need to exfoliate the skin everyday as overusing <a href="https://www.sheenyskincare.com/active-ingredients-for-skin-care/" target="_blank">active ingredients</a> will not do any good to your skin.
 
 ![Clinique For Men Exfoliating Tonic](/assets/images/exfoliator-for-men.webp "Clinique For Men Exfoliating Tonic")
 

@@ -20,11 +20,11 @@ Since you came across the word **"lipid matrix"** in the article, let me tell yo
 # Who needs it?
 There are two skin types that need it the most.
 
-1. <a href="https://www.sheenycare.com/dry-skin-causes-and-treatment/" target="_blank">Dry Skin</a>
+1. <a href="https://www.sheenyskincare.com/dry-skin-causes-and-treatment/" target="_blank">Dry Skin</a>
 2. Sensitive Skin
 
 # How to use it?
-Ceramide are one of the <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> that is used to treat dry and sensitive skin. Hence, this ingredient is found in barrier repair creams and moisturisers.
+Ceramide are one of the <a href="https://www.sheenyskincare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> that is used to treat dry and sensitive skin. Hence, this ingredient is found in barrier repair creams and moisturisers.
 
 # Benefits of using Ceramides.
 1. Basically, cereamides are **<a href="https://www.google.com/search?channel=fs&client=ubuntu&q=emollient" target="_blank" rel="nofollow">emollient</a>**. Therefore, it hydrates the skin by forming a protective barrier, which reduces the water loss from the skin.
@@ -40,4 +40,4 @@ Ceramide are one of the <a href="https://www.sheenycare.com/active-ingredients-f
 3. <a href="https://www.laroche-posay.us/face-and-body-skin-care/face-products/face-moisturizer/toleriane-double-repair-face-moisturizer-3337875545792.html" target="_blank" rel="nofollow">La Roche Posay Toleriane Double Repair Face Moisturizer </a>
 
 
-Learn more about other<a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> at <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">Sheeny Care.</a>
+Learn more about other<a href="https://www.sheenyskincare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> at <a href="https://www.sheenyskincare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">Sheeny Care.</a>

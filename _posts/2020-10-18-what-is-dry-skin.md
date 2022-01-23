@@ -80,9 +80,9 @@ The skin with dryness and acne is tight throughout the year along with loss of e
 ### Morning Routine
 1. **Cleanse:** Always start your morning routine by removing all the dirt and grease build up on the skin overnight. Alter between a gentle cleanse and exfoliating cleanser in the morning. You can either let your skin dry itself or pat dry it.
 
-2. **Serum:** People with dry and dehydrated skin should be using a protective formula that suits the skin type well. [Vitamin C](https://www.sheenycare.com/vitamin-c-benefits-for-skin/){:target="_blank"} serum is the one people are most obsessed with. Start with a small amount and apply it in circular motions. Keep adding a small amount until it is completely absorbed by the skin. Your skin should not feel oily or greasy after applying the moisturizer.
+2. **Serum:** People with dry and dehydrated skin should be using a protective formula that suits the skin type well. [Vitamin C](https://www.sheenyskincare.com/vitamin-c-benefits-for-skin/){:target="_blank"} serum is the one people are most obsessed with. Start with a small amount and apply it in circular motions. Keep adding a small amount until it is completely absorbed by the skin. Your skin should not feel oily or greasy after applying the moisturizer.
 
-3. **Moisturize:** Choose a rich hydrating formula that suits the skin type well. Always buy a moisturizer with [Hyaluronic Acid](https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses/){:target="_blank"}. You can alter moisturizer with neuropeptides that are soothing for irritated skin and hydrating ceramides for lightweight consistency.
+3. **Moisturize:** Choose a rich hydrating formula that suits the skin type well. Always buy a moisturizer with [Hyaluronic Acid](https://www.sheenyskincare.com/hyaluronic-acid-skin-benefits-uses/){:target="_blank"}. You can alter moisturizer with neuropeptides that are soothing for irritated skin and hydrating ceramides for lightweight consistency.
 
 4. **Sunscreen and Makeup:** Cosmetics are always the last step of any skin care routine and so is for acne-prone and dry skin care. Use hydrating and tinted sunscreen SPF of 30+ UVA protection. Always wear sunscreen before makeup. Also, use hydrating and moisturizing lip balms on your chapped lips.
 
@@ -117,5 +117,5 @@ There are great foods available for people with dry skin types.
 
 These foods are not only good for dry skin, but it is healthy for all other skin types as well. You become what you eat. And then, the skin is the largest organ of our body. So make sure, you eat well.
 
-If you have dry skin and need personal suggestions or a dry skin care regimen, check out <a href="https://www.sheenycare.com/skin-care-routine-for-dry-skin/" target="_blank">skin care routine for dry skin</a>.
+If you have dry skin and need personal suggestions or a dry skin care regimen, check out <a href="https://www.sheenyskincare.com/skin-care-routine-for-dry-skin/" target="_blank">skin care routine for dry skin</a>.
 

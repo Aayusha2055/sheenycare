@@ -54,6 +54,6 @@ Take the liquid nose job, for example, dermatologists use filler to even out bum
 
 Hyaluronic Acid has many benefits for your skin! For all skin types. If you want to learn about the magical stuff it does, you should definitely check-up with your near and dear Dermatologist.
 
-Learn more about other<a href="https://www.sheenycare.com/active-ingredients-for-skin-care/"  target="_blank">active ingredients</a> at <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" target="_blank">Sheeny Care.</a>
+Learn more about other<a href="https://www.sheenyskincare.com/active-ingredients-for-skin-care/"  target="_blank">active ingredients</a> at <a href="https://www.sheenyskincare.com/active-ingredients-for-skin-care/" target="_blank">Sheeny Care.</a>
 
 

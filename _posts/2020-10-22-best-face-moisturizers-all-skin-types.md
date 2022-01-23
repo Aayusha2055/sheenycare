@@ -9,7 +9,7 @@ image: assets/images/best-face-moisturizer.webp
 description: "The 15 best face moisturizers including the best facial moisturizers, tinted moisturizers for normal skin, oily skin, sensitive skin, and very dry skin, and best drugstore moisturizers."
 ---
 
-Finding the perfect moisturizer for your skin is not that difficult. Now that we know, how to <a href="http://www.sheenycare.com/how-to-determine-my-skin-type/" target="_blank">determine our skin type</a>, finding the right product for us gets super easy. Today we will be talking about dermatologically approved best face moisturizers for all skin types.
+Finding the perfect moisturizer for your skin is not that difficult. Now that we know, how to <a href="http://www.sheenyskincare.com/how-to-determine-my-skin-type/" target="_blank">determine our skin type</a>, finding the right product for us gets super easy. Today we will be talking about dermatologically approved best face moisturizers for all skin types.
 
 But before heading directly onto the subject matter, let's understand what a moisturizer is and why is it so important in a skin care routine.
 
@@ -168,7 +168,7 @@ Best face moisturizers recommended by Dermatologist for mature skin:
 2. <a target="_blank" href="https://www.amazon.com/gp/product/B0038COKQ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0038COKQ2&linkCode=as2&tag=sheenycare-20&linkId=22895f89e03efbacbe99489453363f22">La Roche-Posay Redermic C Anti-Wrinkle Vitamin C Moisturizer</a>
 
 # Best moisturizers for men.
-There's nothing like moisturizers is gender specific and any good moisturizer can be used by anyone. However, if you happen to be finding the right moisturizer for yourself, then you can first <a href="https://www.sheenycare.com/how-to-determine-my-skin-type/" target="_blank">determine your skin type</a> and then choose the moisturizer based on your skin concern and type. 
+There's nothing like moisturizers is gender specific and any good moisturizer can be used by anyone. However, if you happen to be finding the right moisturizer for yourself, then you can first <a href="https://www.sheenyskincare.com/how-to-determine-my-skin-type/" target="_blank">determine your skin type</a> and then choose the moisturizer based on your skin concern and type. 
 
 # Best moisturizers with SPF.
 Few best face moisturizers with SPF that suits all skin types are: 

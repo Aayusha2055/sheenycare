@@ -10,7 +10,7 @@ description: "Ordinary skin care routine for acne prone skin is effective as ord
 
 The ordinary skincare products have specific skin care routine for acne-prone skin. There treatments offer an effective clinical technologies that help you build amazing skin care routine.
 
-<a href="https://www.sheenycare.com/tags#Skin-Care-Routine" rel="dofollow" target="_blank">Skin Care Routines</a> are simple to make and follow. It is a combination of simple steps, cleanse, tone, antioxidant serums, moisturizers, and sunscreen. Ordinary has a huge range of ordinary products with <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> that target acne-prone skin. 
+<a href="https://www.sheenyskincare.com/tags#Skin-Care-Routine" rel="dofollow" target="_blank">Skin Care Routines</a> are simple to make and follow. It is a combination of simple steps, cleanse, tone, antioxidant serums, moisturizers, and sunscreen. Ordinary has a huge range of ordinary products with <a href="https://www.sheenyskincare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> that target acne-prone skin. 
 
 Let's take a dig at Ordinary Skin Care Routine for acne-prone skin.
 

@@ -9,7 +9,7 @@ description: "Skin Care Routine For Oily Skin can help reduce acne breakouts and
 ---
 
 
-To have oily skin is as normal as having skin. It is not a skin condition, rather a skin type. If you are unsure about your skin type then check this out to <a href="https://www.sheenycare.com/how-to-determine-my-skin-type/" target="_blank">determine your skin type</a>. In fact, you know it already when you’re skin is oily. That is because you feel greasy all the time.
+To have oily skin is as normal as having skin. It is not a skin condition, rather a skin type. If you are unsure about your skin type then check this out to <a href="https://www.sheenyskincare.com/how-to-determine-my-skin-type/" target="_blank">determine your skin type</a>. In fact, you know it already when you’re skin is oily. That is because you feel greasy all the time.
 
 Having oily skin is indeed a challenge because the possibility of skin issues is endless. You can have pores, you can have severe breakouts, acne can be your best friend and so many issues that need proper treatment and care. This is why a skin care routine for oily skin is very important.
 
@@ -73,7 +73,7 @@ Hence, if you feel you’re skin needs hydration, then you need to use a hydrati
 ## The best treatment for oily skin: Retinol
 Dermatologists swears by retinol and it is by far the best treatment for oily skin. Oily skin can tolerate retinol the best. It should be applied at night and slowly introduced in your skin care routine. Start using it two or three times a week for the first month. It is a drying ingredient so go slow with this product and gradually increase the use. 
 
-Retinol is a powerful active ingredient that has so many purposes. From dealing with acne to dark spots, fine lines and wrinkles, retinol literally helps you age back. If you're interested to find a single solution for your skin issues, retinol is the one you should opt for. If you're impressed as well by this ingredient, learn <a href="https://www.sheenycare.com/retinol-in-skin-care-uses-benefits/" target="_blank">how to incorporate retinol in your skin care routine</a>.
+Retinol is a powerful active ingredient that has so many purposes. From dealing with acne to dark spots, fine lines and wrinkles, retinol literally helps you age back. If you're interested to find a single solution for your skin issues, retinol is the one you should opt for. If you're impressed as well by this ingredient, learn <a href="https://www.sheenyskincare.com/retinol-in-skin-care-uses-benefits/" target="_blank">how to incorporate retinol in your skin care routine</a>.
 
 1. <a href="https://www.cerave.com/skincare/serums/resurfacing-retinol-serum" target="_blank" rel="nofollow">CeraVe Resurfacing Retinol Serum.</retinol>
 2. <a href="https://www.laroche-posay.us/face-and-body-skin-care/face-products/face-serum/retinol-b3-pure-retinol-serum-3337875694469.html" target="_blank" rel="nofollow">La Roche Posay Retinol B3 Pure Retinol Serum.</a>

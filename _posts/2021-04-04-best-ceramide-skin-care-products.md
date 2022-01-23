@@ -16,7 +16,7 @@ I felt as if ceramide suddenly was a very big deal. Yes, I mean it is, but still
 
 First and foremost, here’s a blog that I’ve already written about ceramide.
 
-<a href="https://www.sheenycare.com/what-is-ceramide/" rel="dofollow" target="_blank">Everything you need to know about Ceramides is here.</a>
+<a href="https://www.sheenyskincare.com/what-is-ceramide/" rel="dofollow" target="_blank">Everything you need to know about Ceramides is here.</a>
 
 Regardless, I’ll still give a heads up on the subject matter.
 
@@ -38,7 +38,7 @@ This moisturizer is the best. I’ve said so many times and I say it again.
 
 This special formula works for all skin types. It is an oil-free face moisturizer that helps hydrate and restores healthy-looking skin.
 
-It is formulated with a high concentration of prebiotic thermal water, Ceramide-3, <a href="https://www.sheenycare.com/what-is-niacinamide/" target="_blank" rel="dofollow">Niacinamide</a> & Glycerin. 
+It is formulated with a high concentration of prebiotic thermal water, Ceramide-3, <a href="https://www.sheenyskincare.com/what-is-niacinamide/" target="_blank" rel="dofollow">Niacinamide</a> & Glycerin. 
 
 This product is suitable for your gentle face and hands. And the best part is they have tested it on sensitive skin.
 

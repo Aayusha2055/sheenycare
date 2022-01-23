@@ -129,11 +129,11 @@ Take a little amount of eye cream on your fingertip and apply it from the inner 
 ![Best Korean Eye Cream ](/assets/images/best-korean-eyecream.webp "Best Korean Eye Cream ")
 
 ### Step 7: Apply Moisturiser
-Once you are done with applying eye cream, take a generous amount of moisturizer to apply on the face. The <a href="https://www.sheenycare.com/best-face-moisturizers-all-skin-types/" target="_blank">universal law of applying the moisturizer</a> is to take enough quantity you need for yourselves and warm it first in your palms.
+Once you are done with applying eye cream, take a generous amount of moisturizer to apply on the face. The <a href="https://www.sheenyskincare.com/best-face-moisturizers-all-skin-types/" target="_blank">universal law of applying the moisturizer</a> is to take enough quantity you need for yourselves and warm it first in your palms.
 
 Firstly, take a good amount of the product. Secondly, rub them in between your hands and finally tap the product in the face. Most importantly, do not rub the product on your face, instead, massage gently all over your face and neck.
 
-If you have <a href="https://www.sheenycare.com/what-is-dry-skin/" target="_blank">dry skin</a> then always choose a cream-based moisturizer for yourself, and if you have <a href="https://www.sheenycare.com/skin-care-routine-products-oily-skin/" target="_blank">oily skin</a> use a water-based moisturizer.
+If you have <a href="https://www.sheenyskincare.com/what-is-dry-skin/" target="_blank">dry skin</a> then always choose a cream-based moisturizer for yourself, and if you have <a href="https://www.sheenyskincare.com/skin-care-routine-products-oily-skin/" target="_blank">oily skin</a> use a water-based moisturizer.
 
 ### Which product to try?
 * <a href="https://www.amazon.com/dp/B01CLTKI4A/ref=as_sl_pc_tf_til?tag=sheenycare-20&linkCode=w00&linkId=53bf1562fcd7a6ce5b24d3e1ce6e157b&creativeASIN=B01CLTKI4A" target="_blank" rel="nofollow">Cosrx Oil-Free Ultra-Moisturizing Lotions with Birch Sap (for oily skin)</a>
@@ -159,7 +159,7 @@ Always choose a sunscreen with SPF 30 or greater than that. Along with eye cream
 ![Best Korean Sunscreen](/assets/images/best-korean-sunscreen.webp "Best Korean Sunscreen")
 
 ## Does Korean skincare work?
-Developing a skincare routine that really works for your skin along with your lifestyle is diligent. And talk about all other factors like your <a href="https://www.sheenycare.com/how-to-determine-my-skin-type/" target="_blank">skin type</a>, age, and stress you take, or even the environment you’re living in.
+Developing a skincare routine that really works for your skin along with your lifestyle is diligent. And talk about all other factors like your <a href="https://www.sheenyskincare.com/how-to-determine-my-skin-type/" target="_blank">skin type</a>, age, and stress you take, or even the environment you’re living in.
 
 So it all comes down to experimenting with what really works for you. That being said, Korean skincare products and routines may or may not work for you.
 

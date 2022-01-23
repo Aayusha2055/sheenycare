@@ -9,7 +9,7 @@ description: "Niacinamide in skin care reduces the appearance of skin blemishes 
 ---
 
 
-Have you started using <a href="https://www.sheenycare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> in your skin care routine or are you yet to do that? To be honest, science doesn't lie. A lot of research backs up these ingredients in order to safely use them in our skin care regimen.
+Have you started using <a href="https://www.sheenyskincare.com/active-ingredients-for-skin-care/" rel="dofollow" target="_blank">active ingredients</a> in your skin care routine or are you yet to do that? To be honest, science doesn't lie. A lot of research backs up these ingredients in order to safely use them in our skin care regimen.
 
 
 So, today's topic is using **Niacinamide** in a skin care routine. How many of you have heard about this ingredient? If yes, how many of you have already started incorporating it in your skin care routine?

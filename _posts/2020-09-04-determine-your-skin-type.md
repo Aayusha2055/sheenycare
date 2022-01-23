@@ -10,7 +10,7 @@ description: "If your skin is tight, your skin is dry. If your skin feels oily i
 ---
 A lot of people really strugggle with this one. Not identifying one's skin type is a bigger threat to your skin because you may be using the wrong products.
 
-To this problem of yours, there's a very simple [solution](https://www.sheenycare.com/how-to-determine-my-skin-type/){:target="_blank"}.
+To this problem of yours, there's a very simple [solution](https://www.sheenyskincare.com/how-to-determine-my-skin-type/){:target="_blank"}.
 
 # The Bare Faced Method
 Take a good amount of cleanser and clean your face for a minute. Wash off with normal water and wait for an hour.
@@ -19,10 +19,10 @@ Take a good amount of cleanser and clean your face for a minute. Wash off with n
 
 There are basically three conditions your face might be in after waiting for an hour.
 
-# Signs of [Oily Skin](https://www.sheenycare.com/skin-care-routine-products-oily-skin/){:target="_blank"}
+# Signs of [Oily Skin](https://www.sheenyskincare.com/skin-care-routine-products-oily-skin/){:target="_blank"}
 Your skin feels moisturized and sticky without applying any products.
 
-# Signs of [Dry Skin](https://www.sheenycare.com/dry-skin-causes-and-treatment/){:target="_blank"}
+# Signs of [Dry Skin](https://www.sheenyskincare.com/dry-skin-causes-and-treatment/){:target="_blank"}
 You skin feels tight and strippy and 
 
 # Signs of [Combination skin](https://sheenycare.com/seven-signs-you-have-combination-skin/){:target="_blank"}

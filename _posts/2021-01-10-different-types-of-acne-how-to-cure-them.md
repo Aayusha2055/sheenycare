@@ -81,7 +81,7 @@ Clogged pores cause acne. The types of acne that you may experience under non-in
 
 The key ingredient that is used to treat non-inflammatory acne is Salicylic Acid. Salicylic acid helps deep cleanse the pores by exfoliating them.
 
-Check Out: <a href="https://www.sheenycare.com/what-is-salicylic-acid/" target="_blank">What salicylic acid is and why you must have it for treating acne.
+Check Out: <a href="https://www.sheenyskincare.com/what-is-salicylic-acid/" target="_blank">What salicylic acid is and why you must have it for treating acne.
 
 ### Blackheads (open comedones)
 Blackheads are the result of a combination of dead skin cells and excess sebum production. Well, to identify if you have blackheads or not, refer to the following picture.

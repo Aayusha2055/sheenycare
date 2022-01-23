@@ -8,7 +8,7 @@ image: assets/images/skincareroutinefordryskin.webp
 description: "If you have dry skin, you might notice small fine flakes, cracking and dry patches in your skin. Skin care routine for dry skin should be peculiar, protecting your skin in the morning and hydrating it in the evening."
 ---
 
-Medically known as Xerosis, <a href="https://www.sheenycare.com/dry-skin-causes-and-treatment/" target="_blank">dry skin</a> is not usually serious and is caused by the temperature and humidity level around you. If you have dry skin, you might notice small fine flakes, cracking, and dry patches in your skin.
+Medically known as Xerosis, <a href="https://www.sheenyskincare.com/dry-skin-causes-and-treatment/" target="_blank">dry skin</a> is not usually serious and is caused by the temperature and humidity level around you. If you have dry skin, you might notice small fine flakes, cracking, and dry patches in your skin.
 
 You should protect your skin in the morning and hydrate it in the evening that is why you need to have a proper skincare routine for dry skin. Hence, the skin condition could get worst if you do not add a skincare routine for your dry skin.
 
@@ -17,7 +17,7 @@ You should protect your skin in the morning and hydrate it in the evening that i
 ### Hydrating Cleanser:
 Use a very gentle but hydrating cleanser for about a minute to cleanse your skin. Something as gentle as the Himalaya moisturizing aloe vera face wash is a blessing to your skin. And if you would want to steep a little high, opt for a Cetaphil gentle skin cleanser. Just make sure the product you’re using doesn’t let your skin feel tight and stripping after the wash.
 
-<a href="https://www.sheenycare.com/cerave-hydrating-facial-cleanser/" target="_blank">CeraVe's Hydrating Facial Cleanser</a>, which includes <a href="https://www.sheenycare.com/what-is-ceramide/" target="_blank">ceramides</a> and <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses/" target="_blank">hyaluronic acid</a>, has been internationally renowned today and seems to be the favorite cleanser for all. And for those who suffer from redness, consider products with <a href="https://www.sheenycare.com/what-is-niacinamide/" target="_blank">niacinamide</a> as it aids with inflammation. A lot of people use these products in their skincare routine today.
+<a href="https://www.sheenyskincare.com/cerave-hydrating-facial-cleanser/" target="_blank">CeraVe's Hydrating Facial Cleanser</a>, which includes <a href="https://www.sheenyskincare.com/what-is-ceramide/" target="_blank">ceramides</a> and <a href="https://www.sheenyskincare.com/hyaluronic-acid-skin-benefits-uses/" target="_blank">hyaluronic acid</a>, has been internationally renowned today and seems to be the favorite cleanser for all. And for those who suffer from redness, consider products with <a href="https://www.sheenyskincare.com/what-is-niacinamide/" target="_blank">niacinamide</a> as it aids with inflammation. A lot of people use these products in their skincare routine today.
 
 
 > **Cleansing Tip for extremely dry skin:**

@@ -14,7 +14,7 @@ Hello readers, today I am writing on dry skin yet again and if you have one, I c
 
 But then you must be saying, “Oh, what is she even talking about, she is a skincare blogger, she must have great skin!”. I’m afraid I don’t because my skin sucks as well. As a skincare blogger, I care for my skin but in reality, my skin is as messed up as everyone else’s. Well, my condition is genetic and nothing actually works for me other than constant care and effort.
 
-If your <a href="https://www.sheenycare.com/how-to-determine-my-skin-type/" target="_blank">skin is dry</a> or if you wish to find it out, then you have landed in the right place. You can also read about building the <a href="https://www.sheenycare.com/what-is-dry-skin/" target="_blank">best skin care routine</a> for dry skin and enhance your knowledge on this scope. Now let’s get on with products that generally work for dry skin.
+If your <a href="https://www.sheenyskincare.com/how-to-determine-my-skin-type/" target="_blank">skin is dry</a> or if you wish to find it out, then you have landed in the right place. You can also read about building the <a href="https://www.sheenyskincare.com/what-is-dry-skin/" target="_blank">best skin care routine</a> for dry skin and enhance your knowledge on this scope. Now let’s get on with products that generally work for dry skin.
 
 ## Best skincare products for dry skin.
 
@@ -26,7 +26,7 @@ Cetaphil gentle skin cleanser can be used daily to gently clean, hydrate, and so
 ### 2. <a href="https://www.amazon.com/dp/B01MSSDEPK/ref=as_sl_pc_tf_til?tag=sheenycare-20&linkCode=w00&linkId=4cba6458ea95de36dab25f8fe88aac73&creativeASIN=B01MSSDEPK" target="_blank" rel="nofollow">CeraVe Hydrating Facial Cleanser ($14.64)</a>
 Remember when Cerave was super hyped? Like everyone was talking about it. Every dermatologist on Instagram and TikTok was going crazy about it, skincare estheticians couldn’t stop recommending it? That is when I decided to buy one no matter what.
 
-This gentle cleansing lotion contains <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">hyaluronic acid</a>, essential <a href="https://www.sheenycare.com/what-is-ceramide" target="_blank">ceramides</a>, and glycerin to help hydrate skin without stripping out the moisture. It helps in removing makeup, dirt, and excess oil. It also provides 24-hour hydration and leaves a moisturized, non-greasy feel as it has lotion-like consistency which makes the skin feel smooth as it cleanses.
+This gentle cleansing lotion contains <a href="https://www.sheenyskincare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">hyaluronic acid</a>, essential <a href="https://www.sheenyskincare.com/what-is-ceramide" target="_blank">ceramides</a>, and glycerin to help hydrate skin without stripping out the moisture. It helps in removing makeup, dirt, and excess oil. It also provides 24-hour hydration and leaves a moisturized, non-greasy feel as it has lotion-like consistency which makes the skin feel smooth as it cleanses.
 
 
 ![Cerave Hydrating Facial Cleanser](/assets/images/cerave-hydrating-cleansers.webp "Cerave Hydrating Facial Cleanser")
@@ -44,7 +44,7 @@ This one is not actually fragrance free and if you’re sensitive to fragrances,
 
 ### 4. <a href="https://www.amazon.com/dp/B00IDWP4IA/ref=as_sl_pc_tf_til?tag=sheenycare-20&linkCode=w00&linkId=11431687f883e563a60b468eaa82e757&creativeASIN=B00IDWP4IA" target="_blank" rel="nofollow">InstaNatural Vitamin C Serum ($16.75)</a>
 
-I have said this so many times, and I will repeat it, that I love <a href="https://www.sheenycare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">Hyaluronic Acid</a>  in my Vitamin C. In fact both of this ingredient are a must in anyone’s skincare routine well when you get them both together you should click the buy now button. This was the first and special ingredient I added to my skincare routine after I turned 18.
+I have said this so many times, and I will repeat it, that I love <a href="https://www.sheenyskincare.com/hyaluronic-acid-skin-benefits-uses" target="_blank">Hyaluronic Acid</a>  in my Vitamin C. In fact both of this ingredient are a must in anyone’s skincare routine well when you get them both together you should click the buy now button. This was the first and special ingredient I added to my skincare routine after I turned 18.
 
 ![InstaNatural Vitamin C Serum ](/assets/images/instanaturalvitc.webp "InstaNatural Vitamin C Serum ")
 
