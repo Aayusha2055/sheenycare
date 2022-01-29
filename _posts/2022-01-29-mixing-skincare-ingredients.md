@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Skincare Ingredients You Should Never Mix"
+title:  "Skincare Ingredients You Should Never Mixgi"
 heading: "Skincare Ingredients You Should and Shouldn't mix"
 author: Aayusha
 categories: [ Skin Care ]
 tags: [Active Skin Care Ingredients]
+date: 2022-01-29 22:53:00 +0700
 image: assets/images/skincare-ingredients-that-don't-go-well-together.png
 keywords: "skincare ingredients, skincare products, retinol, vitamin C"
 description: "Retinol, Niacinamide, Vitamin C, AHA and BHA are most powerful skincare ingredients. Is it ok to mix different skincare ingredients together? " 
