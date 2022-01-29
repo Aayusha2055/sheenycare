@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Skincare Ingredients You Should and Shouldn't mix"
-heading: "Skincare Ingredients You Should Never Mix"
+title:  "Skincare Ingredients You Should Never Mix"
+heading: "Skincare Ingredients You Should and Shouldn't mix"
 author: Aayusha
 categories: [ Skin Care ]
 tags: [Active Skin Care Ingredients]
