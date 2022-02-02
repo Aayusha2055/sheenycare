@@ -42,6 +42,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
+  - jekyll-include-cache
     
 # Archives
 jekyll-archives:
@@ -81,3 +82,4 @@ sass:
   style: compressed
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+excerpt_separator: ""
