@@ -42,7 +42,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-  - jekyll-include-cache
     
 # Archives
 jekyll-archives:
