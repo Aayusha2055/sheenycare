@@ -15,15 +15,15 @@ Maybe you've been told to wear light clothing and have suffered the burn, or may
 
 Well, here's my story: I knew summer was around the corner and I had to visit my dermatologist.
 
-I finally made an appointment last Sunday. She then prescribed me one the best sunscreens for the face. 
+I finally made an appointment last Sunday.  
 
-That made me think maybe sunscreen could probably be the solution to your messed-up life too and perhaps a liter or two of water.
+This made me think maybe sunscreen could probably be the solution to your messed-up life too and perhaps a liter or two of water.
 
-The list i've prepared is sunscreens that are suggested by my dermatologist. Let’s start with the basics and then we will get to the products.
+Let’s start with the basics and then we will get to the products.
 
-One of the most important things people should understand is: <b>regardless of whether we need sunscreen.</b>
+One of the most important thing you should understand is: <b>regardless of weather we need sunscreen.</b>
 
-The sun doesn’t disappear all of a sudden when it’s gloomy or cloudy. The sun is there and so are its powerful UV rays. Applying and reapplying sunscreen will prevent your skin from:
+The sun doesn’t disappear all of a sudden whether it’s gloomy or cloudy. The sun is there and so are its powerful UV rays. Applying and reapplying sunscreen will prevent your skin from:
 
 * Painful sunburns
 * Skin cancer
