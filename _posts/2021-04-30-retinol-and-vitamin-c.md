@@ -141,4 +141,4 @@ If you click on some of the links, I'll assume you're interested in the product 
 
 I hope you found something helpful. If you did, then I've accomplished my goal. Thank you for your time.
 
-So, feel free to read on and help me out by following me on Pinterest: @sheenycare.
+So, feel free to read on and help me out by following me on Pinterest: <a target="_blank" href="www.pinterest.com/sheenycare/"> @sheenycare</a>.
